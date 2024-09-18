@@ -1,0 +1,229 @@
+[
+    {
+      "id": 2,
+      "title": "11.8.77, 10pm, Radio 4",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1977-8-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.77_Anti-racist_march.jpg", "description": "This image shows the march", "alt": "This image talks about the march" }
+      ],
+      "content": "This seems to be the first time the word ‘anti-racist’ is reported on this BBC radio service (Radio 4).  Why do you think it is only in 1977 that this word is used on one of the most popular radio news bulletins in the country? And what do you think of this word being used in connection with the National Front?"
+    },
+    {
+      "id": 3,
+      "title": "10.07.1964, Home Service",
+      "theme": "anti-racism",
+      "date": "1965-7-10",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/10.7.64_Malcolm_X.jpg", "description": "Description 1", "alt":"Malcolm X" }
+      ],
+      "content": ""
+    },
+    {
+      "id": 4,
+      "title": "14.02.1965, 6pm, Malcolm X, Home Service",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1965-02-14",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_2.jpg", "description": "Description 2" }
+      ],
+      "content": "In the section about the use of language of the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation:  Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval) And yet in the context of 1960s Black activism the word is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure."
+    },
+    {
+      "id": 5,
+      "title": "21.2.65 Malcolm X for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1965-02-21",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_1.jpg", "description": "Description 1" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_2.jpg", "description": "Description 2" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page 3.jpg", "description": "Description 3" }
+      ],
+      "content": "The 1967 BBC News Style Guide notes this about obituaries:The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. o you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+    },
+    {
+      "id": 6,
+      "title": "24.7.67 Carmichael for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-24",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "27.7.67 23:00 Racialists for 11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-27",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ],
+      "content": "As you can see in this original news script, the title of this item is ‘Racialists’.‘Labelling’ news items has been useful for news organisation but it can also be revealing of BBC’s own views and bias. In this case, R4 has classified both Stokely Carmichael and Michael de Freitas as ‘racialists’. They have also chosen to follow this report with a news item about race riots in Detroit.How do you think these editorial decisions shape the focus and tone of the news script?"
+    }, 
+    {
+      "id": 8,
+      "title": "11.8.1967 Freitas for 6pm",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1967-08-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.67_Freitas'_arrest.jpg"}
+      ],
+      "content": "Why do you think the last sentence of this news script has been crossed out?"
+    }, 
+    {
+      "id": 9,
+      "title": "20.8.67 Title Racial for 1pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-08-20",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_1.jpg"},
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_2.jpg"}
+      ],
+      "content": "The 1967 BBC News Style Guide includes no guidance on the use of the word ‘negro’. Based on our research, the word is hardly used around this time on R4, and when it is, it is in reference to a US news story, like in this script. How do you think this report may have sounded to Black listeners in the UK at the time?  t?"
+    },
+  {
+    "id": 11,
+    "title": "3.12.1967 Card Conference",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1967-12-03",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page 1.jpg"},
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page_2.jpg"}
+    ],
+    "content": "This is a dense article about the divisions within the Campaign Against Racial Discrimination (CARD). Read about the birth of CARD in this 1964 newspaper article. How impartial, do you think, the reporting on this division is? Does it suffice to identify Dr. David Pitt in principally ethnic terms? Does the article offer a fair representation of the views of the two key figures in this dispute, Mr Anthony Lester and Dr. David Pitt?"
+  },
+  {
+    "id": 12,
+    "title": "11.9.69 BLACK POWER for 1.00 p.m",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-11",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 13,
+    "title": "12.9.69 BLACK POWER FOR 11 P.M.  ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-12",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 14,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-18",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 15,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-17",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 16,
+    "title": "21.4.70 TITLE INITIALS TRINIDAD FOR 6.00 p.m.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-21",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/21.4.70_Trinidad_and_Black Power.jpg"}
+    ],
+    "content": "Are we told the reasons why Black Power demonstrations have led to declaring a state of emergency in Trinidad? "
+  }, 
+  {
+    "id": 17,
+    "title": " 27.4.70 TITLE BLACK POWER for 10pm.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-27",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_1.jpg"}, 
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_2.jpg"}
+    ],
+    "content": "How does the coverage of this court case compare with the one about Michael Malik (18.4.1970)?"
+  },
+  {
+    "id": 19,
+    "title": "8.9.1970 Black Power Man for 7, 8, 9am",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-09-08",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/8.9.70_Enos Beach.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 20,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 21,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "education",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 22,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "art",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 23,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "education",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }
+
+  ]
+
+  
