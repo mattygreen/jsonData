@@ -189,6 +189,39 @@
       {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
     ],
     "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 21,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "education",
+    "time": "6pm",
+    "date": "1970",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 22,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "art",
+    "time": "6pm",
+    "date": "1970",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 23,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "art",
+    "time": "6pm",
+    "date": "1970",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
   }
 
   ]
