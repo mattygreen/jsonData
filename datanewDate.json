@@ -222,7 +222,29 @@
       {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
     ],
     "content": "why is this newsworthy?"
+  },
+  {
+    "id": 24,
+    "title": "1965",
+    "theme": "labels",
+    "date": "1965-01-01"
+  }, 
+
+  {
+    "id": 25,
+    "title": "1970",
+    "theme": "labels",
+    "date": "1970-01-01"
+  }, 
+
+
+  {
+    "id": 26,
+    "title": "1975",
+    "theme": "labels",
+    "date": "1970-01-01"
   }
+
 
   ]
 
