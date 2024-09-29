@@ -250,7 +250,7 @@
 
   {
     "id": 29,
-    "title": "Dummy Data 6",
+    "title": "1992 Dummy Data 6",
     "theme": "example",
     "time": "16:42",
     "date": "1992-01-01",
@@ -291,6 +291,31 @@
     "title": "1975",
     "theme": "labels",
     "date": "1975-01-01"
+  }, 
+  {
+    "id": 30,
+    "title": "1980",
+    "theme": "labels",
+    "date": "1980-01-01"
+  },
+
+  {
+    "id": 31,
+    "title": "1985",
+    "theme": "labels",
+    "date": "1985-01-01"
+  },
+  {
+    "id": 32,
+    "title": "1985",
+    "theme": "labels",
+    "date": "1990-01-01"
+  }
+  {
+    "id": 33,
+    "title": "1995",
+    "theme": "labels",
+    "date": "1995-01-01"
   }
 
 
