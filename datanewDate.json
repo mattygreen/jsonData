@@ -313,7 +313,98 @@
     "title": "1995",
     "theme": "labels",
     "date": "1995-01-01"
+  }, 
+  {
+    "id": 34,
+    "title": " 10.1.1948 Australia-immigration for 6pm",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-01-10",
+    "TranscriptImages": [
+      { "image": "images/arrivals/10.1.48_British migrants_in_Australia.jpg"}
+    ],
+    "content": "Who does the report seem to lay the blame of the problem of the ‘homeless British migrant family’ on? The British, or Australian authorities? Or, the migrants themselves? The report notes that ‘there were British families who sold their homes to raise the fare to Australia...’ highlighting the sacrifices these migrants make."
+  }, 
+  {
+    "id": 35,
+    "title": "25.5.1948: Liner Aquitania for 9am",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as “dollar -tourists”?"
+  }, 
+  {
+    "id": 36,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am",
+    "theme": "arrivals",
+    "time": "9am",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as 'dollar -tourists'"
+  }, 
+
+  {
+    "id": 37,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am  ",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1948-05-27",
+    "TranscriptImages": [
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}, 
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}
+    ],
+    "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
+  },
+  {
+    "id": 38,
+    "title": "15.2.1949: Australian immigration for 1pm",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-02-15",
+    "TranscriptImages": 
+      { "image": "images/arrivals/15.2.49_Australian_immigration.jpg"}, 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations?"
+  }, 
+  {
+    "id": 39,
+    "title": "26.6.1949: West Indians for 9am",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-06-26",
+    "TranscriptImages": 
+      { "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}, 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations? <br> <br>  how pupils of the King’s Leadership Academy in Liverpool have re-written this report", 
+    "audiofile": "audio/Radioclipdemo1.mp3",
+    "audiocontent": "Clapback Podcast"
+  }, 
+
+  {
+    "id": 40,
+    "title": "4.11.1949:  Immigrants for 6pm ",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-11-04",
+    "TranscriptImages": 
+      [{ "image": "images/arrivals/4.11.49_Immigrants_page_1.jpg"},
+      { "image": "images/arrivals/4.11.49_Immigrants_page_2.jpg"}
+     ],
+    "content": "At the time of this news report the term ‘alien’ referred to refugees. The report frames immigration in terms such as ‘the country being swamped by foreigners’ and Britain as a safe haven for political refugees. The quote by the Home Office official stresses who a ‘deserving refugee’ may be.  "
   }
+
+
+
+
+
+
+
+
+
+
 
 
   ]
