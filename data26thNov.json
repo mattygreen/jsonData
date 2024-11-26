@@ -1,0 +1,513 @@
+[
+    {
+      "id": 2,
+      "title": "11.8.77, 10pm, Radio 4",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1977-8-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.77_Anti-racist_march.jpg", "description": "This image shows the march", "alt": "This image talks about the march" }
+      ],
+      "content": "This seems to be the first time the word ‘anti-racist’ is reported on this BBC radio service (Radio 4).  Why do you think it is only in 1977 that this word is used on one of the most popular radio news bulletins in the country? And what do you think of this word being used in connection with the National Front?"
+    },
+    {
+      "id": 3,
+      "title": "10.07.1964, Home Service",
+      "theme": "anti-racism",
+      "date": "1965-7-10",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/10.7.64_Malcolm_X.jpg", "description": "Description 1", "alt":"Malcolm X" }
+      ],
+      "content": ""
+    },
+    {
+      "id": 4,
+      "title": "14.02.1965, 6pm, Malcolm X, Home Service",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1965-02-14",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_2.jpg", "description": "Description 2" }
+      ],
+      "content": "In the section about the use of language of the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation:  Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval) And yet in the context of 1960s Black activism the word is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure."
+    },
+    {
+      "id": 5,
+      "title": "21.2.65 Malcolm X for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1965-02-21",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_1.jpg", "description": "Description 1" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_2.jpg", "description": "Description 2" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page 3.jpg", "description": "Description 3" }
+      ],
+      "content": "The 1967 BBC News Style Guide notes this about obituaries:The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. o you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+    },
+    {
+      "id": 6,
+      "title": "24.7.67 Carmichael for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-24",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "27.7.67 23:00 Racialists for 11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-27",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ],
+      "content": "As you can see in this original news script, the title of this item is ‘Racialists’.‘Labelling’ news items has been useful for news organisation but it can also be revealing of BBC’s own views and bias. In this case, R4 has classified both Stokely Carmichael and Michael de Freitas as ‘racialists’. They have also chosen to follow this report with a news item about race riots in Detroit.How do you think these editorial decisions shape the focus and tone of the news script?"
+    }, 
+    {
+      "id": 8,
+      "title": "11.8.1967 Freitas for 6pm",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1967-08-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.67_Freitas'_arrest.jpg"}
+      ],
+      "content": "Why do you think the last sentence of this news script has been crossed out?"
+    }, 
+    {
+      "id": 9,
+      "title": "20.8.67 Title Racial for 1pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-08-20",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_1.jpg"},
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_2.jpg"}
+      ],
+      "content": "The 1967 BBC News Style Guide includes no guidance on the use of the word ‘negro’. Based on our research, the word is hardly used around this time on R4, and when it is, it is in reference to a US news story, like in this script. How do you think this report may have sounded to Black listeners in the UK at the time?  t?"
+    },
+  {
+    "id": 11,
+    "title": "3.12.1967 Card Conference",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1967-12-03",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page 1.jpg"},
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page_2.jpg"}
+    ],
+    "content": "This is a dense article about the divisions within the Campaign Against Racial Discrimination (CARD). Read about the birth of CARD in this 1964 newspaper article. How impartial, do you think, the reporting on this division is? Does it suffice to identify Dr. David Pitt in principally ethnic terms? Does the article offer a fair representation of the views of the two key figures in this dispute, Mr Anthony Lester and Dr. David Pitt?"
+  },
+  {
+    "id": 12,
+    "title": "11.9.69 BLACK POWER for 1.00 p.m",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-11",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 13,
+    "title": "12.9.69 BLACK POWER FOR 11 P.M.  ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-12",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 14,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-18",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 15,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-17",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 16,
+    "title": "21.4.70 TITLE INITIALS TRINIDAD FOR 6.00 p.m.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-21",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/21.4.70_Trinidad_and_Black Power.jpg"}
+    ],
+    "content": "Are we told the reasons why Black Power demonstrations have led to declaring a state of emergency in Trinidad? "
+  }, 
+  {
+    "id": 17,
+    "title": " 27.4.70 TITLE BLACK POWER for 10pm.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-27",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_1.jpg"}, 
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_2.jpg"}
+    ],
+    "content": "How does the coverage of this court case compare with the one about Michael Malik (18.4.1970)?"
+  },
+  {
+    "id": 19,
+    "title": "8.9.1970 Black Power Man for 7, 8, 9am",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-09-08",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/8.9.70_Enos Beach.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 20,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 21,
+    "title": "Dummy Data 1",
+    "theme": "education",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 22,
+    "title": "Dummy Data 2",
+    "theme": "art",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 23,
+    "title": "dummy data 3",
+    "theme": "riots",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+
+  {
+    "id": 27,
+    "title": "dummy data 4",
+    "theme": "education",
+    "time": "6pm",
+    "date": "2007-03-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+  {
+    "id": 28,
+    "title": "dummy data 5",
+    "theme": "education",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  },
+
+
+  {
+    "id": 29,
+    "title": "1992 Dummy Data 6",
+    "theme": "education",
+    "time": "16:42",
+    "date": "1992-01-01",
+    "TranscriptImages": [
+        { "image": "images/Newcrossfire1.png", "description": "This image shows  1", "alt": "alt text for image 1" }
+    ],
+    "audiofile": "audio/Radioclipdemo1.mp3",
+    "audiocontent": "Clapback Podcast"
+},
+
+
+
+
+
+
+
+
+  {
+    "id": 24,
+    "title": "1965",
+    "theme": "labels",
+    "date": "1965-01-01"
+  }, 
+
+  {
+    "id": 25,
+    "title": "1970",
+    "theme": "labels",
+    "date": "1970-01-01"
+  }, 
+
+
+  {
+    "id": 26,
+    "title": "1975",
+    "theme": "labels",
+    "date": "1975-01-01"
+  }, 
+  {
+    "id": 30,
+    "title": "1980",
+    "theme": "labels",
+    "date": "1980-01-01"
+  },
+
+  {
+    "id": 31,
+    "title": "1985",
+    "theme": "labels",
+    "date": "1985-01-01"
+  },
+  {
+    "id": 32,
+    "title": "1990",
+    "theme": "labels",
+    "date": "1990-01-01"
+  },
+  {
+    "id": 33,
+    "title": "1995",
+    "theme": "labels",
+    "date": "1995-01-01"
+  }, 
+  {
+    "id": 34,
+    "title": " 10.1.1948 Australia-immigration for 6pm",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-01-10",
+    "TranscriptImages": [
+      { "image": "images/arrivals/10.1.48_British migrants_in_Australia.jpg"}
+    ],
+    "content": "Who does the report seem to lay the blame of the problem of the ‘homeless British migrant family’ on? The British, or Australian authorities? Or, the migrants themselves? The report notes that ‘there were British families who sold their homes to raise the fare to Australia...’ highlighting the sacrifices these migrants make."
+  }, 
+  {
+    "id": 35,
+    "title": "25.5.1948: Liner Aquitania for 9am",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as “dollar -tourists”?"
+  }, 
+  {
+    "id": 36,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am",
+    "theme": "arrivals",
+    "time": "9am",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as 'dollar -tourists'"
+  }, 
+
+  {
+    "id": 37,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am  ",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1948-05-27",
+    "TranscriptImages": [
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}, 
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}
+    ],
+    "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
+  },
+  {
+    "id": 38,
+    "title": "15.2.1949: Australian immigration for 1pm",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-02-15",
+    "TranscriptImages": 
+      { "image": "images/arrivals/15.2.49_Australian_immigration.jpg"}, 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations?"
+  }, 
+  {
+    "id": 39,
+    "title": "26.6.1949: West Indians for 9am",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-06-26",
+    "TranscriptImages": 
+      { "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}, 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations? <br> <br>  how pupils of the King’s Leadership Academy in Liverpool have re-written this report", 
+    "audiofile": "audio/Radioclipdemo1.mp3",
+    "audiocontent": "Clapback Podcast"
+  }, 
+
+  {
+    "id": 40,
+    "title": "4.11.1949:  Immigrants for 6pm ",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-11-04",
+    "TranscriptImages": 
+      [{ "image": "images/arrivals/4.11.49_Immigrants_page_1.jpg"},
+      { "image": "images/arrivals/4.11.49_Immigrants_page_2.jpg"}
+     ],
+    "content": "At the time of this news report the term ‘alien’ referred to refugees. The report frames immigration in terms such as ‘the country being swamped by foreigners’ and Britain as a safe haven for political refugees. The quote by the Home Office official stresses who a ‘deserving refugee’ may be.  "
+  }, 
+  {
+    "id": 41,
+    "title": "26.9.1973: Black Education for 1pm",
+    "theme": "education",
+    "time": "1pm",
+    "date": "1973-09-26",
+    "TranscriptImages": 
+      [{ "image": "images/Education/26.9.73 Immigrant children - page 1.jpg"},
+      { "image": "images/Education/26.9.73 Immigrant children - page 2.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 3.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 4.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 5.jpg"}
+     ], 
+    "audiofile": "audio/Radioclipdemo1.mp3",
+    "audiocontent": "Clapback Podcast"
+
+  }, 
+  {
+  "id": 42,
+  "title": "18.4.1978: West Indians for 1pm ",
+  "theme": "education",
+  "time": "1pm",
+  "date": "1978-04-18",
+  "TranscriptImages": 
+    [{ "image": "images/Education/18.4.78 report about West Indian children  - page 1.jpg"},
+    { "image": "images/Education/18.4.78 report about West Indian children  - page 2.jpg"}
+   ], 
+   "content": "Unlike the majority of news stories which focused on education reports compiled by establishment and government authorities, this one refers to a study produced by ‘a working party of mostly West Indian teachers and parents’. Based on John Clare’s report, how much information are we given about this working party and their objectives?"
+}, 
+{
+  "id": 43,
+  "title": "22.9.1978: Race for 8am ",
+  "theme": "education",
+  "time": "8am",
+  "date": "1978-09-22",
+  "TranscriptImages": 
+    [{ "image": "images/Education/22.9.78 Guide for teachers  - page 1.jpg"},
+    { "image": "images/Education/22.9.78 Guide for teachers - page 2 .jpg"}, 
+    { "image": "images/Education/18.4.78 report about West Indian children  - page 2.jpg"}
+   ], 
+   "content": "This news item is about a guide for teachers written by a Biology Professor and an Educational Psychologist. We are told that this is a pamphlet ‘said to represent the consolidated wisdom of the British university establishment.’ How does this description contrast with what we are told about the report by a ‘working party of mostly West Indian teachers and parents’ in the previous news story (18.4.78)?"
+}, 
+{"id": 44,
+  "title": "09.7.1979: Teachers for 1pm",
+  "theme": "education",
+  "time": "8am",
+  "date": "1979-07-9",
+  "TranscriptImages": 
+    [{ "image": "images/Education/9.7.79 Labour Party Race Relations Action Group.jpg"}
+   ]
+}, 
+  {"id": 45,
+  "title": "09.3.1981: Immigrant Education for 10pm ",
+  "theme": "education",
+  "time": "8am",
+  "date": "1981-09-3",
+  "TranscriptImages": 
+    [{ "image": "images/Education/9.3.81 Immigrant Education - page 1.jpg"},
+    { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
+   ],
+   "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British? "
+}, 
+
+{"id": 47,
+  "title": "17.6.1981: Black Pupils for 12am",
+  "theme": "education",
+  "time": "12am",
+  "date": "1981-06-17",
+  "TranscriptImages": 
+    [{ "image": "images/Education/17.6.81 Education for West Indian children - page 1.jpg"},
+    { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
+   ],
+   "audiofile": "audio/Radioclipdemo1.mp3",
+   "audiocontent": "Clapback Podcast"
+}, 
+
+{"id": 48,
+  "title": "24.10.1981: Brent for 7am ",
+  "theme": "education",
+  "time": "7am",
+  "date": "1986-10-24",
+  "TranscriptImages": 
+    [{ "image": "images/Education/24.10.86 Brent Council  - page 1.jpg"},
+    { "image": "images/Education/24.10.86 Brent Council  - page 2.jpg"}
+   ],
+   "audiofile": "audio/Radioclipdemo1.mp3",
+   "audiocontent": "Clapback Podcast"
+}, 
+{"id": 49,
+  "title": "26.6.1987: Exam Results for 7am   ",
+  "theme": "education",
+  "time": "7am",
+  "date": "1987-06-26",
+  "TranscriptImages": 
+    [{ "image": "images/Education/26.6.87 Inner London Education Authority study - page 1.jpg"},
+    { "image": "images/Education/26.6.87 Inner London Education Authority study - page 2.jpg"}
+   ],
+   "audiofile": "audio/Radioclipdemo1.mp3",
+   "audiocontent": "Clapback Podcast"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+  
