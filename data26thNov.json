@@ -739,7 +739,7 @@
     "time": "7,8 and 9am",
     "date": "1964-12-07",
     "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 1.jpg" }, 
-  {"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 2.jpg"}
+  {"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 2.jpg"},
 {"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 3.jpg"}],
 "audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/racial_discrimination/On Smethwick - 15.3.24 - Group 2.mp3",
 "audiocontent":"Clapback Podcast",   "content": "You can read <a href='https://birkbeckuol-my.sharepoint.com/personal/e_liarou_bbk_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination%2FImmigration%20%20race%20and%20local%20media%20%20Smethwick%20and%20the%201964%20general%20election%2Epdf&parent=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination'>here </a> about the role of local and regional media in helping legitimise Peter Griffiths’ racist campaign in Smethwick in 1964."
@@ -1035,7 +1035,7 @@
       {"image":"Final Project/images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 5.jpg"},
       {"image":"Final Project/images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 6.jpg"},
       {"image":"Final Project/images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 7.jpg"},
-      {"image":"Final Project/images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg"},
+      {"image":"Final Project/images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg"}
     ],
     "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
     },
@@ -1260,10 +1260,7 @@
       ],
       "content": "Another report about police evidence at the Scarman inquiry."
       },
-      
-
-// start again here!!! :) 
-
+    
 
       {
       "id": 1051,
