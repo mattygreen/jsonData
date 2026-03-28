@@ -292,7 +292,7 @@
     "time": "1pm",
     "date": "1949-02-15",
     "TranscriptImages": 
-      { "image": "images/arrivals/15.2.49_Australian_immigration.jpg"}, 
+      [{ "image": "images/arrivals/15.2.49_Australian_immigration.jpg"}], 
     "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations?"
   }, 
   {
@@ -302,9 +302,8 @@
     "time": "1pm",
     "date": "1949-06-26",
     "TranscriptImages": 
-      { "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}, 
+      [{ "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}], 
     "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations? <br> <br>  how pupils of the King’s Leadership Academy in Liverpool have re-written this report", 
-    "audiofile": "audio/Radioclipdemo1.mp3",
     "audiocontent": "Clapback Podcast"
   }, 
 
@@ -605,8 +604,8 @@
   "date": "1959-06-06",
   "TranscriptImages": 
     [
-      { "image": "Final Project/images/Police/6.6.1959 Cochrane funeral - page 1.jpg" },
-      { "image": "Final Project/images/Police/6.6.1959 Cochrane funeral - page 2.jpg" }
+      { "image": "images/Police/6.6.1959 Cochrane funeral - page 1.jpg" },
+      { "image": "images/Police/6.6.1959 Cochrane funeral - page 2.jpg" }
     ],
   "content": "This report is about the funeral of Kelso Cochrane and, as you can see in the original script, it is the last item in the bulletin, after Princess Margaret’s visit to Portugal. In his book <a href=\"https://www.penguin.co.uk/books/304774/african-and-caribbean-people-in-britain-by-adi-hakim/9781802060683\" target=\"_blank\">African and Caribbean People in Britain: A history, award-winning historian Hakim Adi </a>wrote that Kelso Cochrane’s funeral was a major political event, attended by thousands, including the Prime Minister of the West Indies Federation. (pp. 57-59) Do you come to the same conclusion when reading this report? <a href=\"https://www.youtube.com/watch?v=IfkInzCUz1c\" target=\"_blank\">You can watch the funeral, captured by British Pathè. </a>",
   "audiofile":"Final Project/audio/Police/Cochrane's funeral - 15.3.2024 -Group 1.mp3", 
@@ -620,9 +619,9 @@
   "date": "1959-08-05",
   "TranscriptImages": 
     [
-      { "image": "Final Project/images/Police/5.8.1959 Cochrane verdict  - page 1.jpg" },
-      { "image": "Final Project/images/Police/5.8.1959 Cochrane verdict  - page 2.jpg" },
-      {"image":"Final Project/images/Police/5.8.1959 Cochrane verdict  - page 3.jpg"}
+      { "image": "images/Police/5.8.1959 Cochrane verdict  - page 1.jpg" },
+      { "image": "images/Police/5.8.1959 Cochrane verdict  - page 2.jpg" },
+      {"image":"images/Police/5.8.1959 Cochrane verdict  - page 3.jpg"}
     ],
   "content": "This report about the verdict returned at the inquest on the murder of Kelso Cochrane is one of the last items in the bulletin. Does the report offer any other viewpoints to contextualise and further interrogate the Coroner’s verdict that this crime did not have anything to do with racial trouble and that Cochrane’s attackers were only trying to steal money? And, how are we then to make sense of the report about the march against racial hatred that Cochrane’s murder sparked off a month earlier? (report of 7.6.1959)",
   "audiofile":"Final Project/audio/Police/Cochranes inquest - 15.3.2024 -Group 1.mp3",
@@ -636,8 +635,8 @@
   "date": "1971-11-17",
   "TranscriptImages": 
     [
-      { "image": "Final Project/images/Police/17.11.1971 Oluwale trial - page 1.jpg" },
-      { "image": "Final Project/images/Police/17.11.1971 Oluwale trial - page 2.jpg" }
+      { "image": "images/Police/17.11.1971 Oluwale trial - page 1.jpg" },
+      { "image": "images/Police/17.11.1971 Oluwale trial - page 2.jpg" }
     ],
   "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale, calls the trial ‘the Nigerian vagrant’ trial, and David Oluwale is called a ‘Nigerian vagrant’ throughout the report. Is that label necessary or useful for viewers to understand what happened? A few years later, in 1979, the BBC News Guide specified that:We try to avoid giving needless offence, not least over matters of race. In certain circumstances it is wrong to identify a man as, say, a West Indian or a Pakistani when to do so may needlessly foster prejudice.Based on your experience of listening /watching BBC news, have the BBC been following that guidance?"
 
@@ -650,7 +649,7 @@
   "date": "1971-11-23",
   "TranscriptImages": 
     [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Police/23.11.1971 Oluwale trial .jpg" }
+      { "image": "Police/23.11.1971 Oluwale trial .jpg" }
     ],
   "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’.  How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?  "
 }, 
@@ -662,7 +661,7 @@
   "date": "1971-11-23",
   "TranscriptImages": 
     [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Police/23.11.1971 Oluwale trial .jpg" }
+      { "image": "images/Police/23.11.1971 Oluwale trial .jpg" }
     ],
   "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’. How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?"
 }, 
@@ -674,7 +673,7 @@
   "date": "1971-11-23",
   "TranscriptImages": 
     [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Police/24.11.1971 Oluwale killing.jpg" }
+      { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
     ],
   "content": "According to this report, the two police officers accused of assaulting David Oluwale were convicted for three years in prison. Why do you think the judge’s words are crossed out on the original script?"
 }, 
@@ -686,7 +685,7 @@
   "date": "1971-11-23",
   "TranscriptImages": 
     [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Police/24.11.1971 Oluwale killing.jpg" }
+      { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
     ],
   "content": "This report is about the Chief Constable of Leeds’ response to calls for a public inquiry into the Leeds police force in the aftermath of the two police officers’ conviction for assaulting David Oluwale. How balanced is the report? Does it include any viewpoints by those who are calling for a public inquiry?"
 },
@@ -697,7 +696,7 @@
     "theme": "Racial Discrimination",
     "time": "6pm",
     "date": "1954-12-31",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/31.12.1954 Birmingham coloured bus drivers.jpg"}],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/31.12.1954 Birmingham coloured bus drivers.jpg"}],
     "content": "The employment of ‘coloured’ bus drivers in Birmingham became controversial in the 1950s due to the racism which confronted Black people, referred to as the ‘colour bar’. There is no mention of the ‘colour bar’ in this report. Why do you think that is? And how is Birmingham Transport Committee’s decision to employ ‘coloured’ workers on the city’s buses presented?"
   },
   {
@@ -706,7 +705,7 @@
     "theme": "Racial Discrimination",
     "time": "10 and 10.30pm",
     "date": "1961-07-28",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg" }],
     "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?"
   },
   {
@@ -715,8 +714,8 @@
     "theme": "Racial Discrimination",
     "time": "10 and 10.30pm",
     "date": "1962-06-30",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/30.6.1962 Commonwealth Immigration Act.jpg" }],
-    "audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/racial_discrimination/On the 1962 Immigration Act - 23.02.24 - Group 2 (1).mp3",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/30.6.1962 Commonwealth Immigration Act.jpg" }],
+    "audiofile":"audio/racial_discrimination/On the 1962 Immigration Act - 23.02.24 - Group 2 (1).mp3",
     "content": "For more context about the 1962 Immigration Act, you can access a record of the Parliamentary Debate on the Act  <a href='https://hansard.parliament.uk/Commons/1962-04-19/debates/9e5a3133-2df5-47bc-8bdc-b97771bbfdb9/CommonwealthImmigrantsAct'>here</a>. And you can see how community and anti-racist organisations protested the Bill <a href='https://www.search.connectinghistories.org.uk/Details.aspx?&ResourceID=756&SearchType=2&ThemeID=99>'here.</a> "
   },
   {
@@ -725,10 +724,10 @@
     "theme": "Racial Discrimination",
     "time": "6 and 8.30pm",
     "date": "1963-05-04",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/4.5.1963 Bristol colour bar and bus boycott - page 1.jpg" }, 
-  {"image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 2.jpg}"}, 
-{"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 3.jpg"}],
-"audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/racial_discrimination/On the 1963 Bristol Bus Boycott - 15.3.24 - Group 3.mp3",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/4.5.1963 Bristol colour bar and bus boycott - page 1.jpg" }, 
+  {"image": "images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 2.jpg}"}, 
+{"image":"images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 3.jpg"}],
+"audiofile":"audio/racial_discrimination/On the 1963 Bristol Bus Boycott - 15.3.24 - Group 3.mp3",
 "audiocontent":"Clapback Podcast",
 "content": "You can read more about the 1963 Bristol bus boycott <a href='https://collections.bristolmuseums.org.uk/stories/bristols-black-history/bristol-bus-boycott'> here </a> and about the civil rights campaigner Paul Stephenson <a href='https://www.blackhistorymonth.org.uk/article/section/campaigners-and-activists/paul-stephenson-the-quiet-revolutionary/'> here</a>."
   },
@@ -738,10 +737,10 @@
     "theme": "Racial Discrimination",
     "time": "7,8 and 9am",
     "date": "1964-12-07",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 1.jpg" }, 
-  {"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 2.jpg"},
-{"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 3.jpg"}],
-"audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/racial_discrimination/On Smethwick - 15.3.24 - Group 2.mp3",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 1.jpg" }, 
+  {"image":"images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 2.jpg"},
+{"image":"images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 3.jpg"}],
+"audiofile":"audio/racial_discrimination/On Smethwick - 15.3.24 - Group 2.mp3",
 "audiocontent":"Clapback Podcast",   "content": "You can read <a href='https://birkbeckuol-my.sharepoint.com/personal/e_liarou_bbk_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination%2FImmigration%20%20race%20and%20local%20media%20%20Smethwick%20and%20the%201964%20general%20election%2Epdf&parent=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination'>here </a> about the role of local and regional media in helping legitimise Peter Griffiths’ racist campaign in Smethwick in 1964."
   },
   {
@@ -750,10 +749,10 @@
     "theme": "Racial Discrimination",
     "time": "11 pm",
     "date": "1965-08-02",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/2.8.1965 Immigration controls - page 1.jpg" }, 
-  {"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/2.8.1965 Immigration controls - page 2.jpg"},
-{"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/2.8.1965 Immigration controls - page 3.jpg"}, 
-{"image":"/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/2.8.1965 Immigration controls - page 4.jpg"}],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/2.8.1965 Immigration controls - page 1.jpg" }, 
+  {"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 2.jpg"},
+{"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 3.jpg"}, 
+{"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 4.jpg"}],
     "content": "This is a report about new measures to control immigration from the Commonwealth, announced in the Commons in 1965.How balanced is the report in terms of assessing what the proposed measures might mean for Commonwealth citizens? How much detail are we given about Dr. David Pitt’s criticism of the measures? You can find out more about Dr. David Pitt’s work and its impact <a href='https://windrush70.co.uk/david-pitt'</a> here."
   },
   {
@@ -762,7 +761,7 @@
     "theme": "Racial Discrimination",
     "time": "1 pm",
     "date": "1965-08-03",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/3.8.1965 - racism in South Africa.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/3.8.1965 - racism in South Africa.jpg" }],
     "content": "According to our research, this is the first use of the term ‘racism ’ on BBC’s Home Service, and it relates to South Africa, not the UK. Based on our research of the digitised archive of news scripts on Home Service/R4, the term ‘racialism’ is more commonly used in the postwar period for international (e.g. South Africa, Kenya/Mau Mau movement) as well as national news, but, in the UK, it is mostly reserved for the ‘extreme’ examples of race relations and politics (e.g. Smethwick’s election campaign, Enoch Powell’s speeches). The term ‘racism’ is used on this radio service to express an extreme state of racial affairs not associated with the UK, but mostly with South Africa and particularly Rhodesia. The term ‘racism’ starts to be used for UK news on this service in the late 1980s, and more commonly during the <a href='https://www.gov.uk/government/publications/the-stephen-lawrence-inquiry'> Macpherson enquiry </a> and launch of the report, when the term ‘institutional racism’ was more widely used in UK media.  "
   },
   {
@@ -771,7 +770,7 @@
     "theme": "Racial Discrimination",
     "time": "8 & 9am",
     "date": "1965-08-08",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/8.8.1965 David Pitt on immigration policy.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/8.8.1965 David Pitt on immigration policy.jpg" }],
     "content": "How much context and detail does this report give to help listeners understand more about the work of the Campaign Against Racial Discrimination (CARD)?<br> You can find more about the history and work of the CARD <a href='https://www.ibhm-uk.org/post/the-campaign-against-racial-discrimination-britain-s-civil-rights-experiment'> here</a>. <br> You can also find primary sources about the CARD at <a href='https://catalogue.georgepadmoreinstitute.org/records/JLR/3/1/10'>the George Padmore Institute</a>. "
   },
   {
@@ -780,7 +779,7 @@
     "theme": "Racial Discrimination",
     "time": "11pm",
     "date": "1965-09-20",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/20.9.1965 Manley in London.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/20.9.1965 Manley in London.jpg" }],
     "content": "How much context and detail is given about Mr Norman Manley’s opposition to the Government’s new immigration policy?"
   },
   {
@@ -789,9 +788,9 @@
     "theme": "Racial Discrimination",
     "time": "7,8 and 9am",
     "date": "1967-01-03",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/3.1.1967 CARD - page 1.jpg" },
-    { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/3.1.1967 CARD - page 2.jpg" }, 
-    { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/3.1.1967 CARD - page 3.jpg" }
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/3.1.1967 CARD - page 1.jpg" },
+    { "image": "images/Racial Discrimination/3.1.1967 CARD - page 2.jpg" }, 
+    { "image": "images/Racial Discrimination/3.1.1967 CARD - page 3.jpg" }
 
   ],
     "content": "This report describes the Campaign Against Racial Discrimination as ‘an Association of immigrant groups in Britain’. How accurate is that description? You can find more resources about the history and work of the CARD in relation to the news script from 8.8.1965 in this collection."
@@ -802,8 +801,7 @@
     "theme": "Racial Discrimination",
     "time": "6pm",
     "date": "1968-04-28",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" },
-    { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" }],
     "content": "How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in this open access publication by the Institute of Race Relations. This report is followed by news of a march to protest against Enoch Powell’s Rivers of Blood speech. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?"
   },
   {
@@ -812,10 +810,10 @@
     "theme": "Racial Discrimination",
     "time": "11.16pm",
     "date": "1971-09-08",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 1.jpg"}, 
-    { "image": "Final Project/images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 2.jpg"}, 
-    { "image": "Final Project/images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 3.jpg"}, 
-    { "image": "Final Project/images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 4.jpg"}
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 1.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 2.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 3.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 4.jpg"}
 
   ],
     "content": "How balanced is this report on Enoch Powell’s speech at Smethwick?"
@@ -826,9 +824,9 @@
     "theme": "Racial Discrimination",
     "time": "7,8 and 9am",
     "date": "1976-05-15",
-    "TranscriptImages": [{ "image": "Final Project/images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 1.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 1.jpg" }],
     "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
-    "audiofile":"Final Project/audio/racial_discrimination/On the NF protest - 15.3.24 Group 1.mp3"
+    "audiofile":"audio/racial_discrimination/On the NF protest - 15.3.24 Group 1.mp3"
 
   },
 
@@ -838,7 +836,7 @@
     "theme": "Historical Figures",
     "time": "",
     "date": "1947-04-25",
-    "TranscriptImages": [{ "image": "Final Project/images/Historical_figures/25.4.1947 Harold Moody.jpg" }],
+    "TranscriptImages": [{ "image": "images/Historical_figures/25.4.1947 Harold Moody.jpg" }],
     "content": "This obituary of Dr. Harold Moody brings his achievements down to three lines, focusing on his Jamaican identity but with no reference to his outstanding career as a doctor as well as his pivotal role in fighting against racism in the UK and globally.You can read more about Dr. Moody’s life and work <a href='https://www.africansinyorkshireproject.com/dr-harold-moody.html'>here</a> "
   },
   {
@@ -847,9 +845,9 @@
     "theme": "Historical Figures",
     "time": "10pm",
     "date": "1971-12-09",
-    "TranscriptImages": [{ "image": "Final Project/images/Historical_figures/9.12.1971 Dr Bunche.jpg" }],
-    "audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
-    "audiofile2":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
+    "TranscriptImages": [{ "image": "images/Historical_figures/9.12.1971 Dr Bunche.jpg" }],
+    "audiofile":"audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
+    "audiofile2":"audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
   },
   {
     "id": 1019,
@@ -857,7 +855,7 @@
     "theme": "Historical Figures",
     "time": "10.30pm",
     "date": "1985-09-17",
-    "TranscriptImages": [{ "image": "Final Project/images/Historical_figures/17.9.1985 Bill Morris.jpg" }]
+    "TranscriptImages": [{ "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg" }]
   },
   {
     "id": 1020,
@@ -865,9 +863,9 @@
     "theme": "Historical Figures",
     "time": "10pm",
     "date": "1985-12-08",
-    "TranscriptImages": [{ "image": "Final Project/images/Historical_figures/8.12.1985 DIane Abbott's first election.jpg" }],
-    "audiofile":"/Users/mgreen/Desktop/Radio Website/Final Project/audio/Historical_figures/On Diane Abbott - 15.3.24 - Group 2.mp3",
-    "audiofile2":"Final Project/audio/Historical_figures/On D. Abbott - 23.02.24 - Group 3.mp3"
+    "TranscriptImages": [{ "image": "images/Historical_figures/8.12.1985 DIane Abbott's first election.jpg" }],
+    "audiofile":"audio/Historical_figures/On Diane Abbott - 15.3.24 - Group 2.mp3",
+    "audiofile2":"audio/Historical_figures/On D. Abbott - 23.02.24 - Group 3.mp3"
   },
 
   {
@@ -876,7 +874,7 @@
     "theme": "Arts",
     "time": "6pm",
     "date": "1960-10-30",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/30.10.1960 Rastafari.jpg" }],
+    "TranscriptImages": [{ "image": "images/Arts/30.10.1960 Rastafari.jpg" }],
     "content":"This is the only mention of Rastafari we found on the Home Service/R4 during the post WWII period and until the late 1980s. What is Rastafari associated with in this report? How could have this report limited and distorted listeners’ understanding of what Rastafari represents and means? You can find out about the history of Rastafari and its socio-cultural significance <a href='https://www.blackhistorymonth.org.uk/article/section/real-stories/rastafari-culture/'>here.</a> "
   },
   {
@@ -885,8 +883,8 @@
     "theme": "Arts",
     "time": "7,8, and 9am",
     "date": "1976-09-08",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/1.9.1976 Notting Hill Carnival.jpg"}, 
-    { "image": "Final Project/images/Arts/8.9.1976 Notting Hill Carnival.jpg"}
+    "TranscriptImages": [{ "image": "images/Arts/1.9.1976 Notting Hill Carnival.jpg"}, 
+    { "image": "images/Arts/8.9.1976 Notting Hill Carnival.jpg"}
   ]
   },
   {
@@ -895,8 +893,8 @@
     "theme": "Arts",
     "time": "6pm",
     "date": "1977-08-28",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 1.jpg/" }, 
-  { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 2.jpg" }]
+    "TranscriptImages": [{ "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 1.jpg/" }, 
+  { "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 2.jpg" }]
   },
   {
     "id": 1024,
@@ -904,8 +902,8 @@
     "theme": "Arts",
     "time": "10pm",
     "date": "1979-08-26",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/26.8.1979 Notting Hill Carnival  - page 1.jpg" },
-    { "image": "Final Project/images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg" }]
+    "TranscriptImages": [{ "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 1.jpg" },
+    { "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg" }]
 
   },
   {
@@ -914,8 +912,8 @@
     "theme": "Arts",
     "time": "midnight",
     "date": "1982-08-30",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Arts/30.8.1982 Notting Hill carnival - page 1.jpg"},
-    { "image": "Final Project/images/Arts/30.8.1982 Notting Hill carnival - page 2.jpg"}
+    "TranscriptImages": [{ "image": "images/Arts/30.8.1982 Notting Hill carnival - page 1.jpg"},
+    { "image": "images/Arts/30.8.1982 Notting Hill carnival - page 2.jpg"}
   ]
   },
   {
@@ -924,8 +922,8 @@
     "theme": "Arts",
     "time": "midnight",
     "date": "1984-08-27",
-    "TranscriptImages": [{ "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Arts/27.8.1984 Notting Hill Carnival - page 1.jpg" }, 
-    { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Arts/27.8.1984 Notting Hill Carnival - page 2.jpg" }
+    "TranscriptImages": [{ "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 1.jpg" }, 
+    { "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 2.jpg" }
   ]
   },
   {
@@ -934,7 +932,7 @@
     "theme": "Arts",
     "time": "9am",
     "date": "1988-08-29",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 1.jpg"}],
+    "TranscriptImages": [{ "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 1.jpg"}],
     "content": " <a href='https://windrush70.co.uk/alex-pascall'> This </a> report mentions Alex Pascall, a pioneering broadcaster who hosted the first radio show considered the voice of the Black community in the 1970s."
   },
   {
@@ -943,7 +941,7 @@
     "theme": "Arts",
     "time": "midnight",
     "date": "1994-08-29",
-    "TranscriptImages": [{ "image": "Final Project/images/Arts/29.8.1994 Notting Hill Carnival  - page 1.jpg" }, 
+    "TranscriptImages": [{ "image": "images/Arts/29.8.1994 Notting Hill Carnival  - page 1.jpg" }, 
   {"image": "Final Project/images/Arts/29.8.1994 Notting Hill Carnival  - page 2.jpg"}]
   }, 
   {
@@ -953,7 +951,7 @@
     "time": "9 and 10pm",
     "date": "1948-8-3",
     "TranscriptImages": [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/Riots/3.8.1948 Liverpool riots.jpg" }
+      { "image": "images/Riots/3.8.1948 Liverpool riots.jpg" }
     ],
     "content": "Although the title of this item uses the word 'riots', the main report that went out on air uses the term 'racial disturbances'. Why do you think that is? And who does the report imply that is to blame for what happened? "
     },
@@ -965,7 +963,7 @@
     "time": "9 and 10pm",
     "date": "1948-8-17",
     "TranscriptImages": [
-      { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+      { "image": "images/Riots/17.8.1948 Liverpool disturbances.jpg/" }
     ],
     "content": "How does this report compare with the one from 3.8.1948? And does the reference to 'some misunderstanding between small sections of coloured and other people in Liverpool' give enough explanation and context for what happened? Does the report give any reasons why the disturbances took place? You can use the <a href='https://www.britishnewspaperarchive.co.uk/'>  British Newspaper Archive </a> to research how this news story was reported in the newspapers at the time.For more context, <a href='https://academic.oup.com/tcbh/article-abstract/32/1/1/6055064?redirectedFrom=fulltext'> you can read here </a>about the aftermath of the 1948 Liverpool ‘race riots’ and the formation of the Colonial Defence Committee (CDC), which represented a prototype of the defence committees that became a hallmark of black political opposition to policing during the 1970s and 1980s."
     },
