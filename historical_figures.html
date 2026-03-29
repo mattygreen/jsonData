@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relations with Police</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="animation.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+  <section class="intro">
+    <div class="introtitle">
+      <h1>Historical Figures 
+      </h1>
+    </div>
+    <div class="IntroductionText">
+     <p>This is our smallest news scripts collection which is arguably more indicative of the BBC’s lack of interest in reporting on Black leading figures and their achievements in politics and culture in the UK and beyond, rather than an accurate record of such a history. Included here are news items about the death of <a href="https://www.blackheroesfoundation.org/people/harold-moody/"> Dr. Harold Moody</a>, the death of <a href="https://www.nobelprize.org/prizes/peace/1950/bunche/biographical/"> Dr. Ralph Bunche</a>, <a href='https://www.blackhistorymonth.org.uk/article/section/campaigners-and-activists/bill-morris-a-leader-and-pioneer-in-british-labour-rights/'> Bill Morris’ </a>appointment to a senior trade union post in 1985, and <a href="https://www.dianeabbott.org.uk/">Diane Abbott’s</a>selection in 1985 as a candidate for the parliamentary seat representing Hackney North and Stoke Newington.  
+
+      In 1967, the BBC News Style Guide had this advice on how to write obituaries for radio broadcast: 
+      
+      It is a paradoxical convention of journalism that the death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows. When he dies, we assume everyone is ignorant. For radio news, the writing of obituaries represents the problem of compression and condensation in one of its most acute forms. Radio news often has to assess a man’s personality and career in a sentence or two. We do not rest content, however, with giving our listeners a ‘potted’ biography; we are obliged to provide some assessment of success or failure, some idea of the dead man’s personality, and sometimes, his appearance and mannerisms.  
+      
+      What do you think of the obituaries of Dr. Moody and Dr. Bunche in light of this guidance?  
+      
+      You can also hear in this collection our podcast contributors’ thoughts on how the achievements of these major Black figures are framed and reported.  
+      </p>
+    </div>
+  </section>
+  <section class="mainsection">
+    <div id="listContainerWrapper">
+      <ul id="listContainer"></ul>
+    </div>
+
+    <div id="modalsContainer"></div>
+
+    <div class="centredArrow" id="downArrow"> &darr;</div>
+
+    <div class="reversebutton" id="reverseButton1">
+      <svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.47 21.5" role="button"
+        aria-label="navigates back to the home page">
+        <defs>
+          <style>
+            .cls-1 {
+              fill: turquoise;
+              stroke: turquoise;
+              stroke-miterlimit: 10;
+            }
+          </style>
+        </defs>
+        <g id="Layer_1-2" data-name="Layer_1">
+          <g>
+            <rect class="cls-1" x=".5" y="17.12" width="20.47" height="3.88" rx="1.94" ry="1.94" />
+            <rect class="cls-1" x="12.02" y="11.63" width="15.03" height="2.87" rx="1.44" ry="1.44"
+              transform="translate(6.47 32.61) rotate(-90)" />
+            <rect class="cls-1" x="7.69" y="5.55" width="12.64" height="2.87" rx="1.44" ry="1.44"
+              transform="translate(28.01 13.98) rotate(-180)" />
+            <rect class="cls-1" x="6.74" y="8.6" width="8" height="1.66" rx=".83" ry=".83"
+              transform="translate(11.15 23.72) rotate(-132.97)" />
+            <rect class="cls-1" x="6.17" y="3.24" width="8" height="1.66" rx=".83" ry=".83"
+              transform="translate(18.79 -2.7) rotate(120)" />
+          </g>
+        </g>
+      </svg>
+    </div>
+  </section>
+  <!-- creating templates to create structure of the code, so that it's easier to change, rather than having to edit the Javascript. I have created these for the timeline Boxes and the modals-->
+  <template data-timeLine-template>
+    <li class="timelinebox">
+      <div class="timelineTitle">
+        <div iconsection>
+        </div>
+      </div>
+    </li>
+  </template>
+
+
+  <template data-modal-template>
+    <div data-modalbox class="mymodal">
+      <div class="modalcontent">
+        <div class="titleForModal"></div>
+        <div class="columndiv">
+          <div class="column carousel-column">
+            <div data-carousel-container></div>
+          </div>
+          <div data-modal-body class="column content-column"></div>
+        </div>
+      </div>
+    </div>
+  </template>
+  <script src="historical figures.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+</body>
+
+</html>
