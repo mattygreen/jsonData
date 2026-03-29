@@ -115,6 +115,8 @@ function moveWithArrow (click) {
 
 //code for the hamburger menu //
 
+/*
+
 const hamburgerBtn = document.getElementById('hamburgerBtn'); 
 const hamburgerClose = document.getElementById('hamburgerClose'); 
 const navMenu = document.querySelector('.navMenu'); 
@@ -153,7 +155,7 @@ hamburgerClose.addEventListener('click', (event) => {
     }
 });
 
-
+*/ 
 
 // until the rest of the pages are developed, i am adding an event listener to all the cards so they take to the one developed side // 
 
@@ -219,11 +221,18 @@ antiracism.addEventListener('click', (event) => {
     window.location.href='firstpage.html'; 
 })
 
+
+let sportsLink  =document.getElementById('section11') 
+sportsLink.addEventListener('click', (event) => { 
+    window.location.href='sports.html'; 
+})
+
+/*
 let filterspage = document.getElementById('section13') 
 filterspage.addEventListener('click', (event) => { 
     window.location.href='filterpage.html'; 
 })
-
+*/
 
 
 

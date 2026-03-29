@@ -220,7 +220,9 @@ function createTimeLineStructure(data) {
         imageCarouselContainerNew.id = `ImageContainer${item.id}`;
 
         console.log(modalContentBox);
-
+        const items = document.querySelectorAll(".timelinebox");items.forEach(item => {
+  item.style.borderLeft = "20px solid lightpink";
+});
 
         const modalBody = modalContentBox.querySelector('[data-modal-body]')
         modalBody.innerHTML = item.content;
@@ -404,7 +406,7 @@ reverseButtons.forEach(button => {
     });
 });
 
-const downArrow = document.getElementById('downArrow');
+const downArrow = document.getElementById('downArrowEducation');
 
 // Function to check if user is at the bottom of the page. This returns whether it is or not which can then be used in a conditional statement// 
 function isAtBottomOfScreen() {

@@ -193,6 +193,8 @@ function createTimeLineStructure(data) {
         timelineCard.setAttribute('role', 'button');
         timelineCard.setAttribute('ariallabel', ariaLabelAttribute);
 
+
+        
         timelineCard.style.cursor = 'pointer';
         timelineCard.addEventListener('click', function () {
             showModal(`modal${item.id}`);
@@ -284,7 +286,8 @@ function createTimeLineStructure(data) {
         });
     }
 
-
+    const items = document.querySelectorAll(".timelinebox");items.forEach(item => {
+        item.style.borderLeft = "20px solid darkolivegreen";})
     // add another event listener here for the for the use of the escape button close the modal box 
 }
 
@@ -404,7 +407,7 @@ reverseButtons.forEach(button => {
     });
 });
 
-const downArrow = document.getElementById('downArrow');
+const downArrow = document.getElementById('downArrowPolice');
 
 // Function to check if user is at the bottom of the page. This returns whether it is or not which can then be used in a conditional statement// 
 function isAtBottomOfScreen() {

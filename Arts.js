@@ -227,7 +227,11 @@ function createTimeLineStructure(data) {
 
         modalTitle.appendChild(closeButton);
         modalsContainer.appendChild(modalContentBox);
+        const items = document.querySelectorAll(".timelinebox");
 
+items.forEach(item => {
+  item.style.borderLeft = "20px solid blue";
+});
 
         //this section of the code checks whether there's an audio file within the JSON which has been fetched // 
         if (!item.hasOwnProperty('audiofile') || item.audiofile === "") {
@@ -404,7 +408,7 @@ reverseButtons.forEach(button => {
     });
 });
 
-const downArrow = document.getElementById('downArrow');
+const downArrow = document.getElementById('downArrowArts');
 
 // Function to check if user is at the bottom of the page. This returns whether it is or not which can then be used in a conditional statement// 
 function isAtBottomOfScreen() {

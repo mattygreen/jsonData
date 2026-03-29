@@ -379,6 +379,12 @@ function createBootstrapCarousel(data) {
     }
     });
 
+    const items = document.querySelectorAll(".timelinebox");
+
+items.forEach(item => {
+  item.style.borderLeft = "20px solid lightblue";
+});
+
 }
 
 

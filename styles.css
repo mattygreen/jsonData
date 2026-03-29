@@ -661,3 +661,52 @@ body {
     flex-direction: row;
     gap: 5vw; 
   }
+
+
+
+  /* Centred arrows and the downchezrons for each page
+  
+  Arrivals 
+  Anti-racism 
+  Sports
+  education 
+  Historical figures 
+  Police 
+  Racial Discrimination 
+  Riots 
+  */
+
+
+#downArrowArrivals{ 
+color: yellow; 
+
+}
+
+#downArrowRacialDiscrimination{ 
+    color: green; 
+    
+    }
+
+#downArrowHistorical { 
+    color: brown; 
+}
+
+#downArrowArts{ 
+    color: blue; 
+}
+
+#downArrowEducation{
+    color:lightpink;
+
+}
+#downArrowPolice{
+    color:darkolivegreen; 
+}
+
+#downArrowRiots{
+    color:purple; 
+}
+
+#downArrowSports{
+    color:lightblue; 
+}

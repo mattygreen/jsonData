@@ -83,6 +83,14 @@ fetch('https://raw.githubusercontent.com/mattygreen/jsonData/main/data26thNov.js
         // once the modal boxes and boostrap carousels have been created, now add the intersection observers onto the entries. The code for this was influenced by this Tutorial https://www.youtube.com/watch?v=2IbRtjez6ag // 
         let timelineboxselectorAnimate = document.querySelectorAll('.timelinebox');
 
+        const items = document.querySelectorAll(".timelinebox");
+
+        items.forEach(item => {
+          item.style.borderLeft = "20px solid yellow";
+
+        });
+
+
         const observer = new IntersectionObserver(entries => {
             entries.forEach(entry => {
                 entry.target.classList.toggle('show', entry.isIntersecting);
@@ -404,7 +412,7 @@ reverseButtons.forEach(button => {
     });
 });
 
-const downArrow = document.getElementById('downArrow');
+const downArrow = document.getElementById('downArrowArrivals');
 
 // Function to check if user is at the bottom of the page. This returns whether it is or not which can then be used in a conditional statement// 
 function isAtBottomOfScreen() {
@@ -421,3 +429,9 @@ window.addEventListener('scroll', () => {
     }
 });
 
+
+const items = document.querySelectorAll("timelinebox");
+
+items.forEach(item => {
+  item.style.borderleft.color = "yellow";
+});
