@@ -193,70 +193,16 @@
 
 
 
-  {
-    "id": 24,
-    "title": "1965",
-    "theme": "labels",
-    "date": "1965-01-01"
-  }, 
-
-  {
-    "id": 25,
-    "title": "1970",
-    "theme": "labels",
-    "date": "1970-01-01"
-  }, 
-
-
-  {
-    "id": 26,
-    "title": "1975",
-    "theme": "labels",
-    "date": "1975-01-01"
-  }, 
-  {
-    "id": 30,
-    "title": "1980",
-    "theme": "labels",
-    "date": "1980-01-01"
-  },
-
-  {
-    "id": 31,
-    "title": "1985",
-    "theme": "labels",
-    "date": "1985-01-01"
-  },
-  {
-    "id": 32,
-    "title": "1990",
-    "theme": "labels",
-    "date": "1990-01-01"
-  },
-  {
-    "id": 33,
-    "title": "1950",
-    "theme": "labels",
-    "date": "1995-01-01"
-  }, 
-  {
-    "id": 2000,
-    "title": "1945",
-    "theme": "labels",
-    "date": "1995-01-01"
-  }, 
-  {
-    "id": 2001,
-    "title": "1955",
-    "theme": "labels",
-    "date": "1995-01-01"
-  }, 
-  {
-    "id": 2002,
-    "title": "1960",
-    "theme": "labels",
-    "date": "1995-01-01"
-  }, 
+  { "id": 21, "title": "1945", "theme": "labels", "date": "1945-01-01" },
+  { "id": 22, "title": "1950", "theme": "labels", "date": "1950-01-01" },
+  { "id": 23, "title": "1955", "theme": "labels", "date": "1955-01-01" },
+  { "id": 24, "title": "1960", "theme": "labels", "date": "1960-01-01" },
+  { "id": 25, "title": "1965", "theme": "labels", "date": "1965-01-01" },
+  { "id": 26, "title": "1970", "theme": "labels", "date": "1970-01-01" },
+  { "id": 27, "title": "1975", "theme": "labels", "date": "1975-01-01" },
+  { "id": 28, "title": "1980", "theme": "labels", "date": "1980-01-01" },
+  { "id": 29, "title": "1985", "theme": "labels", "date": "1985-01-01" },
+  { "id": 30, "title": "1990", "theme": "labels", "date": "1990-01-01" },
 
 
 
@@ -1490,7 +1436,7 @@
           "time": "no time",
           "date": "1972-1-28",
           "TranscriptImages": [
-            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+            { "image": "images/Police/28.1.1972 -Mangrone Nine.jpg" }
           ],
           "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <a href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
         },
