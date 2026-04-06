@@ -1423,10 +1423,8 @@
       "audiofile":"Final Project/audio/riots/Clapping Back - Tottenham riots 12.1.1986 (1).mp3",
       "content": "Report about the Metropolitan Police response to the Broadwater Farm riots."
       }, 
-
-      [
         {
-          "id": 1072,
+          "id": 72,
           "title": "Mangrove Nine",
           "theme": "Police",
           "time": "no time",
@@ -1437,7 +1435,7 @@
           "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <a href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
         },
         {
-          "id": 1073,
+          "id": 73,
           "title": "5.9.1973: Crime for 9.30pm",
           "theme": "Police",
           "time": "9.30pm",
@@ -1448,7 +1446,7 @@
           "content": "The report refers to ‘mugging’ as a ‘relatively new offence’. Does that refer to a legal definition of ‘mugging’, or rather a social label used extensively in the media at the time? For more context, have a look at the book Policing the Crisis, referenced in the introduction to this collection"
         },
         {
-          "id": 1074,
+          "id": 74,
           "title": "30.9.1975: Siege for 1pm",
           "theme": "Police",
           "time": "1pm",
@@ -1460,7 +1458,7 @@
           "content": "Does the report help listeners understand who is involved in this siege, why and who the ‘three gunmen’ are?"
         },
         {
-          "id": 1075,
+          "id": 75,
           "title": "30.6.1976: Spaghetti for 10pm",
           "theme": "Police",
           "time": "10pm",
@@ -1471,7 +1469,7 @@
           "content": " Does the report give any information about who the convicted men are?"
         },
         {
-          "id": 1076,
+          "id": 76,
           "title": "11.8.1977: National Front for 6pm",
           "theme": "Police",
           "time": "6pm",
@@ -1482,7 +1480,7 @@
           "content": "Given the racialised meaning the term ‘mugging’ had at the time, what are the connotations of describing a National Front march as ‘anti-mugging’? Does the report explain why the National Front use the term ‘anti-mugging'?"
         },
         {
-          "id": 1077,
+          "id": 77,
           "title": "20.5.1980: Loitering for 10pm",
           "theme": "Police",
           "time": "10pm",
@@ -1495,9 +1493,9 @@
           "content": "The report says that the <a href='https://www.thetimes.com/uk/obituaries/article/john-clare-obituary-ln6dnhz2c'> BBC’s Community Relations correspondent John Clare </a> ‘explains how the sus law has been operating and sums up the arguments that have been used against it’. To what does <a href='https://irr.org.uk/article/fighting-sus-then-and-now/'> John Clare’s report explain the opposition to the sus law </a>? Is there any mention of the widespread campaigns by a broad coalition of black groups and lawyers at the time, asking to repeal this law?"
         },
         {
-          "id": 1078,
+          "id": 78,
           "title": "6.10.1985: Tottenham Demo for 7/8/9am",
-          "theme": "Police}",
+          "theme": "Police",
           "time": "7/8/9am",
           "date": "1985-10-6",
           "TranscriptImages": [
@@ -1507,7 +1505,7 @@
           "content": "This report is about the death of Mrs Cynthia Jarrett. What is the impression listeners would have got about how and why Mrs Jarrett died? What sources do you think this report is based on?."
         },
         {
-          "id": 1079,
+          "id": 79,
           "title": "21.5.1988: Drugs for 6pm",
           "theme": "Police",
           "time": "6pm",
@@ -1518,7 +1516,7 @@
           "content": "The cue title for this news item says it all...This report about eleven men who appeared in court for drug charges singles out one of them, the director of the <a href='http://www.wakingthedead.org/frank-critchlow.html'> Mangrove Club, Mr Frank Critchlow </a>. The report does not mention that Critchlow was one of the Black British activists at the historic Mangrove Nine Trial. This is in fact the only reference we found to Frank Critchlow on R4 news during the 1970s and 1980s."
         },
         {
-          "id": 1080,
+          "id": 80,
           "title": "21.12.1993: Lawrence for midnight",
           "theme": "Police",
           "time": "midnight",
@@ -1528,7 +1526,7 @@
           ],
           "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read here about that meeting. "
         }
-      ]
+
 
 
 ]
