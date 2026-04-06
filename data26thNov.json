@@ -1511,7 +1511,7 @@
           "time": "6pm",
           "date": "1988-5-21",
           "TranscriptImages": [
-            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+            { "image": "images/Police/21.5.1988 arrest of Frank Critchlow.jpg" }
           ],
           "content": "The cue title for this news item says it all...This report about eleven men who appeared in court for drug charges singles out one of them, the director of the <a href='http://www.wakingthedead.org/frank-critchlow.html'> Mangrove Club, Mr Frank Critchlow </a>. The report does not mention that Critchlow was one of the Black British activists at the historic Mangrove Nine Trial. This is in fact the only reference we found to Frank Critchlow on R4 news during the 1970s and 1980s."
         },
@@ -1522,7 +1522,8 @@
           "time": "midnight",
           "date": "1993-12-21",
           "TranscriptImages": [
-            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 1.jpg" },
+            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 2.jpg" }
           ],
           "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read here about that meeting. "
         }
