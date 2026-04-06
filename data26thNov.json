@@ -235,10 +235,32 @@
   },
   {
     "id": 33,
-    "title": "1995",
+    "title": "1950",
     "theme": "labels",
     "date": "1995-01-01"
   }, 
+  {
+    "id": 2000,
+    "title": "1945",
+    "theme": "labels",
+    "date": "1995-01-01"
+  }, 
+  {
+    "id": 2001,
+    "title": "1955",
+    "theme": "labels",
+    "date": "1995-01-01"
+  }, 
+  {
+    "id": 2002,
+    "title": "1960",
+    "theme": "labels",
+    "date": "1995-01-01"
+  }, 
+
+
+
+
   {
     "id": 34,
     "title": " 10.1.1948 Australia-immigration for 6pm",
@@ -649,7 +671,7 @@
   "date": "1971-11-23",
   "TranscriptImages": 
     [
-      { "image": "Police/23.11.1971 Oluwale trial .jpg" }
+      { "image": "images/Police/23.11.1971 Oluwale trial .jpg" }
     ],
   "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’.  How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?  "
 }, 
@@ -1458,7 +1480,113 @@
       "audiocontent":"Listen to our podcast contributors discussing this report: ",
       "audiofile":"Final Project/audio/riots/Clapping Back - Tottenham riots 12.1.1986 (1).mp3",
       "content": "Report about the Metropolitan Police response to the Broadwater Farm riots."
-      }
+      }, 
+
+      [
+        {
+          "id": 1072,
+          "title": "Mangrove Nine",
+          "theme": "Police",
+          "time": "no time",
+          "date": "1972-1-28",
+          "TranscriptImages": [
+            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+          ],
+          "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <a href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
+        },
+        {
+          "id": 1073,
+          "title": "5.9.1973: Crime for 9.30pm",
+          "theme": "Police",
+          "time": "9.30pm",
+          "date": "1973-9-5",
+          "TranscriptImages": [
+            { "image": "images/Police/5.9.1973 Mugging .jpg"}
+          ],
+          "content": "The report refers to ‘mugging’ as a ‘relatively new offence’. Does that refer to a legal definition of ‘mugging’, or rather a social label used extensively in the media at the time? For more context, have a look at the book Policing the Crisis, referenced in the introduction to this collection"
+        },
+        {
+          "id": 1074,
+          "title": "30.9.1975: Siege for 1pm",
+          "theme": "Police",
+          "time": "1pm",
+          "date": "1975-9-30",
+          "TranscriptImages": [
+            { "image": "images/Police/30.9.1975 Spaghetti House siege - page 1.jpg" }, 
+            {"image": "images/Police/30.9.1975 Spaghetti House siege - page 2.jpg"}
+          ],
+          "content": "Does the report help listeners understand who is involved in this siege, why and who the ‘three gunmen’ are?"
+        },
+        {
+          "id": 1075,
+          "title": "30.6.1976: Spaghetti for 10pm",
+          "theme": "Police",
+          "time": "10pm",
+          "date": "1976-6-30",
+          "TranscriptImages": [
+            { "image": "images/Police/30.6.1976 Spaghetti House siege trial.jpg" }
+          ],
+          "content": " Does the report give any information about who the convicted men are?"
+        },
+        {
+          "id": 1076,
+          "title": "11.8.1977: National Front for 6pm",
+          "theme": "Police",
+          "time": "6pm",
+          "date": "1977-8-11",
+          "TranscriptImages": [
+            { "image": "images/Police/11.8.1977 NF's anti-mugging motto.jpg" }
+          ],
+          "content": "Given the racialised meaning the term ‘mugging’ had at the time, what are the connotations of describing a National Front march as ‘anti-mugging’? Does the report explain why the National Front use the term ‘anti-mugging'?"
+        },
+        {
+          "id": 1077,
+          "title": "20.5.1980: Loitering for 10pm",
+          "theme": "Police",
+          "time": "10pm",
+          "date": "1980-5-20",
+          "TranscriptImages": [
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 1.jpg" }, 
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 2.jpg" },
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 3.jpg" }
+          ],
+          "content": "The report says that the <a href='https://www.thetimes.com/uk/obituaries/article/john-clare-obituary-ln6dnhz2c'> BBC’s Community Relations correspondent John Clare </a> ‘explains how the sus law has been operating and sums up the arguments that have been used against it’. To what does <a href='https://irr.org.uk/article/fighting-sus-then-and-now/'> John Clare’s report explain the opposition to the sus law </a>? Is there any mention of the widespread campaigns by a broad coalition of black groups and lawyers at the time, asking to repeal this law?"
+        },
+        {
+          "id": 1078,
+          "title": "6.10.1985: Tottenham Demo for 7/8/9am",
+          "theme": "Police}",
+          "time": "7/8/9am",
+          "date": "1985-10-6",
+          "TranscriptImages": [
+            { "image": "images/Police/6.10.1985 Cynthia Jarrett's death - page 1.jpg" },
+            { "image": "images/Police/6.10.1985 Cynthia Jarrett's death - page 2.jpg" }
+          ],
+          "content": "This report is about the death of Mrs Cynthia Jarrett. What is the impression listeners would have got about how and why Mrs Jarrett died? What sources do you think this report is based on?."
+        },
+        {
+          "id": 1079,
+          "title": "21.5.1988: Drugs for 6pm",
+          "theme": "Police",
+          "time": "6pm",
+          "date": "1988-5-21",
+          "TranscriptImages": [
+            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+          ],
+          "content": "The cue title for this news item says it all...This report about eleven men who appeared in court for drug charges singles out one of them, the director of the <a href='http://www.wakingthedead.org/frank-critchlow.html'> Mangrove Club, Mr Frank Critchlow </a>. The report does not mention that Critchlow was one of the Black British activists at the historic Mangrove Nine Trial. This is in fact the only reference we found to Frank Critchlow on R4 news during the 1970s and 1980s."
+        },
+        {
+          "id": 1080,
+          "title": "21.12.1993: Lawrence for midnight",
+          "theme": "Police",
+          "time": "midnight",
+          "date": "1993-12-21",
+          "TranscriptImages": [
+            { "image": "/Users/mgreen/Desktop/Radio Website/Final Project/images/" }
+          ],
+          "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read here about that meeting. "
+        }
+      ]
 
 
 ]
