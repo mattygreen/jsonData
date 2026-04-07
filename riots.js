@@ -239,6 +239,7 @@ function createTimeLineStructure(data) {
             const audioTag = document.createElement('audio');
             const audiotagsource = document.createElement('source');
             audiotagsource.src = `${item.audiofile}`;
+            audiotagsource.type="audio/mpeg"; 
             audioTag.controls = true;
             modalBody.appendChild(audiotitle);
             modalBody.appendChild(audioTag);
@@ -250,6 +251,7 @@ function createTimeLineStructure(data) {
                 const audioTag2 = document.createElement('audio');
                 const audiotagsource2 = document.createElement('source');
                 audiotagsource2.src = `${item.audiofile2}`;
+                audiotagsource2.type = "audio/mpeg";
                 audioTag2.controls = true;
                 const modalBody2 = modalContentBox.querySelector('[data-modal-body]')
                 modalBody.appendChild(audiotitle2);
