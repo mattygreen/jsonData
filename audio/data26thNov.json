@@ -1,0 +1,1537 @@
+[
+    {
+      "id": 2,
+      "title": "11.8.77, 10pm, Radio 4",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1977-8-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.77_Anti-racist_march.jpg", "description": "This image shows the march", "alt": "This image talks about the march" }
+      ],
+      "content": "This seems to be the first time the word ‘anti-racist’ is reported on this BBC radio service (Radio 4).  Why do you think it is only in 1977 that this word is used on one of the most popular radio news bulletins in the country? And what do you think of this word being used in connection with the National Front?"
+    },
+    {
+      "id": 3,
+      "title": "10.07.1964, Home Service",
+      "theme": "anti-racism",
+      "date": "1965-7-10",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/10.7.64_Malcolm_X.jpg", "description": "Description 1", "alt":"Malcolm X" }
+      ],
+      "content": ""
+    },
+    {
+      "id": 4,
+      "title": "14.02.1965, 6pm, Malcolm X, Home Service",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1965-02-14",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
+        { "image": "images/anti-racism/14.2.65_Malcolm_X_page_2.jpg", "description": "Description 2" }
+      ],
+      "content": "In the section about the use of language of the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation:  Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval) And yet in the context of 1960s Black activism the word is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure."
+    },
+    {
+      "id": 5,
+      "title": "21.2.65 Malcolm X for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1965-02-21",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_1.jpg", "description": "Description 1" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_2.jpg", "description": "Description 2" },
+        { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page 3.jpg", "description": "Description 3" }
+      ],
+      "content": "The 1967 BBC News Style Guide notes this about obituaries:The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. o you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+    },
+    {
+      "id": 6,
+      "title": "24.7.67 Carmichael for  11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-24",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "27.7.67 23:00 Racialists for 11pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-07-27",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
+      ],
+      "content": "As you can see in this original news script, the title of this item is ‘Racialists’.‘Labelling’ news items has been useful for news organisation but it can also be revealing of BBC’s own views and bias. In this case, R4 has classified both Stokely Carmichael and Michael de Freitas as ‘racialists’. They have also chosen to follow this report with a news item about race riots in Detroit.How do you think these editorial decisions shape the focus and tone of the news script?"
+    }, 
+    {
+      "id": 8,
+      "title": "11.8.1967 Freitas for 6pm",
+      "theme": "anti-racism",
+      "time": "6pm",
+      "date": "1967-08-11",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/11.8.67_Freitas'_arrest.jpg"}
+      ],
+      "content": "Why do you think the last sentence of this news script has been crossed out?"
+    }, 
+    {
+      "id": 9,
+      "title": "20.8.67 Title Racial for 1pm",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1967-08-20",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_1.jpg"},
+        { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_2.jpg"}
+      ],
+      "content": "The 1967 BBC News Style Guide includes no guidance on the use of the word ‘negro’. Based on our research, the word is hardly used around this time on R4, and when it is, it is in reference to a US news story, like in this script. How do you think this report may have sounded to Black listeners in the UK at the time?  t?"
+    },
+  {
+    "id": 11,
+    "title": "3.12.1967 Card Conference",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1967-12-03",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page 1.jpg"},
+      { "image": "images/anti-racism/3.12.67_CARD_conference_page_2.jpg"}
+    ],
+    "content": "This is a dense article about the divisions within the Campaign Against Racial Discrimination (CARD). Read about the birth of CARD in this 1964 newspaper article. How impartial, do you think, the reporting on this division is? Does it suffice to identify Dr. David Pitt in principally ethnic terms? Does the article offer a fair representation of the views of the two key figures in this dispute, Mr Anthony Lester and Dr. David Pitt?"
+  },
+  {
+    "id": 12,
+    "title": "11.9.69 BLACK POWER for 1.00 p.m",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-11",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 13,
+    "title": "12.9.69 BLACK POWER FOR 11 P.M.  ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1969-09-12",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
+    ]
+  },
+  {
+    "id": 14,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-18",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 15,
+    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1970-04-17",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
+      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+    ],
+    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+  },
+  {
+    "id": 16,
+    "title": "21.4.70 TITLE INITIALS TRINIDAD FOR 6.00 p.m.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-21",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/21.4.70_Trinidad_and_Black Power.jpg"}
+    ],
+    "content": "Are we told the reasons why Black Power demonstrations have led to declaring a state of emergency in Trinidad? "
+  }, 
+  {
+    "id": 17,
+    "title": " 27.4.70 TITLE BLACK POWER for 10pm.",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-04-27",
+    "TranscriptImages": [
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_1.jpg"}, 
+      { "image": "images/anti-racism/27.4.70_Marlborough_St_Magistrates_Court_page_2.jpg"}
+    ],
+    "content": "How does the coverage of this court case compare with the one about Michael Malik (18.4.1970)?"
+  },
+  {
+    "id": 19,
+    "title": "8.9.1970 Black Power Man for 7, 8, 9am",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1970-09-08",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/8.9.70_Enos Beach.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+  {
+    "id": 20,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "why is this newsworthy?"
+  }, 
+
+
+
+  { "id": 21, "title": "1945", "theme": "labels", "date": "1945-01-01" },
+  { "id": 22, "title": "1950", "theme": "labels", "date": "1950-01-01" },
+  { "id": 23, "title": "1955", "theme": "labels", "date": "1955-01-01" },
+  { "id": 24, "title": "1960", "theme": "labels", "date": "1960-01-01" },
+  { "id": 25, "title": "1965", "theme": "labels", "date": "1965-01-01" },
+  { "id": 26, "title": "1970", "theme": "labels", "date": "1970-01-01" },
+  { "id": 27, "title": "1975", "theme": "labels", "date": "1975-01-01" },
+  { "id": 28, "title": "1980", "theme": "labels", "date": "1980-01-01" },
+  { "id": 29, "title": "1985", "theme": "labels", "date": "1985-01-01" },
+  { "id": 30, "title": "1990", "theme": "labels", "date": "1990-01-01" },
+
+
+
+
+  {
+    "id": 34,
+    "title": " 10.1.1948 Australia-immigration for 6pm",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-01-10",
+    "TranscriptImages": [
+      { "image": "images/arrivals/10.1.48_British migrants_in_Australia.jpg"}
+    ],
+    "content": "Who does the report seem to lay the blame of the problem of the ‘homeless British migrant family’ on? The British, or Australian authorities? Or, the migrants themselves? The report notes that ‘there were British families who sold their homes to raise the fare to Australia...’ highlighting the sacrifices these migrants make."
+  }, 
+  {
+    "id": 35,
+    "title": "25.5.1948: Liner Aquitania for 9am",
+    "theme": "arrivals",
+    "time": "6pm",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as “dollar -tourists”?"
+  }, 
+  {
+    "id": 36,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am",
+    "theme": "arrivals",
+    "time": "9am",
+    "date": "1948-05-25",
+    "TranscriptImages": [
+      { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
+    ],
+    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as 'dollar -tourists'"
+  }, 
+
+  {
+    "id": 37,
+    "title": "27.5.1948: Yesterday in Parliament – British emigration to Commonwealth for 10.15am  ",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1948-05-27",
+    "TranscriptImages": [
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}, 
+      { "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"}
+    ],
+    "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
+  },
+  {
+    "id": 38,
+    "title": "15.2.1949: Australian immigration for 1pm",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-02-15",
+    "TranscriptImages": 
+      [{ "image": "images/arrivals/15.2.49_Australian_immigration.jpg"}], 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations?"
+  }, 
+  {
+    "id": 39,
+    "title": "26.6.1949: West Indians for 9am",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-06-26",
+    "TranscriptImages": 
+      [{ "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}], 
+    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations? <br> <br>  how pupils of the King’s Leadership Academy in Liverpool have re-written this report", 
+    "audiocontent": "Clapback Podcast"
+  }, 
+
+  {
+    "id": 40,
+    "title": "4.11.1949:  Immigrants for 6pm ",
+    "theme": "arrivals",
+    "time": "1pm",
+    "date": "1949-11-04",
+    "TranscriptImages": 
+      [{ "image": "images/arrivals/4.11.49_Immigrants_page_1.jpg"},
+      { "image": "images/arrivals/4.11.49_Immigrants_page_2.jpg"}
+     ],
+    "content": "At the time of this news report the term ‘alien’ referred to refugees. The report frames immigration in terms such as ‘the country being swamped by foreigners’ and Britain as a safe haven for political refugees. The quote by the Home Office official stresses who a ‘deserving refugee’ may be.  "
+  }, 
+
+
+  {
+    "id": 41,
+    "title": "26.9.1973: Black Education for 1pm",
+    "theme": "education",
+    "time": "1pm",
+    "date": "1973-09-26",
+    "TranscriptImages": 
+      [{ "image": "images/Education/26.9.73 Immigrant children - page 1.jpg"},
+      { "image": "images/Education/26.9.73 Immigrant children - page 2.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 3.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 4.jpg"}, 
+      { "image": "images/Education/26.9.73 Immigrant children - page 5.jpg"}
+     ], 
+    "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
+    "audiocontent": "Clapback Podcast", 
+    "audiofile2": "audio/education/Liverpool's King's Leadership Academy Clapping back - Black education - 19.4.24.mp3", 
+   "audiocontent2": "Liverpool King's Academy Clapping Back Podcast"
+
+  }, 
+  {
+  "id": 42,
+  "title": "18.4.1978: West Indians for 1pm ",
+  "theme": "education",
+  "time": "1pm",
+  "date": "1978-04-18",
+  "TranscriptImages": 
+    [{ "image": "images/Education/18.4.78 report about West Indian children  - page 1.jpg"},
+    { "image": "images/Education/18.4.78 report about West Indian children  - page 2.jpg"}
+   ], 
+   "content": "Unlike the majority of news stories which focused on education reports compiled by establishment and government authorities, this one refers to a study produced by ‘a working party of mostly West Indian teachers and parents’. Based on John Clare’s report, how much information are we given about this working party and their objectives?"
+}, 
+{
+  "id": 43,
+  "title": "22.9.1978: Race for 8am ",
+  "theme": "education",
+  "time": "8am",
+  "date": "1978-09-22",
+  "TranscriptImages": 
+    [{ "image": "images/Education/22.9.78 Guide for teachers  - page 1.jpg"},
+    { "image": "images/Education/22.9.78 Guide for teachers - page 2 .jpg"}, 
+    { "image": "images/Education/18.4.78 report about West Indian children  - page 2.jpg"}
+   ], 
+   "content": "This news item is about a guide for teachers written by a Biology Professor and an Educational Psychologist. We are told that this is a pamphlet ‘said to represent the consolidated wisdom of the British university establishment.’ How does this description contrast with what we are told about the report by a ‘working party of mostly West Indian teachers and parents’ in the previous news story (18.4.78)?"
+}, 
+{"id": 44,
+  "title": "09.7.1979: Teachers for 1pm",
+  "theme": "education",
+  "time": "8am",
+  "date": "1979-07-9",
+  "TranscriptImages": 
+    [{ "image": "images/Education/9.7.79 Labour Party Race Relations Action Group.jpg"}
+   ]
+}, 
+  {"id": 45,
+  "title": "09.3.1981: Immigrant Education for 10pm ",
+  "theme": "education",
+  "time": "8am",
+  "date": "1981-09-3",
+  "TranscriptImages": 
+    [{ "image": "images/Education/9.3.81 Immigrant Education - page 1.jpg"},
+    { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
+   ],
+   "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British? "
+}, 
+
+{"id": 47,
+  "title": "17.6.1981: Black Pupils for 12am",
+  "theme": "education",
+  "time": "12am",
+  "date": "1981-06-17",
+  "TranscriptImages": 
+    [{ "image": "images/Education/17.6.81 Education for West Indian children - page 1.jpg"},
+    { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
+   ],
+   "audiofile": "audio/education/Clapping back - Black Pupils - 15.3.24.mp3",
+   "audiocontent": "Clapback Podcast"
+}, 
+
+{"id": 48,
+  "title": "24.10.1981: Brent for 7am ",
+  "theme": "education",
+  "time": "7am",
+  "date": "1986-10-24",
+  "TranscriptImages": 
+    [{ "image": "images/Education/24.10.86 Brent Council  - page 1.jpg"},
+    { "image": "images/Education/24.10.86 Brent Council  - page 2.jpg"}
+   ],
+   "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
+   "audiocontent": "Clapback Podcast"
+}, 
+{"id": 49,
+  "title": "26.6.1987: Exam Results for 7am ",
+  "theme": "education",
+  "time": "7am",
+  "date": "1987-06-26",
+  "TranscriptImages": 
+    [{ "image": "images/Education/26.6.87 Inner London Education Authority study - page 1.jpg"},
+    { "image": "images/Education/26.6.87 Inner London Education Authority study - page 2.jpg"}
+   ],
+   "audiofile": "audio/education/Clapping back - Brent Council - 15.3.24.mp3",
+   "audiocontent": "Clapback Podcast"
+},
+
+{"id": 50,
+  "title": "24.2.1949: Boxing for 6.15pm ",
+  "theme": "Sports",
+  "time": "6pm",
+  "date": "1949-02-24",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/24.2.1949 Boxing-Turpin.jpg" }
+    ],
+  "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report names a few public authority figures who signed the statement to protest against the South African cricket tour. Why are these individuals named and how do you think they represent this campaign? The leaflet below lists the fixtures in the South African Springbok cricket team’s 1960 tour of England. The leaflet asked people to protest to the South African Cricket Association at its selection of a whites-only team. There were protests at many of the games, including Sheffield, where activists planned to paint anti-apartheid slogans on the walls of the stadium."
+},
+
+{"id": 51,
+  "title": "10.4.1960: Cricket Protest for 8 & 9am ",
+  "theme": "Sports",
+  "time": "8am",
+  "date": "1960-04-10",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/10.4.1960 Cricket Protest - South Africa.jpg" }
+    ],
+  "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report names a few public authority figures who signed the statement to protest against the South African cricket tour. Why are these individuals named and how do you think they represent this campaign? The leaflet below lists the fixtures in the South African Springbok cricket team’s 1960 tour of England. The leaflet asked people to protest to the South African Cricket Association at its selection of a whites-only team. There were protests at many of the games, including Sheffield, where activists planned to paint anti-apartheid slogans on the walls of the stadium.  "
+},
+
+{"id": 52,
+  "title": "20.12.1969: Springboks for 7, 8 & 9am ",
+  "theme": "Sports",
+  "time": "7am",
+  "date": "1969-12-20",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/27.11.1969 - Stop the Seventy Tour.jpg" }
+    ], 
+  "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report from 1969 is about the ‘Stop the Seventy Tour’ which campaigned for the cancellation of the all-white Springbok cricket series in June 1970. How is the demonstration planned by the Stop the Seventy Tour committee described in this report? You may want to compare it to the BBC’s reporting of anti-racist demonstrations covered in collections such as Relations with the Police and Antiracism and Resistance. "
+},
+{"id": 53,
+  "title": "20.1.1970: Vandals for 6pm ",
+  "theme": "Sports",
+  "time": "6pm",
+  "date": "1970-01-20",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/20.1.1970 Violence at cricket grounds.jpg" }
+    ],
+  "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report is about the ‘outbreak of vandalism’ at several cricket grounds in a protest against the South African tour scheduled in the summer of 1970. What language is used to describe this protest and who is involved in it? You may want to compare it to the BBC’s reporting of anti-racist demonstrations covered in collections such as Relations with the Police."
+},
+
+{"id": 54,
+  "title": "19.5.1970: Cricket for 6pm ",
+  "theme": "Sports",
+  "time": "6pm",
+  "date": "1970-05-19",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/20.5.1970  Calling off South African cricket tour  - page 1.jpg" },
+      { "image": "images/sports/20.5.1970  Calling off South African cricket tour  - page 2.jpg" }
+    ],
+    "content":"Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report is about rumours that the South African Test Tour has been called off and reactions to this decision in Johannesburg, UK and beyond. Whose reactions does the report choose to highlight?"
+},
+
+{"id": 55,
+  "title": "2.10.1971: Sports Round-Up for 10pm ",
+  "theme": "Sports",
+  "time": "10pm",
+  "date": "1971-10-02",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/2.10.1971 Anita Neil.jpg" }
+    ],
+  "content":"We have selected this news report because it mentions Anita Neil who is now widely regarded as a pioneer in the history of British Olympians, being the first female Black athlete to represent Great Britain. The report mentions a new world record established by the British Women’s Relay Test that included Anita Neil, Janet Roscoe, Helen Golden and Sharon Colyear. What do you think of the order of news items in this sports round-up? Why do you think a world record achievement is reported right at the end?"
+},
+
+
+
+
+{"id": 56,
+  "title": "9.5.1975: Conteh for 10pm ",
+  "theme": "Sports",
+  "time": "10pm",
+  "date": "1975-05-09",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/9.5.1975 J Conteh court case - page 1.jpg" },
+      {"image": "images/sports/9.5.1975 J Conteh court case - page 2.jpg"}
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about the legal action Conteh took against the British Boxing Board of Control. How does this report portray Conteh as an individual and a professional? "
+}, 
+{"id": 57,
+  "title": "17.5.1977: Conteh for 10pm ",
+  "theme": "Sports",
+  "time": "10pm",
+  "date": "1977-05-17",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/17.5.1977 J Conteh withdrawal.jpg" }
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about Conteh’s decision to withdraw from a fight in Monte Carlo in which he was due to defend his World Light Heavyweight title. How much information are we given about the reasons for his withdrawal? "
+}, 
+
+{"id": 58,
+  "title": "23.11.1978: Conteh for 1pm ",
+  "theme": "Sports",
+  "time": "1pm",
+  "date": "1978-11-23",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/23.11.1978 J Conteh and car collision.jpg" }
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about a car incident Conteh was involved in. Why is this newsworthy? And how could journalists have found out about this?"
+},
+
+{"id": 59,
+  "title": "31.3.1980: Conteh for 7,8 & 9 am ",
+  "theme": "Sports",
+  "time": "7am",
+  "date": "1980-03-31",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/31.3.1980 John Conteh and hotel trouble.jpg" }
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about Conteh creating a disturbance in his hotel. Why is this newsworthy? And why are we given details of what Conteh was wearing?"
+},
+
+{"id": 60,
+  "title": "1.4.1980: Conteh for 6pm ",
+  "theme": "Sports",
+  "time": "6pm",
+  "date": "1980-04-01",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/1.4.1980 J Conteh retirement  - page 1.jpg" }, 
+      {"image":"images/sports/1.4.1980 J Conteh retirement  - page 2.jpg"}
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about Conteh’s failure to regain the World Light Heavyweight title in America. It is also a rare occasion when Conteh’s own words and thoughts are included in the report, but in this case to defend and explain his defeat rather than to celebrate a win. "
+},
+
+{"id": 61,
+  "title": "9.3.1981: Conteh for 10pm ",
+  "theme": "Sports",
+  "time": "10pm",
+  "date": "1981-03-09",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/9.3.1981 J Conteh and restaurant incident.jpg" }
+    ],
+  "content": "John Conteh, a World Boxing Champion, was born in Liverpool to an Irish mother and a Sierra Leonean father. From the mid-1970s until the early 1980s, when he retired from boxing, Conteh received a lot of media attention; some of it had nothing to do with his sports career. This news report is about Conteh being charged with assault after an incident in a restaurant. How much information are we given about the reasons for the assault? How is Conteh portrayed? "
+},
+
+{"id": 62,
+  "title": "6.6.1986: Bevan for 1pm  ",
+  "theme": "Sports",
+  "time": "1pm",
+  "date": "1986-06-06",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/6.6. 1986 Bevan rugby.jpg" }
+    ],
+    "content": "This news report is about the death of John Bevan, the former Welsh rugby international and national coach. We have selected this news item to highlight an absence: a year earlier, in 1985, Clive Sullivan, a Welsh rugby league footballer, died. Captaining for Great Britain in 1972, he is considered the first Black captain for Great Britain in any sport. And yet, we found no Radio 4 news item about his death or about any of his achievements. In 2023, the BBC broadcast <a href=\"https://www.bbc.co.uk/programmes/m001d3km\" target=\"_blank\">Clive Sullivan: Rugby League Legend</a>. You can read more about Sullivan’s life and career on African Stories in Hull and"
+
+},
+
+{"id": 63,
+  "title": "31.7.1986: Games for midnight ",
+  "theme": "Sports",
+  "time": "12am",
+  "date": "1986-07-31",
+  "TranscriptImages": 
+    [
+      { "image": "images/sports/31.7.1986 Tessa Sanderson.jpg" }
+    ],
+  "content": "This news item is a report of the 1986 Commonwealth Games. It’s the year that Tessa Sanderson, England’s Olympic javelin champion, won the gold medal and set a new Games record. And yet, her achievement is reported right at the end of this report. "
+},
+
+{"id": 64,
+  "title": "6.6 Cochrane for 6pm",
+  "theme": "Police",
+  "time": "6pm",
+  "date": "1959-06-06",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/6.6.1959 Cochrane funeral - page 1.jpg" },
+      { "image": "images/Police/6.6.1959 Cochrane funeral - page 2.jpg" }
+    ],
+  "content": "This report is about the funeral of Kelso Cochrane and, as you can see in the original script, it is the last item in the bulletin, after Princess Margaret’s visit to Portugal. In his book <a href=\"https://www.penguin.co.uk/books/304774/african-and-caribbean-people-in-britain-by-adi-hakim/9781802060683\" target=\"_blank\">African and Caribbean People in Britain: A history, award-winning historian Hakim Adi </a>wrote that Kelso Cochrane’s funeral was a major political event, attended by thousands, including the Prime Minister of the West Indies Federation. (pp. 57-59) Do you come to the same conclusion when reading this report? <a href=\"https://www.youtube.com/watch?v=IfkInzCUz1c\" target=\"_blank\">You can watch the funeral, captured by British Pathè. </a>"
+},
+
+{"id": 65,
+  "title": "5.8.1959: Cochrane Inquest for 6pm",
+  "theme": "Police",
+  "time": "6pm",
+  "date": "1959-08-05",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/5.8.1959 Cochrane verdict  - page 1.jpg" },
+      { "image": "images/Police/5.8.1959 Cochrane verdict  - page 2.jpg" },
+      {"image":"images/Police/5.8.1959 Cochrane verdict  - page 3.jpg"}
+    ],
+  "content": "This report about the verdict returned at the inquest on the murder of Kelso Cochrane is one of the last items in the bulletin. Does the report offer any other viewpoints to contextualise and further interrogate the Coroner’s verdict that this crime did not have anything to do with racial trouble and that Cochrane’s attackers were only trying to steal money? And, how are we then to make sense of the report about the march against racial hatred that Cochrane’s murder sparked off a month earlier? (report of 7.6.1959)"
+},
+
+{"id": 66,
+  "title": "17.11.1971: Leeds Trial for 11.16 pm",
+  "theme": "Police",
+  "time": "11.16pm",
+  "date": "1971-11-17",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/17.11.1971 Oluwale trial - page 1.jpg" },
+      { "image": "images/Police/17.11.1971 Oluwale trial - page 2.jpg" }
+    ],
+  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale, calls the trial ‘the Nigerian vagrant’ trial, and David Oluwale is called a ‘Nigerian vagrant’ throughout the report. Is that label necessary or useful for viewers to understand what happened? A few years later, in 1979, the BBC News Guide specified that:We try to avoid giving needless offence, not least over matters of race. In certain circumstances it is wrong to identify a man as, say, a West Indian or a Pakistani when to do so may needlessly foster prejudice.Based on your experience of listening /watching BBC news, have the BBC been following that guidance?"
+
+},
+
+{"id": 67,
+  "title": "Nigerian for 6pm",
+  "theme": "Police",
+  "time": "6pm",
+  "date": "1971-11-23",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/23.11.1971 Oluwale trial .jpg" }
+    ],
+  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’.  How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?  "
+}, 
+
+{"id": 68,
+  "title": "Nigerian for 6pm",
+  "theme": "Police",
+  "time": "6pm",
+  "date": "1971-11-23",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/23.11.1971 Oluwale trial .jpg" }
+    ],
+  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’. How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?"
+}, 
+
+{"id": 69,
+  "title": "Oluwale for 10pm",
+  "theme": "Police",
+  "time": "10pm",
+  "date": "1971-11-23",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
+    ],
+  "content": "According to this report, the two police officers accused of assaulting David Oluwale were convicted for three years in prison. Why do you think the judge’s words are crossed out on the original script?"
+}, 
+
+{"id": 70,
+  "title": "Leeds for 1pm",
+  "theme": "Police",
+  "time": "10pm",
+  "date": "1971-11-23",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
+    ],
+  "content": "This report is about the Chief Constable of Leeds’ response to calls for a public inquiry into the Leeds police force in the aftermath of the two police officers’ conviction for assaulting David Oluwale. How balanced is the report? Does it include any viewpoints by those who are calling for a public inquiry?"
+},
+
+  {
+    "id": 1004,
+    "title": "31.12.1954: Coloured workers for 6pm",
+    "theme": "Racial Discrimination",
+    "time": "6pm",
+    "date": "1954-12-31",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/31.12.1954 Birmingham coloured bus drivers.jpg"}],
+    "content": "The employment of ‘coloured’ bus drivers in Birmingham became controversial in the 1950s due to the racism which confronted Black people, referred to as the ‘colour bar’. There is no mention of the ‘colour bar’ in this report. Why do you think that is? And how is Birmingham Transport Committee’s decision to employ ‘coloured’ workers on the city’s buses presented?"
+  },
+  {
+    "id": 1005,
+    "title": "28.7.1961: Colour Bar for 10 and 10.30pm",
+    "theme": "Racial Discrimination",
+    "time": "10 and 10.30pm",
+    "date": "1961-07-28",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg" }],
+    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?"
+  },
+  {
+    "id": 1006,
+    "title": "30.6.1962: Immigrants for 10 and 10.30pm",
+    "theme": "Racial Discrimination",
+    "time": "10 and 10.30pm",
+    "date": "1962-06-30",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/30.6.1962 Commonwealth Immigration Act.jpg" }],
+    "audiofile":"audio/racial_discrimination/On the 1962 Immigration Act - 23.02.24 - Group 2 (1).mp3",
+    "content": "For more context about the 1962 Immigration Act, you can access a record of the Parliamentary Debate on the Act  <a href='https://hansard.parliament.uk/Commons/1962-04-19/debates/9e5a3133-2df5-47bc-8bdc-b97771bbfdb9/CommonwealthImmigrantsAct'>here</a>. And you can see how community and anti-racist organisations protested the Bill <a href='https://www.search.connectinghistories.org.uk/Details.aspx?&ResourceID=756&SearchType=2&ThemeID=99>'here.</a> "
+  },
+  {
+    "id": 1007,
+    "title": "4.5.1963: Bristol Colour Bar for 6 and 8.30pm",
+    "theme": "Racial Discrimination",
+    "time": "6 and 8.30pm",
+    "date": "1963-05-04",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/4.5.1963 Bristol colour bar and bus boycott - page 1.jpg" }, 
+  {"image": "images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 2.jpg}"}, 
+{"image":"images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 3.jpg"}],
+"audiofile":"audio/racial_discrimination/On the 1963 Bristol Bus Boycott - 15.3.24 - Group 3.mp3",
+"audiocontent":"Clapback Podcast",
+"content": "You can read more about the 1963 Bristol bus boycott <a href='https://collections.bristolmuseums.org.uk/stories/bristols-black-history/bristol-bus-boycott'> here </a> and about the civil rights campaigner Paul Stephenson <a href='https://www.blackhistorymonth.org.uk/article/section/campaigners-and-activists/paul-stephenson-the-quiet-revolutionary/'> here</a>."
+  },
+  {
+    "id": 1008,
+    "title": "7.12.1964: Smethwick for 7, 8 and 9am",
+    "theme": "Racial Discrimination",
+    "time": "7,8 and 9am",
+    "date": "1964-12-07",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 1.jpg" }, 
+  {"image":"images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 2.jpg"},
+{"image":"images/Racial Discrimination/7.12.1964 Griffiths about Marshall Street - page 3.jpg"}],
+"audiofile":"audio/racial_discrimination/On Smethwick - 15.3.24 - Group 2.mp3",
+"audiocontent":"Clapback Podcast",   "content": "You can read <a href='https://birkbeckuol-my.sharepoint.com/personal/e_liarou_bbk_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination%2FImmigration%20%20race%20and%20local%20media%20%20Smethwick%20and%20the%201964%20general%20election%2Epdf&parent=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FRacial%20Discrimination'>here </a> about the role of local and regional media in helping legitimise Peter Griffiths’ racist campaign in Smethwick in 1964."
+  },
+  {
+    "id": 1009,
+    "title": "2.8.1965: Immigration for 11pm",
+    "theme": "Racial Discrimination",
+    "time": "11 pm",
+    "date": "1965-08-02",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/2.8.1965 Immigration controls - page 1.jpg" }, 
+  {"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 2.jpg"},
+{"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 3.jpg"}, 
+{"image":"images/Racial Discrimination/2.8.1965 Immigration controls - page 4.jpg"}],
+    "content": "This is a report about new measures to control immigration from the Commonwealth, announced in the Commons in 1965.How balanced is the report in terms of assessing what the proposed measures might mean for Commonwealth citizens? How much detail are we given about Dr. David Pitt’s criticism of the measures? You can find out more about Dr. David Pitt’s work and its impact <a href='https://windrush70.co.uk/david-pitt'</a> here."
+  },
+  {
+    "id": 1010,
+    "title": "3.8.1965: Secret Police for 1pm",
+    "theme": "Racial Discrimination",
+    "time": "1 pm",
+    "date": "1965-08-03",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/3.8.1965 - racism in South Africa.jpg" }],
+    "content": "According to our research, this is the first use of the term ‘racism ’ on BBC’s Home Service, and it relates to South Africa, not the UK. Based on our research of the digitised archive of news scripts on Home Service/R4, the term ‘racialism’ is more commonly used in the postwar period for international (e.g. South Africa, Kenya/Mau Mau movement) as well as national news, but, in the UK, it is mostly reserved for the ‘extreme’ examples of race relations and politics (e.g. Smethwick’s election campaign, Enoch Powell’s speeches). The term ‘racism’ is used on this radio service to express an extreme state of racial affairs not associated with the UK, but mostly with South Africa and particularly Rhodesia. The term ‘racism’ starts to be used for UK news on this service in the late 1980s, and more commonly during the <a href='https://www.gov.uk/government/publications/the-stephen-lawrence-inquiry'> Macpherson enquiry </a> and launch of the report, when the term ‘institutional racism’ was more widely used in UK media.  "
+  },
+  {
+    "id": 1011,
+    "title": "8.8.1965: Racial for 8 & 9am",
+    "theme": "Racial Discrimination",
+    "time": "8 & 9am",
+    "date": "1965-08-08",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/8.8.1965 David Pitt on immigration policy.jpg" }],
+    "content": "How much context and detail does this report give to help listeners understand more about the work of the Campaign Against Racial Discrimination (CARD)?<br> You can find more about the history and work of the CARD <a href='https://www.ibhm-uk.org/post/the-campaign-against-racial-discrimination-britain-s-civil-rights-experiment'> here</a>. <br> You can also find primary sources about the CARD at <a href='https://catalogue.georgepadmoreinstitute.org/records/JLR/3/1/10'>the George Padmore Institute</a>. "
+  },
+  {
+    "id": 1012,
+    "title": "20.9.1965: Manley for 11pm",
+    "theme": "Racial Discrimination",
+    "time": "11pm",
+    "date": "1965-09-20",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/20.9.1965 Manley in London.jpg" }],
+    "content": "How much context and detail is given about Mr Norman Manley’s opposition to the Government’s new immigration policy?"
+  },
+  {
+    "id": 1013,
+    "title": "3.1.1967: Racial for 7,8, and 9am",
+    "theme": "Racial Discrimination",
+    "time": "7,8 and 9am",
+    "date": "1967-01-03",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/3.1.1967 CARD - page 1.jpg" },
+    { "image": "images/Racial Discrimination/3.1.1967 CARD - page 2.jpg" }, 
+    { "image": "images/Racial Discrimination/3.1.1967 CARD - page 3.jpg" }
+
+  ],
+    "content": "This report describes the Campaign Against Racial Discrimination as ‘an Association of immigrant groups in Britain’. How accurate is that description? You can find more resources about the history and work of the CARD in relation to the news script from 8.8.1965 in this collection."
+  },
+  {
+    "id": 1014,
+    "title": "28.4.1968: Race – Leamington for 6pm",
+    "theme": "Racial Discrimination",
+    "time": "6pm",
+    "date": "1968-04-28",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" }],
+    "content": "How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in this open access publication by the Institute of Race Relations. This report is followed by news of a march to protest against Enoch Powell’s Rivers of Blood speech. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?"
+  },
+  {
+    "id": 1015,
+    "title": "8.9.1971: Powell for 11.16pm",
+    "theme": "Racial Discrimination",
+    "time": "11.16pm",
+    "date": "1971-09-08",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 1.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 2.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 3.jpg"}, 
+    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 4.jpg"}
+
+  ],
+    "content": "How balanced is this report on Enoch Powell’s speech at Smethwick?"
+  },
+  {
+    "id": 1016,
+    "title": "15.5.1976: Prison move for 7, 8 and 9am",
+    "theme": "Racial Discrimination",
+    "time": "7,8 and 9am",
+    "date": "1976-05-15",
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 1.jpg" }],
+    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
+    "audiofile":"audio/racial_discrimination/On the NF protest - 15.3.24 Group 1.mp3"
+
+  },
+
+  {
+    "id": 1017,
+    "title": "25.4.1947",
+    "theme": "Historical Figures",
+    "time": "",
+    "date": "1947-04-25",
+    "TranscriptImages": [{ "image": "images/Historical_figures/25.4.1947 Harold Moody.jpg" }],
+    "content": "This obituary of Dr. Harold Moody brings his achievements down to three lines, focusing on his Jamaican identity but with no reference to his outstanding career as a doctor as well as his pivotal role in fighting against racism in the UK and globally.You can read more about Dr. Moody’s life and work <a href='https://www.africansinyorkshireproject.com/dr-harold-moody.html'>here</a> "
+  },
+  {
+    "id": 1018,
+    "title": "9.12.1971: Doctor Bunche for 10pm",
+    "theme": "Historical Figures",
+    "time": "10pm",
+    "date": "1971-12-09",
+    "TranscriptImages": [{ "image": "images/Historical_figures/9.12.1971 Dr Bunche.jpg" }],
+    "audiofile":"audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
+    "audiofile2":"audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
+  },
+  {
+    "id": 1019,
+    "title": "17.9.1985: Union Election for 10.30pm",
+    "theme": "Historical Figures",
+    "time": "10.30pm",
+    "date": "1985-09-17",
+    "TranscriptImages": [{ "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg" }]
+  },
+  {
+    "id": 1020,
+    "title": "8.12.1985: Roberts for 10pm",
+    "theme": "Historical Figures",
+    "time": "10pm",
+    "date": "1985-12-08",
+    "TranscriptImages": [{ "image": "images/Historical_figures/8.12.1985 DIane Abbott's first election.jpg" }],
+    "audiofile":"audio/Historical_figures/On Diane Abbott - 15.3.24 - Group 2.mp3",
+    "audiofile2":"audio/Historical_figures/On D. Abbott - 23.02.24 - Group 3.mp3"
+  },
+
+  {
+    "id": 1021,
+    "title": "30.10.1960: Jamaica for 6pm",
+    "theme": "Arts",
+    "time": "6pm",
+    "date": "1960-10-30",
+    "TranscriptImages": [{ "image": "images/Arts/30.10.1960 Rastafari.jpg" }],
+    "content":"This is the only mention of Rastafari we found on the Home Service/R4 during the post WWII period and until the late 1980s. What is Rastafari associated with in this report? How could have this report limited and distorted listeners’ understanding of what Rastafari represents and means? You can find out about the history of Rastafari and its socio-cultural significance <a href='https://www.blackhistorymonth.org.uk/article/section/real-stories/rastafari-culture/'>here.</a> "
+  },
+  {
+    "id": 1022,
+    "title": "8.9.1976: Notting Hill Police for 7,8 and 9am ",
+    "theme": "Arts",
+    "time": "7,8, and 9am",
+    "date": "1976-09-08",
+    "TranscriptImages": [{ "image": "images/Arts/1.9.1976 Notting Hill Carnival.jpg"}, 
+    { "image": "images/Arts/8.9.1976 Notting Hill Carnival.jpg"}
+  ]
+  },
+  {
+    "id": 1023,
+    "title": "28.8.1977: Notting Hill for 6pm",
+    "theme": "Arts",
+    "time": "6pm",
+    "date": "1977-08-28",
+    "TranscriptImages": [{ "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 1.jpg/" }, 
+  { "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 2.jpg" }]
+  },
+  {
+    "id": 1024,
+    "title": "26.8.1979: Notting Hill for 10pm",
+    "theme": "Arts",
+    "time": "10pm",
+    "date": "1979-08-26",
+    "TranscriptImages": [{ "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 1.jpg" },
+    { "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg" }]
+
+  },
+  {
+    "id": 1025,
+    "title": "30.8.1982: Carnival at midnight",
+    "theme": "Arts",
+    "time": "midnight",
+    "date": "1982-08-30",
+    "TranscriptImages": [{ "image": "images/Arts/30.8.1982 Notting Hill carnival - page 1.jpg"},
+    { "image": "images/Arts/30.8.1982 Notting Hill carnival - page 2.jpg"}
+  ]
+  },
+  {
+    "id": 1026,
+    "title": "27.8.1984: Notting Hill for midnight",
+    "theme": "Arts",
+    "time": "midnight",
+    "date": "1984-08-27",
+    "TranscriptImages": [{ "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 1.jpg" }, 
+    { "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 2.jpg" }
+  ]
+  },
+  {
+    "id": 1027,
+    "title": "29.8.1988: Carnival for 9am",
+    "theme": "Arts",
+    "time": "9am",
+    "date": "1988-08-29",
+    "TranscriptImages": [{ "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 1.jpg"}],
+    "content": " <a href='https://windrush70.co.uk/alex-pascall'> This </a> report mentions Alex Pascall, a pioneering broadcaster who hosted the first radio show considered the voice of the Black community in the 1970s."
+  },
+  {
+    "id": 1028,
+    "title": "29.8.1994: Carnival at midnight",
+    "theme": "Arts",
+    "time": "midnight",
+    "date": "1994-08-29",
+    "TranscriptImages": [{ "image": "images/Arts/29.8.1994 Notting Hill Carnival  - page 1.jpg" }, 
+  {"image": "Final Project/images/Arts/29.8.1994 Notting Hill Carnival  - page 2.jpg"}]
+  }, 
+  {
+    "id": 1029,
+    "title": "3.8.1948: Liverpool riots for 9 and 10pm",
+    "theme": "Riots/Uprisings",
+    "time": "9 and 10pm",
+    "date": "1948-8-3",
+    "TranscriptImages": [
+      { "image": "images/Riots/3.8.1948 Liverpool riots.jpg" }
+    ],
+    "content": "Although the title of this item uses the word 'riots', the main report that went out on air uses the term 'racial disturbances'. Why do you think that is? And who does the report imply that is to blame for what happened? "
+    },
+    
+    {
+    "id": 1030,
+    "title": "17.8.1948: Liverpool for 9 and 10pm",
+    "theme": "Riots/Uprisings",
+    "time": "9 and 10pm",
+    "date": "1948-8-17",
+    "TranscriptImages": [
+      { "image": "images/Riots/17.8.1948 Liverpool disturbances.jpg" }
+    ],
+    "content": "How does this report compare with the one from 3.8.1948? And does the reference to 'some misunderstanding between small sections of coloured and other people in Liverpool' give enough explanation and context for what happened? Does the report give any reasons why the disturbances took place? You can use the <a href='https://www.britishnewspaperarchive.co.uk/'>  British Newspaper Archive </a> to research how this news story was reported in the newspapers at the time.For more context, <a href='https://academic.oup.com/tcbh/article-abstract/32/1/1/6055064?redirectedFrom=fulltext'> you can read here </a>about the aftermath of the 1948 Liverpool ‘race riots’ and the formation of the Colonial Defence Committee (CDC), which represented a prototype of the defence committees that became a hallmark of black political opposition to policing during the 1970s and 1980s."
+    },
+    
+    {
+    "id": 1031,
+    "title": "18.2.1949: Durban riots for 6pm",
+    "theme": "Riots/Uprisings",
+    "time": "6pm",
+    "date": "1949-2-18",
+    "TranscriptImages": [
+      { "image": "images/Riots/18.2.1949 Durban riots.jpg" }
+    ],
+    "content": "This seems to be the first time the word ‘riots’ is used on BBC’s Home Service. The 1949 Durban riots were one of the deadliest in South Africa, and therefore, the use of the word ‘riots’ is associated with serious ‘racial unrest and violence’. This may explain the BBC’s reluctance to use the term, opting instead for ‘racial disturbances’ when reporting on what happened in Liverpool in 1948. Our research shows that the word ‘riots’ started to be used on BBC Home Service/Radio 4 from the late 1970s onwards.At the time of the Durban riots (Haji) Ahmed Suleman Ballim (b.1923), a young and enthusiastic photographer lived on Saville Street in Durban Central.  The shop where he worked in Durban’s Queen Street - like hundreds of others – was damaged and looted. As a photographer though he took the thoughtful initiative of collecting news clippings of those tragic events which you can see <a href='https://sahistory.org.za/sites/default/files/archive_files/1949%20Riots%20Press%20Clips.pdf'> here.</a>"
+    },
+    
+    {
+    "id": 1032,
+    "title": "8.9.1958: Manley’s tour for 6pm",
+    "theme": "Riots/Uprisings",
+    "time": "6pm",
+    "date": "1958-9-8",
+    "TranscriptImages": [
+      { "image": "images/Riots/8.9.1958 Manley's tour  - page 2.jpg" },
+    {"image": "images/Riots/8.9.1958 Manley's tour  - page 2.jpg"}
+    ],
+    "content": "This report is about the visit of Michael Manley to Paddington following the 1958 disturbances in Notting Hill. How balanced is the reporting of the incident with the police?"
+    },
+    
+    {
+    "id": 1033,
+    "title": "8.9.1958: Race charges for 6pm",
+    "theme": "Riots/Uprisings",
+    "time": "6pm",
+    "date": "1958-9-8",
+    "TranscriptImages": [
+      { "image": "images/Riots/8.9.1958 Race charges  - page 1.jpg" }, 
+      {"image":"images/Riots/8.9.1958 Race charges  - page 2.jpg"}
+    ],
+    "content": "This news item follows the report on Manley’s tour. How is the police portrayed here?"
+    },
+    
+    {
+    "id": 1034,
+    "title": "15.9.1958: Notting Hill for 10.30pm",
+    "theme": "Riots/Uprisings",
+    "time": "10.30pm",
+    "date": "1958-9-15",
+    "TranscriptImages": [
+      { "image": "images/Riots/15.9.1958 Notting Hill riots - Court trial - page 1.jpg" }, 
+    {"image": "images/Riots/15.9.1958 Notting Hill riots - Court trial - page 2 jpg.jpg"}
+    ],
+    "content": "This news item reports on the court trial and sentencing of nine White youths for wounding and assaulting ‘coloured men’ in the Ladbroke Grove and Shepherd’s Bush area of London in 1958. These events, as well as the trial, were widely reported by the press, as you can read <a href='https://blog.britishnewspaperarchive.co.uk/2022/05/12/exploring-the-notting-hill-race-riots-of-1958/'> here </a>. Although most newspapers described the events as ‘race riots’, our research shows that the BBC’s Home Service avoided using this term, implicitly concurring with Mr Justice Salmon’s words that ‘the men who started the whole of this violence are a minute and insignificant section of the population’. Do you come to the same conclusion when you look at the wider press coverage of these events?"
+    },
+    
+    {
+    "id": 1035,
+    "title": "20.11.1958: Yesterday in Parliament for 8.45am",
+    "theme": "Riots/Uprisings",
+    "time": "8.45am",
+    "date": "1958-11-20",
+    "TranscriptImages": [
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg" }, 
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 2.jpg"}, 
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 3.jpg"},
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 4.jpg"},
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 5.jpg"},
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 6.jpg"},
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 7.jpg"},
+      {"image":"images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg"}
+    ],
+    "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
+    },
+    
+    {
+    "id": 1036,
+    "title": "6.12.1958: Yesterday in Parliament",
+    "theme": "Riots/Uprisings",
+    "time": "NO TIME",
+    "date": "1958-12-6",
+    "TranscriptImages": [
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg" }, 
+      { "image": "mages/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 3.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 4.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 5.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 6.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 7.jpg" }, 
+      { "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg" }
+    ],
+    "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
+    },
+    
+    {
+    "id": 1037,
+    "title": "13.8.1977: National Front march for 10pm",
+    "theme": "Riots/Uprisings",
+    "time": "10pm",
+    "date": "1977-8-13",
+    "TranscriptImages": [
+      { "image": "images/Riots/13.8.1977  NF march in Lewisham  - page 1.jpg" },
+      {"image":"images/Riots/13.8.1977  NF march in Lewisham  - page 2.jpg"
+      },
+      {"image":"images/Riots/13.8.1977  NF march in Lewisham  - page 3.jpg"
+      },
+      {"image":"images/Riots/13.8.1977  NF march in Lewisham  - page 4.jpg"
+      },
+      {"image":"images/Riots/13.8.1977  NF march in Lewisham  - page 5.jpg"
+      }
+
+    ],
+    "content": "Does this report provide any explanation as to why this march led to such violence? How are the two parties involved portrayed? Who are the ‘left-wing demonstrators’ supposed to be and how accurate is it to use such a description in this context? How are the police portrayed?"
+    },
+    
+    {
+    "id": 1038,
+    "title": "23.11.1977: Front for 8 and 9am",
+    "theme": "Riots/Uprisings",
+    "time": "8 and 9am",
+    "date": "1977-11-23",
+    "TranscriptImages": [
+      { "image": "images/Riots/23.11.1977 Anti-NF demo in Bristol.jpg" }
+    ],
+    "content": "Compared to the report on the NF march from 13.8.1977, this is a much shorter report on the anti-NF demonstration in Bristol. What does it mostly focus on? "
+    },
+    
+    {
+    "id": 1039,
+    "title": "2.4.1980: Bristol riot for 10pm",
+    "theme": "Riots/Uprisings",
+    "time": "10pm",
+    "date": "1980-4-2",
+    "TranscriptImages": [
+      { "image": "images/Riots/23.4.1980 Bristol riots and police - page 1.jpg" }, 
+      { "image": "images/Riots/23.4.1980 Bristol riots and police - page 2.jpg" }
+    ],
+    "content": " What does this report focus on? Is any explanation given for the ‘riots’?"
+    },
+    
+    {
+    "id": 1040,
+    "title": "23.4.1980: Bristol riots for 6pm",
+    "theme": "Riots/Uprisings",
+    "time": "6pm",
+    "date": "1980-4-23",
+    "TranscriptImages": [
+      { "image": "images/Riots/2.4.1980 Bristol riots - page 1.jpg" }, 
+      { "image": "images/Riots/2.4.1980 Bristol riots - page 2.jpg" }
+    ],
+    "content": "What does this report focus on? Is any explanation given for the riots?"
+    }, 
+
+    {
+      "id": 1041,
+      "title": "6.4.1981: Bristol for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-4-6",
+      "TranscriptImages": [
+        { "image": "images/Riots/6.4.1981 Bristol riots legal proceedings  - page 1.jpg" }, 
+        {"image":"images/Riots/6.4.1981 Bristol riots legal proceedings  - page 2.jpg"}
+      ],
+      "content": "This report is about the acquittal of the 16 people charged with riotous assembly in Bristol in April 1980. How does the BBC explain the jury’s disagreement over the definition of rioting?"
+      },
+      
+      {
+      "id": 1042,
+      "title": "11.4.1981: Brixton for midnight",
+      "theme": "Riots/Uprisings",
+      "time": "midnight",
+      "date": "1981-4-11",
+      "TranscriptImages": [
+        { "image": "images/Riots/11.4.1981 Brixton riots -page 1.jpg" }, 
+        { "image": "images/Riots/11.4.1981 Brixton riots -page 2.jpg" }, 
+        { "image": "images/Riots/11.4.1981 Brixton riots -page 3.jpg" },
+        { "image": "images/Riots/11.4.1981 Brixton riots -page 4.jpg" }
+      ],
+      "content": "What does this report focus on? Is any explanation given for the riots?"
+      },
+      
+      {
+      "id": 1043,
+      "title": "12.4.1981: Brixton for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-4-12",
+      "TranscriptImages": [
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 1.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 2.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 3.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 4.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 5.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 6.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 7.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 8.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 9.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 10.jpg" },
+        { "image": "images/Riots/12.4.1981 Brixton riots - police view  - page 11.jpg" }
+      ],
+      "content": "What does this report focus on? Whose views are foregrounded?"
+      },
+      
+      {
+      "id": 1044,
+      "title": "14.4.1981: Brixton-Thatcher for 7,8 and 9am",
+      "theme": "Riots/Uprisings",
+      "time": "7,8 and 9am",
+      "date": "1981-4-14",
+      "TranscriptImages": [
+        { "image": "images/Riots/14.4.1981 Thatcher on Brixton riots -page 1.jpg" }, 
+        { "image": "images/Riots/14.4.1981 Thatcher on Brixton riots -page 2.jpg" }, 
+        { "image": "images/Riots/14.4.1981 Thatcher on Brixton riots -page 3.jpg" }
+      ],
+      "content": "Does this report include any other view apart from the Prime Minister’s?"
+      },
+      
+      {
+      "id": 1045,
+      "title": "10.6.1981: Scarman for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-6-10",
+      "TranscriptImages": [
+        { "image": "images/Riots/10.6.1981 Scarman enquiry - page 1.jpg" }, 
+        { "image": "images/Riots/10.6.1981 Scarman enquiry - page 2.jpg" }
+
+      ],
+      "content": "Does the report explain who these black groups are and their reasons for wanting to boycott the inquiry?"
+      },
+      
+      {
+      "id": 1046,
+      "title": "15.6.1981: Scarman for 10pm",
+      "theme": "Riots/Uprisings",
+      "time": "10pm",
+      "date": "1981-6-15",
+      "TranscriptImages": [
+        { "image": "images/Riots/15.6.1981 Scarman enquiry - page 1.jpg" }, 
+        { "image": "images/Riots/15.6.1981 Scarman enquiry - page 2.jpg" }
+      ],
+      "content": "How accurate is the correspondent’s report on the first hearing of the Scarman inquiry? What do you think of terms like black crowds?"
+      },
+      
+      {
+      "id": 1047,
+      "title": "16.6.1981: Scarman for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-6-16",
+      "TranscriptImages": [
+        { "image": "images/Riots/16.6.1981 Scarman - black leader evidence - page 1.jpg" }, 
+        {"image":"images/Riots/15.6.1981 Scarman enquiry - page 2.jpg"}
+      ],
+      "content": "This report starts by identifying Mr Courtney Laws as ‘the Director of one of the few black organisations which have decided not to boycott the proceedings.’ Why is it important, or useful to highlight this? "
+      },
+      
+      {
+      "id": 1048,
+      "title": "17.6.1981: Scarman",
+      "theme": "Riots/Uprisings",
+      "time": "NO TIME",
+      "date": "1981-6-17",
+      "TranscriptImages": [
+        { "image": "images/Riots/17.6.1981 Scarman Inquiry - page 1.jpg" }, 
+        {"image":"images/Riots/17.6.1981 Scarman Inquiry - page 2.jpg"}
+      ],
+      "content": "This report is about evidence given to the Scarman inquiry by Caroline Tisdall, a freelance journalist. How does the report juxtapose what she says with the police’s view?"
+      },
+      
+      {
+      "id": 1049,
+      "title": "18.6.1981: Scarman for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-6-18",
+      "TranscriptImages": [
+        { "image": "images/Riots/18.6.1981 Scarman inquiry.jpg" }
+      ],
+      "content": "This is another report about a police officer giving evidence at the Scarman inquiry. He’s quoted saying that ‘unless the crime rate in the area can be checked, Brixton is in danger of turning into another Harlem.’ What precedes this report is a news item about an increase in crime in London. What do you think of this sequence of news items? What kind of associations between the two reports can be inferred?Here is the report on London crime figures"
+      },
+      
+      {
+      "id": 1050,
+      "title": "23.6.1981: Scarman for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-6-23",
+      "TranscriptImages": [
+        { "image": "images/Riots/23.6.1981 Scarman inquiry page 1.jpg" },
+        {"image":"/images/Riots/23.6.1981 Scarman inquiry page 2.jpg"},
+        {"image":"images/Riots/23.8.1981 Scarman inquiry .jpg"}
+      ],
+      "content": "Another report about police evidence at the Scarman inquiry."
+      },
+    
+
+      {
+      "id": 1051,
+      "title": "25.6.1981: Scarman for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-6-25",
+      "TranscriptImages": [
+        { "image": "images/Riots/25.11.1981 Scarman report - page 1.jpg" }, 
+        {"image":"images/Riots/25.11.1981 Scarman report - page 2.jpg"}, 
+        {"image":"images/Riots/25.11.1981 Scarman report - page 3.jpg"}, {"image":"images/Riots/25.11.1981 Scarman report - page 4.jpg"}, {"image":"images/Riots/25.11.1981 Scarman report - page 5.jpg"}, {"image":"images/Riots/25.11.1981 Scarman report - page 6.jpg"}, {"image":"images/Riots/25.11.1981 Scarman report - page 7.jpg"}, {"image":"images/Riots/25.11.1981 Scarman report - page 8.jpg"},
+        {"image":"images/Riots/25.11.1981 Scarman report - page 9.jpg"}
+      ],
+      "content": "Another report about police evidence at the Scarman inquiry."
+      },
+      
+      {
+      "id": 1052,
+      "title": "26.6.1981: Scarman for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-6-26",
+      "TranscriptImages": [{"image":"images/Riots/25.61981 Scarman inquiry.jpg"}
+      ],
+      "content": "Another report about police evidence at the Scarman inquiry."
+      },
+      
+      {
+      "id": 1053,
+      "title": "5.7.1981: Liverpool riots for 7,8 and 9am",
+      "theme": "Riots/Uprisings",
+      "time": "7,8 and 9am",
+      "date": "1981-7-5",
+      "TranscriptImages": [
+        { "image": "images/Riots/5.71981 Toxteth riots - uprising - page 1.jpg" }, 
+        { "image": "images/Riots/5.71981 Toxteth riots - uprising - page 1.jpg" },
+        { "image": "images/Riots/5.7.1981 Southall violence.jpg" },
+        { "image": "images/Riots/5.7.1981 Southall violence.jpg" }
+
+      ],
+      "audiocontent":"Listen to historian Jimi Jagne talking about his experience of the events and the media coverage at the time:",
+      "audiofile":"audio/riots/Clapping Back - Jimi Jagne on the 1981 Liverpool Uprising.mp3",
+      "audiocontent2":"Listen to Rebecca, Maleka, Jimi and Janaya discussing the reporting of the Liverpool uprising:",
+      "audiofile2":"audio/riots/Clapping Back - Rebecca_ Maleka_ Jimi_ Janaya on the Liverpool Uprising.mp3"
+      },
+  
+      
+      {
+      "id": 1054,
+      "title": "6.7.1981: Riots/Whitelaw for 10pm",
+      "theme": "Riots/Uprisings",
+      "time": "10pm",
+      "date": "1981-7-6",
+      "TranscriptImages": [{"image":"images/Riots/6.7.1981 Toxteth riots -uprisings - page 1.jpg"},
+        { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 2.jpg"}, 
+        { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 3.jpg"}, 
+        { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 4.jpg"}, 
+        { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 5.jpg"}, 
+        { "image": "Final Project/images/Riots/6.7.1981 Toxteth riots -uprisings - page 6.jpg"}
+      ],
+      "content": "Does this report include any viewpoints apart from police and politicians?", 
+      "audiocontent":"Listen to Rebecca, Maleka, Jimi and Janaya discussing this report:",
+      "audiofile":"Final Project/audio/riots/Clapping Back - Rebecca_ Maleka_ Jimi_ Janaya on the Liverpool Uprising.mp3"
+      },
+      
+      {
+      "id": 1055,
+      "title": "8.7.1981: Riots Moss Side for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-7-8",
+      "TranscriptImages": [
+        { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 1.jpg" }, 
+        { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 2.jpg" }, 
+         { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 3.jpg" }, 
+         { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 4.jpg" }, 
+         { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 5.jpg" }, 
+         { "image": "images/Riots/8.7.1981 Wood Green and Manchester street violence - page 6.jpg" } 
+
+      ],
+      "content": "Does this report include any viewpoints apart from the police?"
+      },
+      
+      {
+      "id": 1056,
+      "title": "16.7.1981: Riots/Scarman for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-7-16",
+      "TranscriptImages": [
+        { "image": "images/Riots/16.7.1981 Scarman in Birmingham  - page 1.jpg" },
+        { "image": "images/Riots/17.6.1981 Black Pupils - page 2.jpg" }
+      ],
+      "content": "This is a report about Scarman’s visit to Birmingham following a weekend of ‘disturbances’ in the Handsworth district of the city. Does the report include any other viewpoints apart from Scarman’s ?"
+      },
+      
+      {
+      "id": 1057,
+      "title": "22.8.1981: Scarman for 10pm",
+      "theme": "Riots/Uprisings",
+      "time": "10pm",
+      "date": "1981-8-22",
+      "TranscriptImages": [
+        { "image": "images/Riots/22.8.1981 Scarman inquiry- page 1.jpg" }, 
+        { "image": "images/Riots/23.6.1981 Scarman inquiry page 2.jpg" }
+      ],
+      "content": "Another report about evidence from the police federation for the Scarman inquiry. "
+      },
+      
+      {
+      "id": 1058,
+      "title": "23.8.1981: Scarman evidence for 1pm",
+      "theme": "Riots/Uprisings",
+      "time": "1pm",
+      "date": "1981-8-23",
+      "TranscriptImages": [
+        { "image": "images/Riots/23.8.1981 Scarman inquiry .jpg" }
+
+      ],
+      "content": "A rare example of a report about evidence given for the Scarman inquiry from an organisation representing Black people in Britain, the West Indian Standing Conference. The report also includes evidence submitted by the Police Superintendents’ Association. How are these two viewpoints presented and balanced against each other?"
+      },
+      
+      {
+      "id": 1059,
+      "title": "13.11.1981: Scarman report for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1981-11-13",
+      "TranscriptImages": [
+        { "image": "images/Riots/13.11.1981 Scarman report - page 1.jpg" }, 
+        { "image": "images/Riots/13.11.1981 Scarman report - page 2.jpg" }
+      ],
+      "content": "As the Scarman report is due to be published, this news item reports on the Metropolitan Police’s latest figures on robberies and other violent incidents in Brixton. Whose viewpoints are foregrounded here?"
+      },
+      
+      {
+      "id": 1060,
+      "title": "25.11.1981: Scarman for 10pm",
+      "theme": "Riots/Uprisings",
+      "time": "10pm",
+      "date": "1981-11-25",
+      "TranscriptImages": [
+        { "image": "images/Riots/25.11.1981 Scarman report - page 1.jpg" }, 
+        { "image": "images/Riots/25.11.1981 Scarman report - page 2.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 3.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 4.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 5.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 6.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 7.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 8.jpg" },
+        { "image": "images/Riots/25.11.1981 Scarman report - page 9.jpg" }
+
+
+
+      ],
+      "content": "How balanced is this report? Does it include reactions from the various parties (communities, police and government authorities) involved and impacted by Scarman’s report? And how are these reactions presented?"
+      },
+      
+      {
+      "id": 1061,
+      "title": "13.10.1982: Disorders for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1982-10-13",
+      "TranscriptImages": [
+        { "image": "images/Riots/13.10.1982 Disorders stats - page 1.jpg" }, 
+        {"image":"images/Riots/13.10.1982 Disorders stats - page 2.jpg"}
+      ],
+      "content": "This is a rare report which highlights that that two-thirds of the people arrested during the 1981 ‘public disorder’ were white. Why does this report seem to favour the term ‘disorder’ rather than ‘riots'?"
+      },
+      
+      {
+      "id": 1062,
+      "title": "17.10.1985: Riots for 9am",
+      "theme": "Riots/Uprisings",
+      "time": "9am",
+      "date": "1985-10-17",
+      "TranscriptImages": [
+        { "image": "images/Riots/17.10.1985 Riots and plastic bullets - page 1.jpg" }, 
+        { "image": "images/Riots/17.10.1985 Riots and plastic bullets - page 2.jpg" }, 
+        { "image": "images/Riots/17.10.1985 Riots and plastic bullets - page 3.jpg" }
+
+      ],
+      "content": " This is a report about Scotland Yard’s inquiry into ways of improving the police’s handling of the 1985 Tottenham ‘riots’. How does the report explain the justification of the use of CS gas and plastic bullets by the police?"
+      },
+      
+      {
+      "id": 1063,
+      "title": "12.1.1986: Tottenham for 6pm",
+      "theme": "Riots/Uprisings",
+      "time": "6pm",
+      "date": "1986-1-12",
+      "TranscriptImages": [
+        { "image": "images/Riots/12.1.1986 - Tottenham riots - police report - page 1.jpg" },
+        {"image":"images/Riots/12.1.1986 - Tottenham riots - police report - page 2.jpg"}
+      ],
+      "audiocontent":"Listen to our podcast contributors discussing this report: ",
+      "audiofile":"Final Project/audio/riots/Clapping Back - Tottenham riots 12.1.1986 (1).mp3",
+      "content": "Report about the Metropolitan Police response to the Broadwater Farm riots."
+      }, 
+        {
+          "id": 72,
+          "title": "Mangrove Nine",
+          "theme": "Police",
+          "time": "no time",
+          "date": "1972-1-28",
+          "TranscriptImages": [
+            { "image": "images/Police/28.1.1972 -Mangrone Nine.jpg" }
+          ],
+          "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <a href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
+        },
+        {
+          "id": 73,
+          "title": "5.9.1973: Crime for 9.30pm",
+          "theme": "Police",
+          "time": "9.30pm",
+          "date": "1973-9-5",
+          "TranscriptImages": [
+            { "image": "images/Police/5.9.1973 Mugging .jpg"}
+          ],
+          "content": "The report refers to ‘mugging’ as a ‘relatively new offence’. Does that refer to a legal definition of ‘mugging’, or rather a social label used extensively in the media at the time? For more context, have a look at the book Policing the Crisis, referenced in the introduction to this collection"
+        },
+        {
+          "id": 74,
+          "title": "30.9.1975: Siege for 1pm",
+          "theme": "Police",
+          "time": "1pm",
+          "date": "1975-9-30",
+          "TranscriptImages": [
+            { "image": "images/Police/30.9.1975 Spaghetti House siege - page 1.jpg" }, 
+            {"image": "images/Police/30.9.1975 Spaghetti House siege - page 2.jpg"}
+          ],
+          "content": "Does the report help listeners understand who is involved in this siege, why and who the ‘three gunmen’ are?"
+        },
+        {
+          "id": 75,
+          "title": "30.6.1976: Spaghetti for 10pm",
+          "theme": "Police",
+          "time": "10pm",
+          "date": "1976-6-30",
+          "TranscriptImages": [
+            { "image": "images/Police/30.6.1976 Spaghetti House siege trial.jpg" }
+          ],
+          "content": " Does the report give any information about who the convicted men are?"
+        },
+        {
+          "id": 76,
+          "title": "11.8.1977: National Front for 6pm",
+          "theme": "Police",
+          "time": "6pm",
+          "date": "1977-8-11",
+          "TranscriptImages": [
+            { "image": "images/Police/11.8.1977 NF's anti-mugging motto.jpg" }
+          ],
+          "content": "Given the racialised meaning the term ‘mugging’ had at the time, what are the connotations of describing a National Front march as ‘anti-mugging’? Does the report explain why the National Front use the term ‘anti-mugging'?"
+        },
+        {
+          "id": 77,
+          "title": "20.5.1980: Loitering for 10pm",
+          "theme": "Police",
+          "time": "10pm",
+          "date": "1980-5-20",
+          "TranscriptImages": [
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 1.jpg" }, 
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 2.jpg" },
+            { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 3.jpg" }
+          ],
+          "content": "The report says that the <a href='https://www.thetimes.com/uk/obituaries/article/john-clare-obituary-ln6dnhz2c'> BBC’s Community Relations correspondent John Clare </a> ‘explains how the sus law has been operating and sums up the arguments that have been used against it’. To what does <a href='https://irr.org.uk/article/fighting-sus-then-and-now/'> John Clare’s report explain the opposition to the sus law </a>? Is there any mention of the widespread campaigns by a broad coalition of black groups and lawyers at the time, asking to repeal this law?"
+        },
+        {
+          "id": 78,
+          "title": "6.10.1985: Tottenham Demo for 7/8/9am",
+          "theme": "Police",
+          "time": "7/8/9am",
+          "date": "1985-10-6",
+          "TranscriptImages": [
+            { "image": "images/Police/6.10.1985 Cynthia Jarrett's death - page 1.jpg" },
+            { "image": "images/Police/6.10.1985 Cynthia Jarrett's death - page 2.jpg" }
+          ],
+          "content": "This report is about the death of Mrs Cynthia Jarrett. What is the impression listeners would have got about how and why Mrs Jarrett died? What sources do you think this report is based on?."
+        },
+        {
+          "id": 79,
+          "title": "21.5.1988: Drugs for 6pm",
+          "theme": "Police",
+          "time": "6pm",
+          "date": "1988-5-21",
+          "TranscriptImages": [
+            { "image": "images/Police/21.5.1988 arrest of Frank Critchlow.jpg" }
+          ],
+          "content": "The cue title for this news item says it all...This report about eleven men who appeared in court for drug charges singles out one of them, the director of the <a href='http://www.wakingthedead.org/frank-critchlow.html'> Mangrove Club, Mr Frank Critchlow </a>. The report does not mention that Critchlow was one of the Black British activists at the historic Mangrove Nine Trial. This is in fact the only reference we found to Frank Critchlow on R4 news during the 1970s and 1980s."
+        },
+        {
+          "id": 80,
+          "title": "21.12.1993: Lawrence for midnight",
+          "theme": "Police",
+          "time": "midnight",
+          "date": "1993-12-21",
+          "TranscriptImages": [
+            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 1.jpg" },
+            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 2.jpg" }
+          ],
+          "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read here about that meeting. "
+        }
+
+
+
+]
+
+
+
+  
