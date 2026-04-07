@@ -1217,8 +1217,7 @@
       "date": "1981-6-23",
       "TranscriptImages": [
         { "image": "images/Riots/23.6.1981 Scarman inquiry page 1.jpg" },
-        {"image":"/images/Riots/23.6.1981 Scarman inquiry page 2.jpg"},
-        {"image":"images/Riots/23.8.1981 Scarman inquiry .jpg"}
+        {"image":"images/Riots/23.6.1981 Scarman inquiry page 2.jpg"}
       ],
       "content": "Another report about police evidence at the Scarman inquiry."
       },
@@ -1264,9 +1263,9 @@
 
       ],
       "audiocontent":"Listen to historian Jimi Jagne talking about his experience of the events and the media coverage at the time:",
-      "audiofile":"https://drive.google.com/uc?export=download&id=15eajw_FZ-SlukUKXxlzsn_LhU9pKqOcz",
+      "audiofile":"audio/riots/Clapping Back - Jimi Jagne on the 1981 Liverpool Uprising.mp3",
       "audiocontent2":"Listen to Rebecca, Maleka, Jimi and Janaya discussing the reporting of the Liverpool uprising:",
-      "audiofile2":"https://drive.google.com/uc?export=download&id=1XD3zCE-a3bGi_Xe6mBosRlG-5lY6Qd-h"
+      "audiofile2":"audio/riots/Clapping Back - Rebecca_ Maleka_ Jimi_ Janaya on the Liverpool Uprising.mp3"
       },
   
       
@@ -1282,10 +1281,7 @@
         { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 4.jpg"}, 
         { "image": "images/Riots/6.7.1981 Toxteth riots -uprisings - page 5.jpg"}, 
         { "image": "Final Project/images/Riots/6.7.1981 Toxteth riots -uprisings - page 6.jpg"}
-      ],
-      "content": "Does this report include any viewpoints apart from police and politicians?", 
-      "audiocontent":"Listen to Rebecca, Maleka, Jimi and Janaya discussing this report:",
-      "audiofile":"Final Project/audio/riots/Clapping Back - Rebecca_ Maleka_ Jimi_ Janaya on the Liverpool Uprising.mp3"
+      ]
       },
       
       {
