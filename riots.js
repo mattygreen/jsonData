@@ -317,7 +317,7 @@ function createBootstrapCarousel(data) {
             const divCreator = document.createElement('div');
             divCreator.className = 'carousel slide';
             divCreator.id = `carouselExampleControls${item.id}`;
-            divCreator.setAttribute('data-ride', 'carousel');
+           
 
             const divInner = document.createElement('div');
             divInner.className = 'carousel-inner';
