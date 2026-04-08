@@ -223,7 +223,7 @@ function createTimeLineStructure(data) {
 
 
         const modalBody = modalContentBox.querySelector('[data-modal-body]')
-        modalBody.textContent = item.content;
+        modalBody.innerHTML = item.content;
 
         modalTitle.appendChild(closeButton);
         modalsContainer.appendChild(modalContentBox);
