@@ -238,7 +238,7 @@
     "TranscriptImages": [
       { "image": "images/arrivals/25.5.48_Liner_Aquitania.jpg"}
     ],
-    "content": "How does this report seem to portray migration? Perhaps as a beneficial exchange for everyone? And who do you think are the type of migrants that are referred to as 'dollar -tourists'"
+    "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
   }, 
 
   {
@@ -253,6 +253,23 @@
     ],
     "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
   },
+
+  {
+    "id": 370,
+    "title": "  22.6. 1948: Here to work for 8 & 9am   ",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1948-05-27",
+    "TranscriptImages": [
+      { "image": "images/arrivals/22.6.48_Empire_Windrush.jpg"},
+      { "image": "images/arrivals/8.7.1948 West Indies - page 1.jpg"}, 
+      { "image": "images/arrivals/8.7.1948 West Indies - page 2.jpg"}, 
+    {"image":"images/arrivals/8.7.1948 West Indies - page 3.jpg"}, 
+    {"image":"images/arrivals/8.7.1948 West Indies - page 4.jpg"}
+    ],
+    "content": "This is how the BBC Home Service reported on what is now considered as one of the most iconic moments in the British history of postwar immigration. How does it contrast with the reports on British emigration to the Commonwealth? <br> Less than a month after this report, BBC’s Home Service broadcast this parliamentary report on the social and economic conditions in the West Indies, in which British colonies are referred to as ‘this great dollar-earning arsenal of the Commonwealth’. How does this report compare to the way the arrival of the five hundred West Indians on the Empire Windrush was reported?"
+  },
+
   {
     "id": 38,
     "title": "15.2.1949: Australian immigration for 1pm",
@@ -271,7 +288,7 @@
     "date": "1949-06-26",
     "TranscriptImages": 
       [{ "image": "images/arrivals/26.6.49_Liner_Georgic.jpg"}], 
-    "content": "This report describes people from Britain migrating to Australia as “settlers” and those from Europe as ‘immigrants’. Why? How do these two words differ in their historical and social connotations? <br> <br>  how pupils of the King’s Leadership Academy in Liverpool have re-written this report", 
+    "content": "Compare previous reports on British immigration to Australia and the Dominions with this report’s reference to '260 West Indians, most of them without definite jobs to go to.' ", 
     "audiocontent": "Clapback Podcast"
   }, 
 
@@ -654,6 +671,20 @@
   "content": "This report is about the Chief Constable of Leeds’ response to calls for a public inquiry into the Leeds police force in the aftermath of the two police officers’ conviction for assaulting David Oluwale. How balanced is the report? Does it include any viewpoints by those who are calling for a public inquiry?"
 },
 
+
+
+{
+  "id": 1003,
+  "title": "12.2.1948",
+  "theme": "Racial Discrimination",
+  "time": "",
+  "date": "1948-2-12",
+  "TranscriptImages": [{ "image": "images/Racial Discrimination/12.2.1948 Northamptonshire mixed race marriage.jpg"}],
+  "content": "", 
+  "audiofile":"audio/racial_discrimination/On mixed race relationships.mp3",
+  "audiocontent":"Content Warning: this report contains language you may find offensive. For more context, <a href='open access book about the history of mixed-race Britain in the twentieth century by Chamion Caballero and Peter J. Aspinall.>here is an open access book </a>about the history of mixed-race Britain in the twentieth century by Chamion Caballero and Peter J. Aspinall. Listen to our podcast contributor giving more context for this report by discussing their own lived experience:"
+},
+
   {
     "id": 1004,
     "title": "31.12.1954: Coloured workers for 6pm",
@@ -661,7 +692,7 @@
     "time": "6pm",
     "date": "1954-12-31",
     "TranscriptImages": [{ "image": "images/Racial Discrimination/31.12.1954 Birmingham coloured bus drivers.jpg"}],
-    "content": "The employment of ‘coloured’ bus drivers in Birmingham became controversial in the 1950s due to the racism which confronted Black people, referred to as the ‘colour bar’. There is no mention of the ‘colour bar’ in this report. Why do you think that is? And how is Birmingham Transport Committee’s decision to employ ‘coloured’ workers on the city’s buses presented?"
+    "content": "The employment of ‘coloured’ bus drivers in Birmingham became controversial in the 1950s due to the racism which confronted Black people, referred to as the ‘colour bar’. There is no mention of the ‘colour bar’ in this report. Why do you think that is? And how is Birmingham Transport Committee’s decision to employ ‘coloured’ workers on the city’s buses presented?<br> A month after this report, BBC television broadcast a documentary called <a href='https://genome.ch.bbc.co.uk/371e45bf73fa4419bc014eba285ca5cc'> ‘Has Britain a Colour Bar?’</a>, part of the current affairs programme Special Enquiry. You can see here how the programme was promoted in BBC’s magazine’s Radio Times and <a href='https://www.bbc.co.uk/programmes/p06bm7f7'>you can watch a clip here.</a> "
   },
   {
     "id": 1005,
@@ -670,7 +701,7 @@
     "time": "10 and 10.30pm",
     "date": "1961-07-28",
     "TranscriptImages": [{ "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg" }],
-    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?"
+    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, <Northern href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006> create a free account with the British Newspaper Archive</a>). How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
   },
   {
     "id": 1006,
