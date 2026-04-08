@@ -398,8 +398,9 @@
       { "image": "images/Education/26.9.73 Immigrant children - page 4.jpg"}, 
       { "image": "images/Education/26.9.73 Immigrant children - page 5.jpg"}
      ], 
-    "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
-    "audiocontent": "Clapback Podcast", 
+    "content":"",
+     "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
+    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:", 
     "audiofile2": "audio/education/Liverpool's King's Leadership Academy Clapping back - Black education - 19.4.24.mp3", 
    "audiocontent2": "Liverpool King's Academy Clapping Back Podcast"
 
@@ -442,12 +443,12 @@
   "title": "09.3.1981: Immigrant Education for 10pm ",
   "theme": "education",
   "time": "8am",
-  "date": "1981-09-3",
+  "date": "1981-03-09",
   "TranscriptImages": 
     [{ "image": "images/Education/9.3.81 Immigrant Education - page 1.jpg"},
     { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
    ],
-   "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British? "
+   "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British?In 1983, the BBC News Radio Style Guide advised that: <br><i> There is little that will more readily give offence than inaccurate or insensitive reporting of racial affairs. The words we use, and when we use them, are particularly important. We used to talk about ‘coloured immigrants’ in Britain; nowadays ‘immigrants’ may be inappropriate and ‘coloured’ is unacceptable. Many people whose parents or grandparents came here from overseas have themselves been born here and, so are not ‘immigrants’. And ‘coloured’ is now deeply offensive to some people. If those concerned are ‘Black’ or ‘Asian’, and it is relevant to say so, then they are the best words to use. </i><br> Do you think BBC’ reporting has been following that guidance?"
 }, 
 
 {"id": 47,
@@ -460,7 +461,8 @@
     { "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"}
    ],
    "audiofile": "audio/education/Clapping back - Black Pupils - 15.3.24.mp3",
-   "audiocontent": "Clapback Podcast"
+   "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
+   "audiofile2":"audio/education/Clapping Back - Education 23.2.2024 Group 3.mp3"
 }, 
 
 {"id": 48,
@@ -473,7 +475,7 @@
     { "image": "images/Education/24.10.86 Brent Council  - page 2.jpg"}
    ],
    "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
-   "audiocontent": "Clapback Podcast"
+   "audiocontent": "Listen to Linett Kamala, artist and educator, discussing her own experience as a pupil of Brent’s secondary school in the early 1980s: "
 }, 
 {"id": 49,
   "title": "26.6.1987: Exam Results for 7am ",
@@ -483,9 +485,8 @@
   "TranscriptImages": 
     [{ "image": "images/Education/26.6.87 Inner London Education Authority study - page 1.jpg"},
     { "image": "images/Education/26.6.87 Inner London Education Authority study - page 2.jpg"}
-   ],
-   "audiofile": "audio/education/Clapping back - Brent Council - 15.3.24.mp3",
-   "audiocontent": "Clapback Podcast"
+], 
+"content":""
 },
 
 {"id": 50,
@@ -671,7 +672,9 @@
       { "image": "images/Police/6.6.1959 Cochrane funeral - page 1.jpg" },
       { "image": "images/Police/6.6.1959 Cochrane funeral - page 2.jpg" }
     ],
-  "content": "This report is about the funeral of Kelso Cochrane and, as you can see in the original script, it is the last item in the bulletin, after Princess Margaret’s visit to Portugal. In his book <a href=\"https://www.penguin.co.uk/books/304774/african-and-caribbean-people-in-britain-by-adi-hakim/9781802060683\" target=\"_blank\">African and Caribbean People in Britain: A history, award-winning historian Hakim Adi </a>wrote that Kelso Cochrane’s funeral was a major political event, attended by thousands, including the Prime Minister of the West Indies Federation. (pp. 57-59) Do you come to the same conclusion when reading this report? <a href=\"https://www.youtube.com/watch?v=IfkInzCUz1c\" target=\"_blank\">You can watch the funeral, captured by British Pathè. </a>"
+  "content": "This report is about the funeral of Kelso Cochrane and, as you can see in the original script, it is the last item in the bulletin, after Princess Margaret’s visit to Portugal. In his book <a href=\"https://www.penguin.co.uk/books/304774/african-and-caribbean-people-in-britain-by-adi-hakim/9781802060683\" target=\"_blank\">African and Caribbean People in Britain: A history, award-winning historian Hakim Adi </a>wrote that Kelso Cochrane’s funeral was a major political event, attended by thousands, including the Prime Minister of the West Indies Federation. (pp. 57-59) Do you come to the same conclusion when reading this report? <a href=\"https://www.youtube.com/watch?v=IfkInzCUz1c\" target=\"_blank\">You can watch the funeral, captured by British Pathè. </a>",
+  "audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
+  "audiofile":"audio/Police/Cochrane's funeral - 15.3.2024 -Group 1.mp3"
 },
 
 {"id": 65,
@@ -687,6 +690,19 @@
     ],
   "content": "This report about the verdict returned at the inquest on the murder of Kelso Cochrane is one of the last items in the bulletin. Does the report offer any other viewpoints to contextualise and further interrogate the Coroner’s verdict that this crime did not have anything to do with racial trouble and that Cochrane’s attackers were only trying to steal money? And, how are we then to make sense of the report about the march against racial hatred that Cochrane’s murder sparked off a month earlier? (report of 7.6.1959)"
 },
+{"id": 655,
+  "title": "7.6.1959: Cochrane for 6pm ",
+  "theme": "Police",
+  "time": "6pm",
+  "date": "1959-07-06",
+  "TranscriptImages": 
+    [
+      { "image": "images/Police/7.6.1959 March against racial hatred.jpg" }
+    ],
+  "content": ""
+},
+
+
 
 {"id": 66,
   "title": "17.11.1971: Leeds Trial for 11.16 pm",
@@ -698,12 +714,12 @@
       { "image": "images/Police/17.11.1971 Oluwale trial - page 1.jpg" },
       { "image": "images/Police/17.11.1971 Oluwale trial - page 2.jpg" }
     ],
-  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale, calls the trial ‘the Nigerian vagrant’ trial, and David Oluwale is called a ‘Nigerian vagrant’ throughout the report. Is that label necessary or useful for viewers to understand what happened? A few years later, in 1979, the BBC News Guide specified that:We try to avoid giving needless offence, not least over matters of race. In certain circumstances it is wrong to identify a man as, say, a West Indian or a Pakistani when to do so may needlessly foster prejudice.Based on your experience of listening /watching BBC news, have the BBC been following that guidance?"
+  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale, calls the trial ‘the Nigerian vagrant’ trial, and David Oluwale is called a ‘Nigerian vagrant’ throughout the report. Is that label necessary or useful for viewers to understand what happened? A few years later, in 1979, the BBC News Guide specified that:<br><i>We try to avoid giving needless offence, not least over matters of race. In certain circumstances it is wrong to identify a man as, say, a West Indian or a Pakistani when to do so may needlessly foster prejudice.</i> <br>Based on your experience of listening /watching BBC news, have the BBC been following that guidance?"
 
 },
 
 {"id": 67,
-  "title": "Nigerian for 6pm",
+  "title": "23.11.1971: Nigerian for 6pm",
   "theme": "Police",
   "time": "6pm",
   "date": "1971-11-23",
@@ -713,24 +729,11 @@
     ],
   "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’.  How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?  "
 }, 
-
-{"id": 68,
-  "title": "Nigerian for 6pm",
-  "theme": "Police",
-  "time": "6pm",
-  "date": "1971-11-23",
-  "TranscriptImages": 
-    [
-      { "image": "images/Police/23.11.1971 Oluwale trial .jpg" }
-    ],
-  "content": "This report about the trial of a police sergeant and a former policeman, who were accused of assaulting David Oluwale calls the victim a ‘Nigerian immigrant’. The report also quotes the judge’s words who asked the jury ‘not to allow any feelings of nausea or outrage at the shocking conduct of Oluwale, a frightening apparition to come across at night’. How does quoting the judge’s words help listeners assess what happened and how David Oluwale lost his life? Does the report give any other context to help listeners understand what happened beyond what the judge said?"
-}, 
-
 {"id": 69,
-  "title": "Oluwale for 10pm",
+  "title": "24.11.1971 Oluwale for 10pm",
   "theme": "Police",
   "time": "10pm",
-  "date": "1971-11-23",
+  "date": "1971-11-24",
   "TranscriptImages": 
     [
       { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
@@ -739,10 +742,10 @@
 }, 
 
 {"id": 70,
-  "title": "Leeds for 1pm",
+  "title": "26.11.1971 Leeds for 1pm",
   "theme": "Police",
   "time": "10pm",
-  "date": "1971-11-23",
+  "date": "1971-11-26",
   "TranscriptImages": 
     [
       { "image": "images/Police/24.11.1971 Oluwale killing.jpg" }
@@ -1547,14 +1550,14 @@
       }, 
         {
           "id": 72,
-          "title": "Mangrove Nine",
+          "title": "28.1.1972 Mangrove Nine",
           "theme": "Police",
           "time": "no time",
           "date": "1972-1-28",
           "TranscriptImages": [
             { "image": "images/Police/28.1.1972 -Mangrone Nine.jpg" }
           ],
-          "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <a href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
+          "content": "This is the only report we found that has just a passing reference to the Mangrove Nine trial.  The trial is a piece of British history which only recently has been given wider visibility thanks to <a href='https://www.bfi.org.uk/sight-and-sound/reviews/mangrove-steve-mcqueen-small-axe-black-british-collective-struggle'> Steve McQueen’s episode ‘Mangrove’ in his acclaimed TV series Small Axe (BBC1, 2020)</a>. At the time of the trial in 1971, news media very much associated Black people with crime, violence and unrest. The nine Black British activists, who successfully represented themselves in court, defied all odds, with a win that marked the <a href='https://www.voice-online.co.uk/news/uk-news/2024/10/07/exclusive-darcus-howes-historic-mangrove-nine-trial-speech-unearthed-after-50-years/'> first judicial acknowledgement of racial prejudice in the Metropolitan police </a>. Their win would have defied racial bias in media too, and so the BBC seem to have conveniently ignored it. <br> More primary sources and context about the Mangrove Nine can be accessed via the <? href='https://www.nationalarchives.gov.uk/explore-the-collection/stories/mangrove-nine/'>National Archives collection<a/>. Find out here about the <a href='https://www.georgepadmoreinstitute.org/news-and-events/mangrove-nine-documentary-1973'>1973 Mangrove Nine documentary</a>. "
         },
         {
           "id": 73,
@@ -1612,7 +1615,7 @@
             { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 2.jpg" },
             { "image": "images/Police/20.5.1980 - debate on repealing sus law - page 3.jpg" }
           ],
-          "content": "The report says that the <a href='https://www.thetimes.com/uk/obituaries/article/john-clare-obituary-ln6dnhz2c'> BBC’s Community Relations correspondent John Clare </a> ‘explains how the sus law has been operating and sums up the arguments that have been used against it’. To what does <a href='https://irr.org.uk/article/fighting-sus-then-and-now/'> John Clare’s report explain the opposition to the sus law </a>? Is there any mention of the widespread campaigns by a broad coalition of black groups and lawyers at the time, asking to repeal this law?"
+          "content": "The report says that the <a href='https://www.thetimes.com/uk/obituaries/article/john-clare-obituary-ln6dnhz2c'> BBC’s Community Relations correspondent John Clare </a> ‘explains how the sus law has been operating and sums up the arguments that have been used against it’. To what does John Clare’s report explain the opposition to the sus law?<a href='https://irr.org.uk/article/fighting-sus-then-and-now/'>  Is there any mention of the widespread campaigns </a>by a broad coalition of black groups and lawyers at the time, asking to repeal this law?"
         },
         {
           "id": 78,
@@ -1644,10 +1647,10 @@
           "time": "midnight",
           "date": "1993-12-21",
           "TranscriptImages": [
-            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 1.jpg" },
-            { "image": "Police/21.12.1993 Stephen Lawrence inquest - page 2.jpg" }
+            { "image": "images/Police/21.12.1993 Stephen Lawrence inquest - page 1.jpg" },
+            { "image": "images/Police/21.12.1993 Stephen Lawrence inquest - page 2.jpg" }
           ],
-          "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read here about that meeting. "
+          "content": "This report about the inquest into the <a href='https://stephenlawrenceday.org/stephens-story/'>death of Stephen Lawrence </a> describes what happened as ‘an apparently racial attack’. By the time this report came out – which is several months after Lawrence’s murder - BBC journalists should have been able to access a wealth of information and resources about the circumstances under which Lawrence was killed to give a more accurate description of the nature of the attack. It is worth noting that on 6 May 1993 Nelson Mandela at his own request, met with Stephen Lawrence’s parents, Doreen and Neville. Read <a href='https://actsa.org/stephen-lawrence-day-mandela-and-racism-in-the-uk/'>here</a> about that meeting. "
         }
 
 
