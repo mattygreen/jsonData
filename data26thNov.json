@@ -8,13 +8,13 @@
       "TranscriptImages": [
         { "image": "images/anti-racism/11.8.77_Anti-racist_march.jpg", "description": "This image shows the march", "alt": "This image talks about the march" }
       ],
-      "content": "This seems to be the first time the word ‘anti-racist’ is reported on this BBC radio service (Radio 4).  Why do you think it is only in 1977 that this word is used on one of the most popular radio news bulletins in the country? And what do you think of this word being used in connection with the National Front?"
+      "content": "This seems to be the first time the word ‘anti-racist’ is used on this BBC radio service (Radio 4).  Why do you think it is only in 1977 that this word is used on one of the most popular radio news bulletins in the country? And what do you think about the way the word ‘anti-racist’ is used in this report? "
     },
     {
       "id": 3,
       "title": "10.07.1964, Home Service",
       "theme": "anti-racism",
-      "date": "1965-7-10",
+      "date": "1964-7-10",
       "TranscriptImages": [
         { "image": "images/anti-racism/10.7.64_Malcolm_X.jpg", "description": "Description 1", "alt":"Malcolm X" }
       ],
@@ -30,8 +30,23 @@
         { "image": "images/anti-racism/14.2.65_Malcolm_X_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
         { "image": "images/anti-racism/14.2.65_Malcolm_X_page_2.jpg", "description": "Description 2" }
       ],
-      "content": "In the section about the use of language of the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation:  Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval) And yet in the context of 1960s Black activism the word is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure."
+      "content": "In the section about the use of language, the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word ‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation: <i>Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval)</i>. <br>And yet in the context of 1960s Black activism the word is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure. "
     },
+
+    {
+      "id": 555,
+      "title": "18.02.1965: Parliament  - Malcolm X for 6pm and 8.30pm ",
+      "theme": "anti-racism",
+      "time": "10pm",
+      "date": "1965-02-18",
+      "TranscriptImages": [
+        { "image": "images/anti-racism/18.2.65_Malcom_X.jpg", "description": "Description 1" }
+      ],
+      "content": "",
+      "audiofile":"Final Project/audio/anti-racism/Clapping Back - Malcolm X - 15.3.24.mp3",
+      "audiocontent":"Listen to our podcast contributors discussing this report:"
+    },
+
     {
       "id": 5,
       "title": "21.2.65 Malcolm X for  11pm",
@@ -43,7 +58,7 @@
         { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page_2.jpg", "description": "Description 2" },
         { "image": "images/anti-racism/21.2.65_Malcolm_X_obit_page 3.jpg", "description": "Description 3" }
       ],
-      "content": "The 1967 BBC News Style Guide notes this about obituaries:The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. o you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+      "content": "The 1967 BBC News Style Guide notes this about obituaries: <br><i>The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. </i> Do you think this report on the death of Malcom X meets BBC’s standards, as described here?"
     },
     {
       "id": 6,
@@ -64,7 +79,7 @@
       "TranscriptImages": [
         { "image": "images/anti-racism/24.7.67_Carmichael.jpg"}
       ],
-      "content": "As you can see in this original news script, the title of this item is ‘Racialists’.‘Labelling’ news items has been useful for news organisation but it can also be revealing of BBC’s own views and bias. In this case, R4 has classified both Stokely Carmichael and Michael de Freitas as ‘racialists’. They have also chosen to follow this report with a news item about race riots in Detroit.How do you think these editorial decisions shape the focus and tone of the news script?"
+      "content": " As you can see in this original news script, the title of this item is ‘Racialists’.  <br> ‘Labelling’ news items may be useful for news organisation but it can also be revealing of BBC’s own views and bias. In this case, R4 has classified both Stokely Carmichael and Michael de Freitas as ‘racialists’. They have also chosen to follow this report with a news item about race riots in Detroit. <br> How do you think these editorial decisions shape the focus and tone of the news script? "
     }, 
     {
       "id": 8,
@@ -75,7 +90,9 @@
       "TranscriptImages": [
         { "image": "images/anti-racism/11.8.67_Freitas'_arrest.jpg"}
       ],
-      "content": "Why do you think the last sentence of this news script has been crossed out?"
+      "content": "Why do you think the last sentence of this news script has been crossed out?",
+      "audiofile":"Final Project/audio/anti-racism/Clapping Back - Michael de Frietas' arrest - 23.2.24.mp3",
+      "audiocontent":"Listen to our podcast contributors discussing this report: "
     }, 
     {
       "id": 9,
@@ -87,7 +104,7 @@
         { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_1.jpg"},
         { "image": "images/anti-racism/20.8.67_Civil_Rights_Demo_Rap_Brown_page_2.jpg"}
       ],
-      "content": "The 1967 BBC News Style Guide includes no guidance on the use of the word ‘negro’. Based on our research, the word is hardly used around this time on R4, and when it is, it is in reference to a US news story, like in this script. How do you think this report may have sounded to Black listeners in the UK at the time?  t?"
+      "content": "The 1967 BBC News Style Guide includes no guidance on the use of the word ‘negro’. Based on our research, the word is hardly used around this time on R4, and when it is, it is in reference to a US news story, like in this script.<br>How do you think this report may have sounded to Black listeners in the UK at the time? "
     },
   {
     "id": 11,
@@ -99,7 +116,7 @@
       { "image": "images/anti-racism/3.12.67_CARD_conference_page 1.jpg"},
       { "image": "images/anti-racism/3.12.67_CARD_conference_page_2.jpg"}
     ],
-    "content": "This is a dense article about the divisions within the Campaign Against Racial Discrimination (CARD). Read about the birth of CARD in this 1964 newspaper article. How impartial, do you think, the reporting on this division is? Does it suffice to identify Dr. David Pitt in principally ethnic terms? Does the article offer a fair representation of the views of the two key figures in this dispute, Mr Anthony Lester and Dr. David Pitt?"
+    "content": "This is a dense report about the divisions within the Campaign Against Racial Discrimination (CARD). Read about the birth of CARD in <a href='https://www.newspapers.com/article/the-observer/47581235/'>this 1964 newspaper article</a>. <br>How impartial, do you think, the reporting on the divisions within CARD is? Does it suffice to identify Dr. David Pitt in principally ethnic terms? Does the report  offer a fair representation of the views of the two key figures in this dispute, <a href='https://www.theguardian.com/politics/2020/aug/11/lord-lester-of-herne-hill-obituary'>Mr Anthony Lester </a>and <a href='https://www.youtube.com/watch?v=C_qQQUUrZvw'>Dr. David Pitt?</a> "
   },
   {
     "id": 12,
@@ -109,7 +126,8 @@
     "date": "1969-09-11",
     "TranscriptImages": [
       { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
-    ]
+    ], 
+    "content":"Browse and read several other news scripts in this collection about Black Power figures from this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
   },
   {
     "id": 13,
@@ -118,9 +136,11 @@
     "time": "10pm",
     "date": "1969-09-12",
     "TranscriptImages": [
-      { "image": "images/anti-racism/11.9.69_R.Williams.jpg"}
-    ]
+      { "image": "images/anti-racism/12.9.69_R.Williams'_arrest.jpg"}
+    ], 
+    "content":"Browse and read several other news scripts in this collection about Black Power figures from this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
   },
+
   {
     "id": 14,
     "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
@@ -128,11 +148,12 @@
     "time": "10pm",
     "date": "1970-04-18",
     "TranscriptImages": [
-      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_1.jpg"},
-      { "image": "images/anti-racism/18.4.70_Malik_in_court_page_2.jpg"}
+      { "image": "images/anti-racism/30.10.69_Bobby_Seale.jpg"}
+
     ],
-    "content": "Why do you think this story is newsworthy? And what do the court details given serve? Browse and read several other news scripts here about Black Power figures from around this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for?"
+    "content": "Browse and read several other news scripts in this collection about Black Power figures from this period (1967-70). Apart from the emphasis on crime, police involvement and arrests, what other information is given about these Black Power figures and what they stand for? "
   },
+
   {
     "id": 15,
     "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
@@ -188,9 +209,22 @@
     "TranscriptImages": [
       {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
     ],
-    "content": "why is this newsworthy?"
+    "content": "<strong>Content Warning: this report contains racist language. </strong> R4 still uses the word ’negro’ in 1975. Also, how necessary is it to mention the race of the person Michael X was convicted of killing?"
   }, 
 
+  {
+    "id": 201,
+    "title": "16.5.1975 Malik for 6:00pm",
+    "theme": "anti-racism",
+    "time": "6pm",
+    "date": "1975-05-16",
+    "TranscriptImages": [
+      {"image":"images/anti-racism/16.5.75_Michael_X's_death.jpg"}
+    ],
+    "content": "<strong>Content Warning: this report contains racist language. </strong> R4 still uses the word ’negro’ in 1975. Also, how necessary is it to mention the race of the person Michael X was convicted of killing?"
+  }, 
+
+  
 
 
   { "id": 21, "title": "1945", "theme": "labels", "date": "1945-01-01" },
@@ -205,7 +239,52 @@
   { "id": 30, "title": "1990", "theme": "labels", "date": "1990-01-01" },
 
 
-
+  {
+    "id": 440,
+    "title": "New Cross Fire March",
+    "theme": "anti-racism",
+    "time": "",
+    "date": "1981-01-18",
+    "TranscriptImages": [
+        { "image": "images/anti-racism/2.3.81_New_Cross_fire_march_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }, 
+        { "image": "images/anti-racism/2.3.81_New_Cross_fire_march_page_2.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
+        { "image": "images/anti-racism/2.3.81_New_Cross_fire_march_page_3.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }
+    ],
+    "content": "These news scripts are about the New Cross house fire in 1981 that cost the lives of 13 young people. The 1967 BBC News Guide noted the following with reference to what they described as “accidents in which people are killed and maimed, lives blighted, cherished hopes dashed”: <br><i>We should never give the impression that we are using the occasion of an accident involving loss of life as an opportunity to display our virtuosity as descriptive writers. It is easy to look at, say, a pit disaster as a challenge to our skill in the use of words, and forget that it is also the occasion of sorrow and suffering in countless homes. We should never lay ourselves open to the charge of being heartless or unfeeling. </i><br>Considering the BBC’s own guidance, what do you think of the reporting of the 1981 New Cross house fire? You can also hear some of our podcast participants' responses to R4’s reporting.",
+    "audiofile": "Final Project/audio/anti-racism/Clapping Back  - New Cross Fire March  -23.2.24.mp3",
+    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:"
+  },
+  {
+    "id": 441,
+    "title": "21.4.81: FIRE INQUEST for 1pm  ",
+    "theme": "anti-racism",
+    "time": "",
+    "date": "1981-4-21",
+    "TranscriptImages": [
+        { "image": "images/anti-racism/21.4.81_New_Cross_fire_inquest_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }, 
+        { "image": "images/anti-racism/21.4.81_New_Cross_fire_inquest_page_2.jpg", "description": "This image shows  1", "alt": "alt text for image 1" },
+        { "image": "images/anti-racism/21.4.81_New_Cross_fire_inquest_page_3.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }
+    ],
+    "content": "",
+    "audiofile": "audio/anti-racism/Clapping Back- New Cross Fire Inquest -23.2.24.mp3",
+    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:"
+  },
+  
+  {
+    "id": 442,
+    "title": " 17.1.1982: Deptford for 10pm",
+    "theme": "anti-racism",
+    "time": "10pm",
+    "date": "1982-1-17",
+    "TranscriptImages": [
+        { "image": "images/anti-racism/17.1.82_New_Cross_memorial_service_page_1.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }, 
+        { "image": "images/anti-racism/17.1.82_New_Cross_memorial_service_page_2.jpg", "description": "This image shows  1", "alt": "alt text for image 1" }
+    ],
+    "content": "",
+    "audiofile": "audio/anti-racism/Clapping Back - Rob Ruddock on the New Cross fire.mp3",
+    "audiocontent": "Listen to Robert Ruddock, who lost two family members in the fire, discussing his experience and the media reporting on this tragedy."
+  },
+  
 
   {
     "id": 34,
@@ -701,7 +780,7 @@
     "time": "10 and 10.30pm",
     "date": "1961-07-28",
     "TranscriptImages": [{ "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg" }],
-    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, <Northern href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006> create a free account with the British Newspaper Archive</a>). How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
+    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, <Northern href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006> create a free account with the British Newspaper Archive</a>). How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'>Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
   },
   {
     "id": 1006,
@@ -720,10 +799,10 @@
     "time": "6 and 8.30pm",
     "date": "1963-05-04",
     "TranscriptImages": [{ "image": "images/Racial Discrimination/4.5.1963 Bristol colour bar and bus boycott - page 1.jpg" }, 
-  {"image": "images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 2.jpg}"}, 
+  {"image": "images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 2.jpg"}, 
 {"image":"images/Racial Discrimination/4.5.1963 Bristol colour bar abd bus boycott - page 3.jpg"}],
 "audiofile":"audio/racial_discrimination/On the 1963 Bristol Bus Boycott - 15.3.24 - Group 3.mp3",
-"audiocontent":"Clapback Podcast",
+"audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
 "content": "You can read more about the 1963 Bristol bus boycott <a href='https://collections.bristolmuseums.org.uk/stories/bristols-black-history/bristol-bus-boycott'> here </a> and about the civil rights campaigner Paul Stephenson <a href='https://www.blackhistorymonth.org.uk/article/section/campaigners-and-activists/paul-stephenson-the-quiet-revolutionary/'> here</a>."
   },
   {
@@ -796,8 +875,10 @@
     "theme": "Racial Discrimination",
     "time": "6pm",
     "date": "1968-04-28",
-    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" }],
-    "content": "How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in this open access publication by the Institute of Race Relations. This report is followed by news of a march to protest against Enoch Powell’s Rivers of Blood speech. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?"
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" },
+    { "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 1.jpg" },
+    { "image": "images/Racial Discrimination/28.4.1968 Black People's Alliance - page 2.jpg" }],
+    "content": " How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in <a href='https://irr.org.uk/app/uploads/2018/04/From-Resistance-to-Rebellion.pdf'>this open access publication by the Institute of Race Relations</a>. <br>This report is followed by news of a march to protest against <a href='https://anth1001.wordpress.com/wp-content/uploads/2014/04/enoch-powell_speech.pdf'>Enoch Powell’s Rivers of Blood speech</a>. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?<br>You can find more context and primary sources about Enoch Powell’s speech<a href='https://warwick.ac.uk/services/library/mrc/studying/docs/racism/powell/'> here</a>. <br>These two news items are followed by a short report on a statement by the Minister of Immigration. How does this correspond with the previous two reports?  "
   },
   {
     "id": 1015,
@@ -805,13 +886,12 @@
     "theme": "Racial Discrimination",
     "time": "11.16pm",
     "date": "1971-09-08",
-    "TranscriptImages": [{ "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 1.jpg"}, 
-    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 2.jpg"}, 
-    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 3.jpg"}, 
-    { "image": "images/Racial Discrimination/16.2.1971 Powell speech and reaction - page 4.jpg"}
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/8.9.1971 Powell's speech at Smethwick -page 1.jpg"}, 
+    { "image": "images/Racial Discrimination/8.9.1971 Powell's speech at Smethwick -page 2.jpg"}, 
+    { "image": "images/Racial Discrimination/8.9.1971 Powell's speech at Smethwick -page 3.jpg"}
 
   ],
-    "content": "How balanced is this report on Enoch Powell’s speech at Smethwick?"
+    "content": " <strong>Content warning: this report contains racist language </strong>  How balanced is this report on Enoch Powell’s speech at Smethwick? Are other perspectives and viewpoints presented? ?"
   },
   {
     "id": 1016,
@@ -819,7 +899,9 @@
     "theme": "Racial Discrimination",
     "time": "7,8 and 9am",
     "date": "1976-05-15",
-    "TranscriptImages": [{ "image": "images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 1.jpg" }],
+    "TranscriptImages": [{ "image": "images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 1.jpg"}, 
+  {"image": "images/Racial Discrimination/15.5.1976 NF protest in Birmingham - page 2.jpg"}
+  ],
     "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
     "audiofile":"audio/racial_discrimination/On the NF protest - 15.3.24 Group 1.mp3"
 
@@ -841,6 +923,7 @@
     "time": "10pm",
     "date": "1971-12-09",
     "TranscriptImages": [{ "image": "images/Historical_figures/9.12.1971 Dr Bunche.jpg" }],
+    "audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
     "audiofile":"audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
     "audiofile2":"audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
   },
@@ -850,7 +933,9 @@
     "theme": "Historical Figures",
     "time": "10.30pm",
     "date": "1985-09-17",
-    "TranscriptImages": [{ "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg" }]
+    "TranscriptImages": [{ "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg" }], 
+    "audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
+    "audiofile":"audio/Historical_figures/On Bill Morris - 15.3.24 - Group 3.mp3"
   },
   {
     "id": 1020,
@@ -859,6 +944,7 @@
     "time": "10pm",
     "date": "1985-12-08",
     "TranscriptImages": [{ "image": "images/Historical_figures/8.12.1985 DIane Abbott's first election.jpg" }],
+    "audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
     "audiofile":"audio/Historical_figures/On Diane Abbott - 15.3.24 - Group 2.mp3",
     "audiofile2":"audio/Historical_figures/On D. Abbott - 23.02.24 - Group 3.mp3"
   },
@@ -870,7 +956,7 @@
     "time": "6pm",
     "date": "1960-10-30",
     "TranscriptImages": [{ "image": "images/Arts/30.10.1960 Rastafari.jpg" }],
-    "content":"This is the only mention of Rastafari we found on the Home Service/R4 during the post WWII period and until the late 1980s. What is Rastafari associated with in this report? How could have this report limited and distorted listeners’ understanding of what Rastafari represents and means? You can find out about the history of Rastafari and its socio-cultural significance <a href='https://www.blackhistorymonth.org.uk/article/section/real-stories/rastafari-culture/'>here.</a> "
+    "content":"<strong>Content Warning: this report contains racist language </strong><br>This is the only mention of Rastafari we found on the Home Service/R4 during the post WWII period and until the late 1980s. What is Rastafari associated with in this report? How could have this report limited and distorted listeners’ understanding of what Rastafari represents and means? You can find out about the history of Rastafari and its socio-cultural significance <a href='https://www.blackhistorymonth.org.uk/article/section/real-stories/rastafari-culture/'>here.</a> "
   },
   {
     "id": 1022,
@@ -878,9 +964,8 @@
     "theme": "Arts",
     "time": "7,8, and 9am",
     "date": "1976-09-08",
-    "TranscriptImages": [{ "image": "images/Arts/1.9.1976 Notting Hill Carnival.jpg"}, 
-    { "image": "images/Arts/8.9.1976 Notting Hill Carnival.jpg"}
-  ]
+    "TranscriptImages": [{ "image": "images/Arts/1.9.1976 Notting Hill Carnival.jpg"}],
+    "content": ""
   },
   {
     "id": 1023,
@@ -888,7 +973,7 @@
     "theme": "Arts",
     "time": "6pm",
     "date": "1977-08-28",
-    "TranscriptImages": [{ "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 1.jpg/" }, 
+    "TranscriptImages": [{ "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 1.jpg" }, 
   { "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 2.jpg" }]
   },
   {
@@ -898,7 +983,9 @@
     "time": "10pm",
     "date": "1979-08-26",
     "TranscriptImages": [{ "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 1.jpg" },
-    { "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg" }]
+    { "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg" }], 
+    "content":"",
+    "audiofile":"audio/Arts/On Notting Hill Carnival - report 1979 [15.3.24 - Group 1].mp3"
 
   },
   {
@@ -909,7 +996,8 @@
     "date": "1982-08-30",
     "TranscriptImages": [{ "image": "images/Arts/30.8.1982 Notting Hill carnival - page 1.jpg"},
     { "image": "images/Arts/30.8.1982 Notting Hill carnival - page 2.jpg"}
-  ]
+  ],
+  "content":""
   },
   {
     "id": 1026,
@@ -918,8 +1006,9 @@
     "time": "midnight",
     "date": "1984-08-27",
     "TranscriptImages": [{ "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 1.jpg" }, 
-    { "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 2.jpg" }
-  ]
+    { "image": "images/Arts/27.8.1984 Notting Hill Carnival - page 2.jpg" }],
+    "content":""
+
   },
   {
     "id": 1027,
@@ -927,8 +1016,10 @@
     "theme": "Arts",
     "time": "9am",
     "date": "1988-08-29",
-    "TranscriptImages": [{ "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 1.jpg"}],
-    "content": " <a href='https://windrush70.co.uk/alex-pascall'> This </a> report mentions Alex Pascall, a pioneering broadcaster who hosted the first radio show considered the voice of the Black community in the 1970s."
+    "TranscriptImages": [{ "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 1.jpg"},
+    { "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 2.jpg"}
+  ],
+    "content": " <a href='https://windrush70.co.uk/alex-pascall'> This report mentions Alex Pascall </a> , a pioneering broadcaster who hosted the first radio show considered the voice of the Black community in the 1970s. <br> Listen to <a href='https://blackwallst.media/celebrating-an-icon-alex-pascalls-legacy/>Alex Pascall talking about his radio show"
   },
   {
     "id": 1028,
@@ -937,8 +1028,12 @@
     "time": "midnight",
     "date": "1994-08-29",
     "TranscriptImages": [{ "image": "images/Arts/29.8.1994 Notting Hill Carnival  - page 1.jpg" }, 
-  {"image": "Final Project/images/Arts/29.8.1994 Notting Hill Carnival  - page 2.jpg"}]
+  {"image": "images/Arts/29.8.1994 Notting Hill Carnival  - page 2.jpg"}],
+  "content":"", 
+  "audiocontent":"Listen to our podcast contributors discussing and giving context for this report:",
+"audiofile":"audio/Arts/On Notting Hill Carnival - 23.02.24 - Group 3.mp3"
   }, 
+
   {
     "id": 1029,
     "title": "3.8.1948: Liverpool riots for 9 and 10pm",
