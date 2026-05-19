@@ -143,7 +143,7 @@
   },
   {
     "id": 11,
-    "title": "3.12.1967 Card Conference",
+    "title": "3.12.1967 CARD Conference",
     "theme": "anti-racism",
     "time": "10pm",
     "date": "1967-12-03",
@@ -185,10 +185,10 @@
   },
   {
     "id": 14,
-    "title": "18.4.70. CUE: MALIK for 11.30 p.m. ",
+    "title": "30.10.1969: BLACK POWER for 7,8,9 am  ",
     "theme": "anti-racism",
     "time": "10pm",
-    "date": "1970-04-18",
+    "date": "1969-10-30",
     "TranscriptImages": [
       {
         "image": "images/anti-racism/30.10.69_Bobby_Seale.jpg"
@@ -427,7 +427,7 @@
         "image": "images/arrivals/10.1.48_British migrants_in_Australia.jpg"
       }
     ],
-    "content": "Who does the report seem to lay the blame of the problem of the ‘homeless British migrant family’ on? The British, or Australian authorities? Or, the migrants themselves? The report notes that ‘there were British families who sold their homes to raise the fare to Australia...’ highlighting the sacrifices these migrants make."
+    "content": "Who does the report seem to blame for the problem of the ‘homeless British migrant family’? The British, or Australian authorities?  Or, the migrants themselves? The report notes that ‘there were British families who sold their homes to raise the fare to Australia...’ highlighting the sacrifices these migrants make."
   },
   {
     "id": 35,
@@ -463,7 +463,7 @@
     "date": "1948-05-27",
     "TranscriptImages": [
       {
-        "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"
+        "image": "images/arrivals/27.5.48_British_emigration_to Commonwealth_ page_1.jpg"
       },
       {
         "image": "images/arrivals/27.5.48 British_emigration_to Commonwealth_page_2.jpg"
@@ -471,6 +471,45 @@
     ],
     "content": "This is a report on the Parliamentary debate about British people migrating to different parts of the Commonwealth (the Dominions:   Australia, Canada, New Zealand, British South Africa). The focus of the report on ‘highly skilled technicians’ and the ‘possibilities of development in Africa’ contrasts sharply with other contemporaneous reports in which immigration into Britain is seen as a threat and a burden."
   },
+  {
+    "id": 371,
+    "title": "4.2.1949: Jamaica – economic conditions",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1949-02-04",
+    "TranscriptImages": [
+      {"image": "images/arrivals/4.2.1949 Jamaica - economic conditions - page 1.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page2.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 3.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 4.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 5.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 6.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 7.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 8.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 9.jpg"},
+       { "image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 10.jpg"},
+       {"image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 11.jpg"},
+       {"image":"images/arrivals/4.2.1949 Jamaica - economic conditions - page 12.jpg"}
+
+    ],
+    "content": "To get more of a sense of the broader colonial context, and of how British politicians spoke about the empire, here’s a report on the parliamentary debate on the political and economic conditions in the West Indies. How is the relationship between Britain and its colonies presented in this report? "
+  },
+
+  {
+    "id": 372,
+    "title": "3.2.1949 Carribean Sugar",
+    "theme": "arrivals",
+    "time": "10.15 am",
+    "date": "1949-02-03",
+    "TranscriptImages": [
+      {
+        "image": "images/arrivals/3.2.1949 Caribbean sugar .jpg"
+      }
+
+    ],
+    "content": "For more context when reading this collection’s news reports, here’s a news item about the shipment of Caribbean sugar to London, which, unlike British subjects migrating to England from the same region, is ‘welcomed’ as it ‘would be used for the domestic ration, and for jams, sweets and biscuits."
+  },
+
   {
     "id": 370,
     "title": "  22.6. 1948: Here to work for 8 & 9am   ",
@@ -629,7 +668,7 @@
         "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"
       }
     ],
-    "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British?In 1983, the BBC News Radio Style Guide advised that: <br><i> There is little that will more readily give offence than inaccurate or insensitive reporting of racial affairs. The words we use, and when we use them, are particularly important. We used to talk about ‘coloured immigrants’ in Britain; nowadays ‘immigrants’ may be inappropriate and ‘coloured’ is unacceptable. Many people whose parents or grandparents came here from overseas have themselves been born here and, so are not ‘immigrants’. And ‘coloured’ is now deeply offensive to some people. If those concerned are ‘Black’ or ‘Asian’, and it is relevant to say so, then they are the best words to use. </i><br> Do you think BBC’ reporting has been following that guidance?"
+    "content": "This news item equates ‘immigrant children’ with ‘black children’. Who are these black children supposed to be? And isn’t the majority of these children British?In 1983, the BBC News Radio Style Guide advised that: <br><i> There is little that will more readily give offence than inaccurate or insensitive reporting of racial affairs. The words we use, and when we use them, are particularly important. We used to talk about ‘coloured immigrants’ in Britain; nowadays ‘immigrants’ may be inappropriate and ‘coloured’ is unacceptable. Many people whose parents or grandparents came here from overseas have themselves been born here and, so are not ‘immigrants’. And ‘coloured’ is now deeply offensive to some people. If those concerned are ‘Black’ or ‘Asian’, and it is relevant to say so, then they are the best words to use. </i><br> Do you think BBC reporting has been following this guidance?"
   },
   {
     "id": 47,
@@ -642,7 +681,7 @@
         "image": "images/Education/17.6.81 Education for West Indian children - page 1.jpg"
       },
       {
-        "image": "images/Education/9.3.81 Immigrant Education - page 2.jpg"
+        "image": "images/Education/17.6.81 Education for West Indian children - page 2.jpg"
       }
     ],
     "audiofile": "audio/education/Clapping back - Black Pupils - 15.3.24.mp3",
@@ -663,7 +702,7 @@
         "image": "images/Education/24.10.86 Brent Council  - page 2.jpg"
       }
     ],
-    "audiofile": "audio/education/Clapping back - Black education - 19.4.24.mp3",
+    "audiofile": "audio/education/Clapping back - Brent Council - 15.3.24.mp3",
     "audiocontent": "Listen to Linett Kamala, artist and educator, discussing her own experience as a pupil of Brent’s secondary school in the early 1980s: "
   },
   {
@@ -875,7 +914,7 @@
   },
   {
     "id": 64,
-    "title": "6.6 Cochrane for 6pm",
+    "title": "6.6.1959 Cochrane for 6pm",
     "theme": "Police",
     "time": "6pm",
     "date": "1959-06-06",
@@ -973,7 +1012,7 @@
     "date": "1971-11-26",
     "TranscriptImages": [
       {
-        "image": "images/Police/24.11.1971 Oluwale killing.jpg"
+        "image": "images/Police/26.11.1971 call for police inquiry.jpg"
       }
     ],
     "content": "This report is about the Chief Constable of Leeds’ response to calls for a public inquiry into the Leeds police force in the aftermath of the two police officers’ conviction for assaulting David Oluwale. How balanced is the report? Does it include any viewpoints by those who are calling for a public inquiry?"
@@ -989,9 +1028,8 @@
         "image": "images/Racial Discrimination/12.2.1948 Northamptonshire mixed race marriage.jpg"
       }
     ],
-    "content": "",
     "audiofile": "audio/racial_discrimination/On mixed race relationships.mp3",
-    "audiocontent": "Content Warning: this report contains language you may find offensive. For more context, <a href='open access book about the history of mixed-race Britain in the twentieth century by Chamion Caballero and Peter J. Aspinall.>here is an open access book </a>about the history of mixed-race Britain in the twentieth century by Chamion Caballero and Peter J. Aspinall. Listen to our podcast contributor giving more context for this report by discussing their own lived experience:"
+    "content": "Content Warning: this report contains language you may find offensive. For more context, <a href='https://link.springer.com/content/pdf/10.1057/978-1-137-33928-7.pdf'>here </a> is an open access book about the history of mixed-race Britain in the twentieth century by Chamion Caballero and Peter J. Aspinall."
   },
   {
     "id": 1004,
@@ -1017,7 +1055,7 @@
         "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg"
       }
     ],
-    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, <Northern href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006> create a free account with the British Newspaper Archive</a>). How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'>Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
+    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, <a href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006> create a free account with the British Newspaper Archive</a>. How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
   },
   {
     "id": 1006,
@@ -1288,7 +1326,7 @@
     "date": "1976-09-08",
     "TranscriptImages": [
       {
-        "image": "images/Arts/1.9.1976 Notting Hill Carnival.jpg"
+        "image": "images/Arts/8.9.1976 Notting Hill Carnival.jpg"
       }
     ],
     "content": ""
@@ -1488,6 +1526,40 @@
     "date": "1958-11-20",
     "TranscriptImages": [
       {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 2.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 3.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 4.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 5.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 6.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 7.jpg"
+      },
+      {
+        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg"
+      }
+    ],
+    "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
+  },
+  {
+    "id": 1036,
+    "title": "6.12.1958: Yesterday in Parliament",
+    "theme": "Riots/Uprisings",
+    "time": "NO TIME",
+    "date": "1958-12-6",
+    "TranscriptImages": [
+      {
         "image": "images/Riots/6.12.1958 Parliament on distrurbances and immigration - page 1.jpg"
       },
       {
@@ -1510,40 +1582,6 @@
       },
       {
         "image": "images/Riots/6.12.1958 Parliament on distrurbances and immigration - page 8 jpg.jpg"
-      }
-    ],
-    "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
-  },
-  {
-    "id": 1036,
-    "title": "6.12.1958: Yesterday in Parliament",
-    "theme": "Riots/Uprisings",
-    "time": "NO TIME",
-    "date": "1958-12-6",
-    "TranscriptImages": [
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 1.jpg"
-      },
-      {
-        "image": "mages/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 3.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 4.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 5.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 6.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 7.jpg"
-      },
-      {
-        "image": "images/Riots/20.11.1958 Parliament on Notting Hill distrurbances  - page 8.jpg"
       }
     ],
     "content": "Following extensive media coverage of the 1958 Notting Hill and Nottingham riots, Parliament debated the question of immigration control from Britain’s ex and current (at the time) colonies. This report covers parts of this debate and is an example of BBC’s regular slot ‘Yesterday in Parliament’. The report offers an insight into the political debate on immigration but it is worth remembering that what’s reported is still the BBC’s selection of some of the views discussed in parliament. What are the key terms and language used in this Parliamentary debate to discuss ‘immigration controls’? How does this debate resonate with us today and with current political debates?"
@@ -1751,7 +1789,7 @@
         "image": "images/Riots/15.6.1981 Scarman enquiry - page 1.jpg"
       },
       {
-        "image": "images/Riots/22.8.1981 Scarman inquiry- page 2.jpg"
+        "image": "images/Riots/15.6.1981 Scarman enquiry - page 2.jpg"
       }
     ],
     "content": "How accurate is the correspondent’s report on the first hearing of the Scarman inquiry? What do you think of terms like black crowds?"
@@ -1953,7 +1991,7 @@
         "image": "images/Riots/22.8.1981 Scarman inquiry- page 1.jpg"
       },
       {
-        "image": "images/Riots/23.6.1981 Scarman inquiry page 2.jpg"
+        "image": "images/Riots/22.8.1981 Scarman inquiry- page 2.jpg"
       }
     ],
     "content": "Another report about evidence from the police federation for the Scarman inquiry. "
