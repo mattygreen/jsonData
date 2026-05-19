@@ -224,7 +224,7 @@ antiracism.addEventListener('click', (event) => {
 
 let sportsLink  =document.getElementById('section11') 
 sportsLink.addEventListener('click', (event) => { 
-    window.location.href='sports.html'; 
+    window.location.href='Sports.html'; 
 })
 
 /*
