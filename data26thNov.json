@@ -65,7 +65,7 @@
   },
   {
     "id": 5,
-    "title": "21.2.65 Malcolm X for  11pm",
+    "title": "21.2.65 Malcolm X for 11pm",
     "theme": "anti-racism",
     "time": "10pm",
     "date": "1965-02-21",
@@ -83,7 +83,7 @@
         "description": "Description 3"
       }
     ],
-    "content": "The 1967 BBC News Style Guide notes this about obituaries: <br><i>The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. </i> Do you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+    "content": "The 1967 BBC News Style Guide notes this about obituaries: <br><i>The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. </i> Do you think this report on the death of Malcolm X meets BBC’s standards, as described here?"
   },
   {
     "id": 6,
@@ -249,14 +249,14 @@
     "date": "1970-08-10",
     "TranscriptImages": [
       {
-        "image": "Final Project/images/anti-racism/10.8.70_Black_Power_Demo_court_case.jpg"
+        "image": "images/anti-racism/10.8.70_Black_Power_Demo_court_case.jpg"
       }
     ],
     "content": "This report is part of R4's two days of coverage (10-11 August 1970) on the arrests made at a Black Power demonstration in West London, the court case and the police report which followed. Whose perspective is given in these reports? And what is Black Power associated with?"
   },
   {
     "id": 1102,
-    "title": "  10.8.1970: BLACK POWER  for 6pm",
+    "title": "  10.8.1970: BLACK POWER for 6pm",
     "theme": "anti-racism",
     "time": "6pm",
     "date": "1970-08-10",
