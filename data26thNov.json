@@ -65,7 +65,7 @@
   },
   {
     "id": 5,
-    "title": "21.2.65 Malcolm X for  11pm",
+    "title": "21.2.65 Malcolm X for 11pm",
     "theme": "anti-racism",
     "time": "10pm",
     "date": "1965-02-21",
@@ -83,7 +83,7 @@
         "description": "Description 3"
       }
     ],
-    "content": "The 1967 BBC News Style Guide notes this about obituaries: <br><i>The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. </i> Do you think this report on the death of Malcom X meets BBC’s standards, as described here?"
+    "content": "The 1967 BBC News Style Guide notes this about obituaries: <br><i>The death of someone of national or local eminence often provides the first opportunity for us to give a coherent and connected account of his career, and to attempt an assessment of his contribution to society. While he is alive, we assume everyone knows; when he dies, we assume everyone is ignorant. </i> Do you think this report on the death of Malcolm X meets BBC’s standards, as described here?"
   },
   {
     "id": 6,
@@ -249,14 +249,14 @@
     "date": "1970-08-10",
     "TranscriptImages": [
       {
-        "image": "Final Project/images/anti-racism/10.8.70_Black_Power_Demo_court_case.jpg"
+        "image": "images/anti-racism/10.8.70_Black_Power_Demo_court_case.jpg"
       }
     ],
     "content": "This report is part of R4's two days of coverage (10-11 August 1970) on the arrests made at a Black Power demonstration in West London, the court case and the police report which followed. Whose perspective is given in these reports? And what is Black Power associated with?"
   },
   {
     "id": 1102,
-    "title": "  10.8.1970: BLACK POWER  for 6pm",
+    "title": "  10.8.1970: BLACK POWER for 6pm",
     "theme": "anti-racism",
     "time": "6pm",
     "date": "1970-08-10",
@@ -448,9 +448,7 @@
         "alt": "alt text for image 1"
       }
     ],
-    "content": "",
-    "audiofile": "audio/anti-racism/23.02.24 - Group 3.mp3",
-    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:"
+    "content": ""
   },
   {
     "id": 442,
@@ -605,8 +603,8 @@
       }
     ],
     "content": "Compare previous reports on British immigration to Australia and the Dominions with this report’s reference to '260 West Indians, most of them without definite jobs to go to.' ",
-    "audiocontent": "Clapback Podcast",
-    "audiofile":"audio/Arrivals/Liverpool Re-scripting Exercise.mp3"
+    "audiofile": "audio/education/Liverpool Re-scripting Exercise.mp3",
+    "audiocontent": "Listen to how pupils of the King’s Leadership Academy in Liverpool have re-written this report and why."
   },
   {
     "id": 40,
@@ -791,7 +789,20 @@
         "image": "images/sports/10.4.1960 Cricket Protest - South Africa.jpg"
       }
     ],
-    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report names a few public authority figures who signed the statement to protest against the South African cricket tour. Why are these individuals named and how do you think they represent this campaign? The leaflet below lists the fixtures in the South African Springbok cricket team’s 1960 tour of England. The leaflet asked people to protest to the South African Cricket Association at its selection of a whites-only team. There were protests at many of the games, including Sheffield, where activists planned to paint anti-apartheid slogans on the walls of the stadium.  "
+    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report names a few public authority figures who signed the statement to protest against the South African cricket tour. Why are these individuals named and how do you think they represent this campaign? The leaflet below lists the fixtures in the South African Springbok cricket team’s 1960 tour of England. The leaflet asked people to protest to the South African Cricket Association at its selection of a whites-only team. There were protests at many of the games, including Sheffield, where activists planned to paint anti-apartheid slogans on the walls of the stadium. <br> <a href='https://birkbeckuol-my.sharepoint.com/personal/e_liarou_bbk_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FSports%2F1960%20campaign%20against%20racial%20discrimination%20in%20sports%20leaflet%2Epdf&parent=%2Fpersonal%2Fe%5Fliarou%5Fbbk%5Fac%5Fuk%2FDocuments%2FBBC%20news%20archive%20project%2FProject%27s%20website%2FSports'>1960 campaign against racial discrimination in sports leaflet.pdf</a><br> And you can find more leaflets, posters, pictures about this topic here: <a href='https://www.aamarchives.org/campaigns/sport.html'>https://www.aamarchives.org/campaigns/sport.html</a>. "
+  },
+  {
+    "id": 511,
+    "title": "27.11.1969: Cricket for 10pm ",
+    "theme": "Sports",
+    "time": "10pm",
+    "date": "1969-11-27",
+    "TranscriptImages": [
+      {
+        "image": "images/sports/27.11.1969 - Stop the Seventy Tour.jpg"
+      }
+    ],
+    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report from 1969 is about the &lsquo;Stop the Seventy Tour&rsquo; which campaigned for the cancellation of the all-white Springbok cricket series in June 1970. How are the demonstrations by anti- apartheid groups described in this report? You may want to compare it to the BBC&apos;s reporting of anti-racist demonstrations covered in collections such as Relations with the Police.  "
   },
   {
     "id": 52,
@@ -819,20 +830,6 @@
     ],
     "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report is about the ‘outbreak of vandalism’ at several cricket grounds in a protest against the South African tour scheduled in the summer of 1970. What language is used to describe this protest and who is involved in it? You may want to compare it to the BBC’s reporting of anti-racist demonstrations covered in collections such as Relations with the Police."
   },
-
-  {
-    "id": 531,
-    "title": "27.11.1969: Cricket for 10pm    ",
-    "theme": "Sports",
-    "time": "6pm",
-    "date": "1969-11-27",
-    "TranscriptImages": [
-      {
-        "image": "images/sports/27.11.1969 - Stop the Seventy Tour.jpg"
-      }
-    ],
-    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report from 1969 is about the ‘Stop the Seventy Tour’ which campaigned for the cancellation of the all-white Springbok cricket series in June 1970. How are the demonstrations by anti- apartheid groups described in this report? You may want to compare it to the BBC’s reporting of anti-racist demonstrations covered in collections such as Relations with the Police.  "
-  },  
   {
     "id": 54,
     "title": "19.5.1970: Cricket for 6pm ",
@@ -841,10 +838,10 @@
     "date": "1970-05-19",
     "TranscriptImages": [
       {
-        "image": "images/sports/19.5.1970 Protest against South African tour- Reaction from Johannesburg  - page 1 .jpg"
+        "image": "images/sports/19.5.1970 Protest against South African tour- Reaction from Johannesburg - page 1.jpg"
       },
       {
-        "image": "images/sports/19.5.1970 Protest against South African tour- Reaction from Johannesburg  - page 2 .jpg"
+        "image": "images/sports/19.5.1970 Protest against South African tour- Reaction from Johannesburg - page 2.jpg"
       }
     ],
     "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report is about rumours that the South African Test Tour has been called off and reactions to this decision in Johannesburg, UK and beyond. Whose reactions does the report choose to highlight?"
@@ -860,7 +857,7 @@
         "image": "images/sports/2.10.1971 Anita Neil.jpg"
       }
     ],
-    "content": "We have selected this news report because it mentions <a href='https://www.teamgb.com/athlete/anita-neil/3AiXadTZ4YzuoSKCEQpHM0> Anita Neil</a> who is now widely regarded as a pioneer in the history of British Olympians, being the first female Black athlete to represent Great Britain. The report mentions a new world record established by the British Women’s Relay Test that included Anita Neil, Janet Roscoe, Helen Golden and Sharon Colyear. What do you think of the order of news items in this sports round-up? Why do you think a world record achievement is reported right at the end?"
+    "content": "We have selected this news report because it mentions Anita Neil who is <a href='https://www.teamgb.com/athlete/anita-neil/3AiXadTZ4YzuoSKCEQpHM0'>now widely regarded as a pioneer in the history of British Olympians, being the first female Black athlete to represent Great Britain</a>. The report mentions a new world record established by the British Women’s Relay Test that included Anita Neil, Janet Roscoe, Helen Golden and Sharon Colyear. What do you think of the order of news items in this sports round-up? Why do you think a world record achievement is reported right at the end?"
   },
   {
     "id": 56,
@@ -957,7 +954,7 @@
         "image": "images/sports/6.6. 1986 Bevan rugby.jpg"
       }
     ],
-    "content": "This news report is about the death of John Bevan, the former Welsh rugby international and national coach. We have selected this news item to highlight an absence: a year earlier, in 1985, Clive Sullivan, a Welsh rugby league footballer, died. Captaining for Great Britain in 1972, he is considered the first Black captain for Great Britain in any sport. And yet, we found no Radio 4 news item about his death or about any of his achievements. In 2023, the BBC broadcast <a href='https://www.bbc.co.uk/programmes/m001d3km>Clive Sullivan: Rugby League Legend </a>. You can read more about <a href='https://www.africansinyorkshireproject.com/clive-sullivan.html'>Sullivan’s life and career on African Stories </a> in Hull and East Yorkshire"
+    "content": "This news report is about the death of John Bevan, the former Welsh rugby international and national coach. We have selected this news item to highlight an absence: a year earlier, in 1985, Clive Sullivan, a Welsh rugby league footballer, died. Captaining for Great Britain in 1972, he is considered the first Black captain for Great Britain in any sport. And yet, we found no Radio 4 news item about his death or about any of his achievements. In 2023, the BBC broadcast <a href='https://www.bbc.co.uk/programmes/m001d3km'>Clive Sullivan: Rugby League Legend</a>. You can read more about Sullivan’s life and career on <a href='https://www.africansinyorkshireproject.com/clive-sullivan.html'>African Stories in Hull and East Yorkshire</a>."
   },
   {
     "id": 63,
@@ -1007,9 +1004,9 @@
         "image": "images/Police/5.8.1959 Cochrane verdict  - page 3.jpg"
       }
     ],
-    "content": "This report about the verdict returned at the inquest on the murder of Kelso Cochrane is one of the last items in the bulletin. Does the report offer any other viewpoints to contextualise and further interrogate the Coroner’s verdict that this crime did not have anything to do with racial trouble and that Cochrane’s attackers were only trying to steal money? And, how are we then to make sense of the report about the march against racial hatred that Cochrane’s murder sparked off a month earlier? (report of 7.6.1959)", 
-    "audiofile":"audio/Police/Cochranes inquest - 15.3.2024 -Group 1.mp3",
-    "audiocontent":"Listen to our podcast contributors giving context for this report"
+    "content": "This report about the verdict returned at the inquest on the murder of Kelso Cochrane is one of the last items in the bulletin. Does the report offer any other viewpoints to contextualise and further interrogate the Coroner’s verdict that this crime did not have anything to do with racial trouble and that Cochrane’s attackers were only trying to steal money? And, how are we then to make sense of the report about the march against racial hatred that Cochrane’s murder sparked off a month earlier? (report of 7.6.1959)",
+    "audiocontent": "Audio file: Listen to our podcast contributors giving context for this report:",
+    "audiofile": "audio/Police/Cochranes inquest - 15.3.2024 -Group 1.mp3"
   },
   {
     "id": 655,
@@ -1118,7 +1115,7 @@
         "image": "images/Racial Discrimination/28.7.1961 Colour bar rent strikes.jpg"
       }
     ],
-    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access the articles, create a free account with BBC radio archive.<a href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006'> create a free account with the British Newspaper Archive</a>. How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
+    "content": "How much context does this report give about the ‘colour-bar’ rents strike in Smethwick? Who was behind it? Who supported it and why?<br> Here is how local newspapers reported on the strike. (To access these materials please create a free account with<a href='https://www.britishnewspaperarchive.co.uk/viewer/bl/0002134/19610725/124/0006'> the British Newspaper Archive</a>. How do these reports compare with the BBC’s? <br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0000637%252f19610728%252f246%252f0020&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> Hartlepool Northern Daily Mail </a><br> <a href='https://www.britishnewspaperarchive.co.uk/account/register?countrykey=0&showgiftvoucherclaimingoptions=false&gift=false&nextpage=%2faccount%2flogin%3freturnurl%3d%252fviewer%252fbl%252f0002134%252f19610725%252f124%252f0006&rememberme=false&cookietracking=false&partnershipkey=0&newsletter=false&offers=false&registerreason=none&showsubscriptionoptions=false&showcouponmessaging=false&showfreetrialmessaging=false&showregisteroptions=false&showcaptchachallenge=false&showloginoptions=false&showcaptchaerrormessage=false&isonlyupgradeable=false'> Birmingham Daily Post</a><br> For more context:<br> <a href='https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf019/8222635'>This open access article </a>looks into housing and race politics in Britain from the late 1940s until the late 1970s. "
   },
   {
     "id": 1006,
@@ -1273,7 +1270,6 @@
       {
         "image": "images/Racial Discrimination/28.4.1968 Minister of Immigration statement.jpg"
       }
-
     ],
     "content": " How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in <a href='https://irr.org.uk/app/uploads/2018/04/From-Resistance-to-Rebellion.pdf'>this open access publication by the Institute of Race Relations</a>. <br>This report is followed by news of a march to protest against <a href='https://anth1001.wordpress.com/wp-content/uploads/2014/04/enoch-powell_speech.pdf'>Enoch Powell’s Rivers of Blood speech</a>. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?<br>You can find more context and primary sources about Enoch Powell’s speech<a href='https://warwick.ac.uk/services/library/mrc/studying/docs/racism/powell/'> here</a>. <br>These two news items are followed by a short report on a statement by the Minister of Immigration. How does this correspond with the previous two reports?  "
   },
@@ -1337,7 +1333,7 @@
         "image": "images/Historical_figures/9.12.1971 Dr Bunche.jpg"
       }
     ],
-    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
+    "audiocontent": "Audio file: Listen to our podcast contributors discussing Dr. R. Bunche&apos;s obituary:",
     "audiofile": "audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
     "audiofile2": "audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
   },
@@ -1352,7 +1348,7 @@
         "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg"
       }
     ],
-    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
+    "audiocontent": "Audio file: Listen to our podcast contributors giving more context about Bill Morris&apos;s work and career:",
     "audiofile": "audio/Historical_figures/On Bill Morris - 15.3.24 - Group 3.mp3"
   },
   {
@@ -1366,7 +1362,7 @@
         "image": "images/Historical_figures/8.12.1985 DIane Abbott's first election.jpg"
       }
     ],
-    "audiocontent": "Listen to our podcast contributors discussing and giving context for this report:",
+    "audiocontent": "Audio file: Listen to our podcast contributors discussing this report and giving more context about it:",
     "audiofile": "audio/Historical_figures/On Diane Abbott - 15.3.24 - Group 2.mp3",
     "audiofile2": "audio/Historical_figures/On D. Abbott - 23.02.24 - Group 3.mp3"
   },
@@ -1409,9 +1405,8 @@
       {
         "image": "images/Arts/28.8.1977 N. Hill Carnival and mention of reggae - page 2.jpg"
       }
-    ], 
-
-    "audiocontent":"Listen to our podcast contributors discussing this report: ",
+    ],
+    "content": "Audio file: Listen to our podcast contributers discussing this report",
     "audiofile":"audio/Arts/On Notting Hill Carnival - report 1977 [15.3.24 - Group 1].mp3"
   },
   {
@@ -1428,9 +1423,8 @@
         "image": "images/Arts/26.8.1979 Notting Hill Carnival  - page 2.jpg"
       }
     ],
-    "content": "",
-    "audiofile": "audio/Arts/On Notting Hill Carnival - report 1979 [15.3.24 - Group 1].mp3", 
-    "audiocontent":"Listen to our podcast contributors discussing this report and their own experiences of the carnival"
+    "content": "Audio file: Listen to our podcast contributors discussing this report and their own experiences of the carnival:",
+    "audiofile": "audio/Arts/On Notting Hill Carnival - report 1979 [15.3.24 - Group 1].mp3"
   },
   {
     "id": 1025,
@@ -1478,7 +1472,7 @@
         "image": "images/Arts/29.8.1988 Alex Pascall on N. Hill carnival - page 2.jpg"
       }
     ],
-    "content": " <a href='https://windrush70.co.uk/alex-pascall'> This report mentions Alex Pascall </a> , a pioneering broadcaster who hosted the first radio show considered the voice of the Black community in the 1970s. <br> Listen to Alex Pascall talking <a href='https://blackwallst.media/celebrating-an-icon-alex-pascalls-legacy/> about his radio show"
+    "content": "This report mentions Alex Pascall, a pioneering broadcaster who hosted the <a href='https://windrush70.co.uk/alex-pascall'>first radio show that was considered the voice of the Black community in the 1970s</a>. <br> Listen to Alex Pascall talking about his radio show <a href='https://blackwallst.media/celebrating-an-icon-alex-pascalls-legacy/>here</a>"
   },
   {
     "id": 1028,
