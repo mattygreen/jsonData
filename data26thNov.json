@@ -45,7 +45,7 @@
         "description": "Description 2"
       }
     ],
-    "content": "In the section about the use of language, the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word ‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation: <i>Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval)</i>. <br>In the context of BBC’s coverage of 1960s Black activism the word ‘militant’ is loaded.. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure. "
+    "content": "In the section about the use of language, the 1983 BBC Radio News Guide includes guidance on the use of specific words; the word ‘militant’ is highlighted alongside the word ‘moderate’ with the following explanation: <i>Moderate: Be careful that its use for political and trade union personalities does not imply approval (and that ‘militant’ does not suggest disapproval)</i>. <br>In the context of BBC’s coverage of 1960s Black activism the word ‘militant’ is loaded. The second page of the news report confirms the strongly negative connotations the word carried: Malcolm X is portrayed as a provocative, divisive figure. "
   },
   {
     "id": 555,
@@ -802,7 +802,7 @@
         "image": "images/sports/27.11.1969 - Stop the Seventy Tour.jpg"
       }
     ],
-    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report from 1969 is about the &lsquo;Stop the Seventy Tour&rsquo; which campaigned for the cancellation of the all-white Springbok cricket series in June 1970. How are the demonstrations by anti- apartheid groups described in this report? You may want to compare it to the BBC&apos;s reporting of anti-racist demonstrations covered in collections such as Relations with the Police.  "
+    "content": "Throughout the 1960s and early 1970s the Campaign Against Race Discrimination in Sports focused on racial discrimination practices in South African sports. BBC radio news covered the campaign extensively. This news report from 1969 is about the ‘Stop the Seventy Tour’ which campaigned for the cancellation of the all-white Springbok cricket series in June 1970. How are the demonstrations by anti- apartheid groups described in this report? You may want to compare it to the BBC’s reporting of anti-racist demonstrations covered in collections such as Relations with the Police.  "
   },
   {
     "id": 52,
@@ -1271,7 +1271,7 @@
         "image": "images/Racial Discrimination/28.4.1968 Minister of Immigration statement.jpg"
       }
     ],
-    "content": " How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in <a href='https://irr.org.uk/app/uploads/2018/04/From-Resistance-to-Rebellion.pdf'>this open access publication by the Institute of Race Relations</a>. <br>This report is followed by news of a march to protest against <a href='https://anth1001.wordpress.com/wp-content/uploads/2014/04/enoch-powell_speech.pdf'>Enoch Powell’s Rivers of Blood speech</a>. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?<br>You can find more context and primary sources about Enoch Powell’s speech<a href='https://warwick.ac.uk/services/library/mrc/studying/docs/racism/powell/'> here</a>. <br>These two news items are followed by a short report on a statement by the Minister of Immigration. How does this correspond with the previous two reports?  "
+    "content": " How is the Black People’s Alliance presented in this report? Can you identify words used here that might work to discredit it? You can read more about the Black People’s Alliance and other histories of anti-racist and anti-imperialist organisations in the UK in <a href='https://irr.org.uk/app/uploads/2018/04/From-Resistance-to-Rebellion.pdf'>this open access publication by the Institute of Race Relations</a>. <br>This report is followed by news of a march to protest against <a href='https://anth1001.wordpress.com/wp-content/uploads/2014/04/enoch-powell_speech.pdf'>Enoch Powell’s Rivers of Blood speech</a>. How does the BBC describe the demonstrators? And how much context is given about the reasons for organising this march?<br>You can find more context and primary sources about Enoch Powell’s speech<a href='https://warwick.ac.uk/services/library/mrc/studying/docs/racism/powell/'> here</a>. <br>These two news items are followed by a short report on a statement by the Minister of Immigration. How does this correspond with the previous two reports? <br> "
   },
   {
     "id": 1015,
@@ -1333,8 +1333,9 @@
         "image": "images/Historical_figures/9.12.1971 Dr Bunche.jpg"
       }
     ],
-    "audiocontent": "Audio file: Listen to our podcast contributors discussing Dr. R. Bunche&apos;s obituary:",
+    "audiocontent": "Audio file: Listen to our podcast contributors discussing Dr. R. Bunche’s obituary:",
     "audiofile": "audio/Historical_figures/On R. Bunche - 23.2.24 Group 2.mp3",
+    "audiocontent2": "",
     "audiofile2": "audio/Historical_figures/On R. Bunche - 15.3.24 - Group 3.mp3"
   },
   {
@@ -1348,7 +1349,7 @@
         "image": "images/Historical_figures/17.9.1985 Bill Morris.jpg"
       }
     ],
-    "audiocontent": "Audio file: Listen to our podcast contributors giving more context about Bill Morris&apos;s work and career:",
+    "audiocontent": "Audio file: Listen to our podcast contributors giving more context about Bill Morris’s work and career:",
     "audiofile": "audio/Historical_figures/On Bill Morris - 15.3.24 - Group 3.mp3"
   },
   {
